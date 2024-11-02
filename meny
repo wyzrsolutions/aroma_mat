@@ -332,33 +332,33 @@
       "rateing": 5,
       "visible": true
     },
-            {
-            "categori": "Öl",
-            "name": "Pilsner",
-            "price": 85.00,
-            "description": "En ljus och ren öl med en balanserad smak av malt och humle.",
-            "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/c5de05114510633.603cf714a9295.png",
-            "rating": 4,
-            "visible": true
-        },
-        {
-            "categori": "Öl",
-            "name": "Weissbier",
-            "price": 95.00,
-            "description": "En veteöl med fruktiga och kryddiga toner, perfekt för varma dagar.",
-            "image": "https://www.paulaner.com/content/1-our-products/1-weissbier/modules/1-product_intro-c8mu3l/20200218_sidebarimage-hwbn-1.jpg",
-            "rating": 4,
-            "visible": true
-        },
-        {
-            "categori": "Öl",
-            "name": "Porter",
-            "price": 100.00,
-            "description": "En mörk öl med djupa smaker av choklad och kaffe.",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrtRzlkde-9nEwO9pKPgE7qtocIeL2JsMZ3ELD2kaiLbLxwJ_I-RhG1US9Lp3etBm6sI&usqp=CAU",
-            "rating": 5,
-            "visible": true
-        },
+    {
+      "categori": "Öl",
+      "name": "Pilsner",
+      "price": 85.00,
+      "description": "En ljus och ren öl med en balanserad smak av malt och humle.",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/c5de05114510633.603cf714a9295.png",
+      "rating": 4,
+      "visible": true
+    },
+    {
+      "categori": "Öl",
+      "name": "Weissbier",
+      "price": 95.00,
+      "description": "En veteöl med fruktiga och kryddiga toner, perfekt för varma dagar.",
+      "image": "https://www.paulaner.com/content/1-our-products/1-weissbier/modules/1-product_intro-c8mu3l/20200218_sidebarimage-hwbn-1.jpg",
+      "rating": 4,
+      "visible": true
+    },
+    {
+      "categori": "Öl",
+      "name": "Porter",
+      "price": 100.00,
+      "description": "En mörk öl med djupa smaker av choklad och kaffe.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrtRzlkde-9nEwO9pKPgE7qtocIeL2JsMZ3ELD2kaiLbLxwJ_I-RhG1US9Lp3etBm6sI&usqp=CAU",
+      "rating": 5,
+      "visible": true
+    },
     {
       "categori": "Vin",
       "name": "Cabernet Sauvignon",
