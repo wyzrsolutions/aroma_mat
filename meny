@@ -1,5 +1,414 @@
 {
-    "name": "John Doe",
-    "age": 30,
-    "city": "Stockholm"
+  "guests": 10,
+  "days": {
+    "blockedDays": [], // Blockerade dagar (siffror mellan 0-6)
+    "count": 3 // Antal dagar
+  },
+  "time": {
+    "intervals": 30,
+    "days": [
+      { "day": "Mån", "start": 11, "end": 21 },
+      { "day": "Tis", "start": 11, "end": 21 },
+      { "day": "Ons", "start": 11, "end": 21 },
+      { "day": "Tors", "start": 11, "end": 21 },
+      { "day": "Fre", "start": 11, "end": 22 },
+      { "day": "Lör", "start": 12, "end": 22 },
+      { "day": "Sön", "start": 12, "end": 21 }
+    ]
+  }, 
+  "preOrder": [
+    { 
+      "categori": "Pizza", 
+      "name": "Margherita pizza", 
+      "price": 99.00, 
+      "description": "Tomatsås, mozzarella, basilika", 
+      "image": "https://www.zeta.nu/app/uploads/2016/12/Pizza-Margarita-1-768x1024.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pizza", 
+      "name": "Diavola", 
+      "price": 119.00, 
+      "description": "Tomatsås, mozzarella, stark salami", 
+      "image": "https://www.zeta.nu/app/uploads/2016/12/diavolo_li-1024x767.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pizza", 
+      "name": "Quattro Stagioni", 
+      "price": 129.00, 
+      "description": "Tomatsås, mozzarella, skinka, svamp, kronärtskocka, oliver", 
+      "image": "https://images.recept.se/images/recipes/pizza-fyra-arstider_3337.jpg?fit=crop&crop=focalpoint&auto=format&fp-x=0.4939076817556&fp-y=0.62221975263075&fp-z=1.0146130823917&w=600&h=600", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pizza", 
+      "name": "Prosciutto e Funghi", 
+      "price": 119.00, 
+      "description": "Tomatsås, mozzarella, skinka, svamp", 
+      "image": "https://fratellipizza-heilbronn.de/wp-content/uploads/2022/10/4-Prosciutto-e-Funghi.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pizza", 
+      "name": "Frutti di Mare", 
+      "price": 139.00, 
+      "description": "Tomatsås, mozzarella, skaldjur, vitlök", 
+      "image": "https://img.koket.se/standard-mega/pizza-frutti-di-mare.jpg.webp", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pizza", 
+      "name": "Calzone", 
+      "price": 119.00, 
+      "description": "Tomatsås, mozzarella, skinka (fylld)", 
+      "image": "https://receptfavoriter.se/sites/default/files/styles/recipe_16x9/public/hembakt_calzone_1200_2.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pizza", 
+      "name": "Vegetariana", 
+      "price": 115.00, 
+      "description": "Tomatsås, mozzarella, grönsaker", 
+      "image": "https://cdn.shopify.com/s/files/1/0191/9978/files/Pizza-Veggie-Supreme-blog.jpg?v=1652775259", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pasta", 
+      "name": "Carbonara", 
+      "price": 129.00, 
+      "description": "Pasta, ägg, bacon, parmesan, svartpeppar", 
+      "image": "https://www.zeta.nu/app/uploads/2016/06/Pasta-Carbonara-953x1024.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pasta", 
+      "name": "Spaghetti Bolognese", 
+      "price": 109.00, 
+      "description": "Spaghetti, köttfärssås, parmesan", 
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Spaghetti_med_chili_vitl%C3%B6k_och_kapris_li-1024x683.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pasta", 
+      "name": "Penne Arrabbiata", 
+      "price": 99.00, 
+      "description": "Penne, tomatsås, vitlök, chili", 
+      "image": "https://mutti-parma.com/app/uploads/sites/14/2020/12/penne-arrabbiata-.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Pasta", 
+      "name": "Fettuccine Alfredo", 
+      "price": 119.00, 
+      "description": "Fettuccine, smör, grädde, parmesan", 
+      "image": "https://nyssaskitchen.com/wp-content/uploads/2022/05/Fettuccine-Alfredo-18-scaled.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    {
+      "categori": "Risotto",
+      "name": "Risotto alla Milanese",
+      "price": 139.00,
+      "description": "Ris, saffran, parmesan, smör, vitlök, vitt vin",
+      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_251490/cf_259/risotto_milanese.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Risotto",
+      "name": "Svamprisotto",
+      "price": 129.00,
+      "description": "Ris, skogschampinjoner, parmesan, smör, vitlök, vitt vin",
+      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_89399/cf_259/risotto_med_skogschampinjoner.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Risotto",
+      "name": "Risotto ai Frutti di Mare",
+      "price": 149.00,
+      "description": "Ris, räkor, musslor, bläckfisk, vitt vin, vitlök, persilja",
+      "image": "https://www.giallozafferano.it/images/203-20327/Risotto-ai-frutti-di-mare_450x300.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Risotto",
+      "name": "Risotto al Limone",
+      "price": 119.00,
+      "description": "Ris, citron, rucola, parmesan, smör, vitlök",
+      "image": "https://www.zeta.nu/app/uploads/auto-cropped/2016/07/Risotto_med_citron_och_rucola_st-2048x1365.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Osso Buco",
+      "name": "Osso Buco alla Milanese",
+      "price": 179.00,
+      "description": "Kalvlägg, tomat, vitt vin, morötter, lök, selleri, gremolata",
+      "image": "https://www.enjoywine.se/app/uploads/2016/02/ossobuco-alla-milanese.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Osso Buco",
+      "name": "Osso Buco al Pomodoro",
+      "price": 169.00,
+      "description": "Kalvlägg, tomatsås, vitt vin, lök, vitlök, örter",
+      "image": "https://www.vinia.se/blogg/vin-och-vanner/wp-content/uploads/sites/2/2023/09/Osso-Buco-alla-Milanese-med-Gremolata.gif",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Osso Buco",
+      "name": "Osso Buco med Apelsin och Timjan",
+      "price": 189.00,
+      "description": "Kalvlägg, apelsinzest, timjan, vitt vin, vitlök, morötter",
+      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_80311/cf_259/osso_buco.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    { 
+      "categori": "Sallad", 
+      "name": "Caprese", 
+      "price": 89.00, 
+      "description": "Mozzarella, tomat, basilika, olivolja", 
+      "image": "https://www.zeta.nu/app/uploads/2016/06/Caprese_classico_li.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Sallad", 
+      "name": "Caesarsallad", 
+      "price": 119.00, 
+      "description": "Romansallad, kyckling, parmesan, krutonger, caesardressing", 
+      "image": "https://www.zeta.nu/app/uploads/2024/04/Pasta-Paccheri-med-kramig-sas-och-krispiga-gronsaker-768x1025.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Sallad", 
+      "name": "Insalata Caprese", 
+      "price": 99.00, 
+      "description": "Mozzarella, tomat, basilika, olivolja", 
+      "image": "https://emilybites.com/wp-content/uploads/2020/08/Caprese-Salad-7b.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Sallad", 
+      "name": "Tonfisksallad", 
+      "price": 109.00, 
+      "description": "Tonfisk, ägg, sallad, tomat, oliver", 
+      "image": "https://www.zeta.nu/app/uploads/2024/04/Ljummen-sallad-med-tonfisk-linser-agg-och-rostade-gronsaker-768x1025.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Sallad", 
+      "name": "Grekisk sallad", 
+      "price": 105.00, 
+      "description": "Fetaost, tomat, gurka, oliver, rödlök", 
+      "image": "https://www.zeta.nu/app/uploads/2016/03/Grekisk-sallad-1-e1695379452296-1024x797.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Sallad", 
+      "name": "Kycklingsallad", 
+      "price": 119.00, 
+      "description": "Kyckling, sallad, tomat, gurka, avokado", 
+      "image": "https://www.zeta.nu/app/uploads/2016/06/Ljummen_b%C3%B6n_och_kycklingsallad_li-1024x776.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    { 
+      "categori": "Sallad", 
+      "name": "Panzanella", 
+      "price": 89.00, 
+      "description": "Bröd, tomat, gurka, rödlök, basilika", 
+      "image": "https://www.zeta.nu/app/uploads/2020/05/Panzanella-bruschetta-1024x768.jpg", 
+      "rateing": 5,
+      "visible": true 
+    },
+    {
+      "categori": "Bruschetta",
+      "name": "Bruschetta al Pomodoro",
+      "price": 69.00,
+      "description": "Grillad brödskiva, tomat, basilika, olivolja, vitlök",
+      "image": "https://www.sprinklesandsprouts.com/wp-content/uploads/2020/04/italian-bruschetta-4.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Bruschetta",
+      "name": "Bruschetta con Funghi",
+      "price": 79.00,
+      "description": "Grillad brödskiva, svamp, vitlök, persilja, olivolja",
+      "image": "https://www.giallozafferano.it/images/11-1100/Bruschette-con-funghi-trifolati_780x520_wm.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    { 
+      "categori": "Dessert", 
+      "name": "Tiramisu", 
+      "price": 79.00, 
+      "description": "Mascarpone, kaffe, kakao, savoiardi", 
+      "image": "https://www.zeta.nu/app/uploads/2019/03/DSC_4529-1024x683.jpg", 
+      "rating": 5, 
+      "visible": true 
+    },
+    { 
+      "categori": "Dessert", 
+      "name": "Panna Cotta", 
+      "price": 85.00, 
+      "description": "Krämlig dessert med vanilj och bär", 
+      "image": "https://blogscdn.thehut.net/app/uploads/sites/57/2021/05/Panna-Cotta-FEATURE_1622130883.jpg", 
+      "rating": 5, 
+      "visible": true 
+    },
+    { 
+      "categori": "Dessert", 
+      "name": "Gelato", 
+      "price": 60.00, 
+      "description": "Italiensk glass med olika smaker", 
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Strawberry-Gelato_EXPS_TOHAM25_212175_P2_MD_04_18_7b.jpg", 
+      "rating": 5, 
+      "visible": true 
+    },
+    { 
+      "categori": "Drycker", 
+      "name": "Limoncello", 
+      "price": 70.00, 
+      "description": "Sötläskande citronsprit", 
+      "image": "https://www.crowdedkitchen.com/wp-content/uploads/2021/01/limoncello-spritz-13.jpg", 
+      "rating": 5, 
+      "visible": true 
+    },
+    { 
+      "categori": "Drycker", 
+      "name": "Spritz", 
+      "price": 85.00, 
+      "description": "En frisk drink med prosecco och aperol", 
+      "image": "https://www.alkoholfrittshop.se/media/catalog/product/cache/4a5cf70630b9c3080e492221e54d9a9f/b/l/blood-orange-spritz-800x600.png", 
+      "rating": 5, 
+      "visible": true 
+    },
+    { 
+      "categori": "Drycker", 
+      "name": "Bärsmoothie", 
+      "price": 55.00, 
+      "description": "Fräsch smoothie med blandade bär", 
+      "image": "https://skapahalsa.se/wp-content/uploads/2021/06/Barsmoothie-500x500.png", 
+      "rating": 5, 
+      "visible": true 
+    },
+    { 
+      "categori": "Drycker", 
+      "name": "Cappuccino", 
+      "price": 45.00, 
+      "description": "Kaffe med ångad mjölk och skum", 
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cappuccino_at_Sightglass_Coffee.jpg", 
+      "rating": 5, 
+      "visible": true 
+    },
+    {
+      "categori": "Öl",
+      "name": "Lager",
+      "price": 69.00,
+      "description": "En ljus, maltig lager med lätt beska",
+      "image": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcS91U4IfAKlOR8FWicQyh--eko0sTK_F8K8OnrZep3QuTjRAGglu5QCDshMcC_QE3Ip",
+      "rateing": 5,
+      "visible": true
+    },
+            {
+            "categori": "Öl",
+            "name": "Pilsner",
+            "price": 85.00,
+            "description": "En ljus och ren öl med en balanserad smak av malt och humle.",
+            "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/c5de05114510633.603cf714a9295.png",
+            "rating": 4,
+            "visible": true
+        },
+        {
+            "categori": "Öl",
+            "name": "Weissbier",
+            "price": 95.00,
+            "description": "En veteöl med fruktiga och kryddiga toner, perfekt för varma dagar.",
+            "image": "https://www.paulaner.com/content/1-our-products/1-weissbier/modules/1-product_intro-c8mu3l/20200218_sidebarimage-hwbn-1.jpg",
+            "rating": 4,
+            "visible": true
+        },
+        {
+            "categori": "Öl",
+            "name": "Porter",
+            "price": 100.00,
+            "description": "En mörk öl med djupa smaker av choklad och kaffe.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrtRzlkde-9nEwO9pKPgE7qtocIeL2JsMZ3ELD2kaiLbLxwJ_I-RhG1US9Lp3etBm6sI&usqp=CAU",
+            "rating": 5,
+            "visible": true
+        },
+    {
+      "categori": "Vin",
+      "name": "Cabernet Sauvignon",
+      "price": 110.00,
+      "description": "Ett fylligt rött vin med toner av svartvinbär och ek",
+      "image": "https://image-resizing.booztcdn.com/endevour/dev4090_cglass_10.webp?has_grey=0&has_webp=1&size=w400&dpr=2.5",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Vin",
+      "name": "Merlot",
+      "price": 105.00,
+      "description": "Ett mjukt rött vin med smaker av plommon och choklad",
+      "image": "https://image-resizing.booztcdn.com/endevour/dev4090_cglass_12.webp?has_grey=0&has_webp=1&size=w400&dpr=2.5",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Whiskey",
+      "name": "Single Malt Scotch",
+      "price": 120.00,
+      "description": "En rökig single malt med toner av torv och honung",
+      "image": "https://images.pexels.com/photos/7799797/pexels-photo-7799797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Whiskey",
+      "name": "Blended Scotch Whisky",
+      "price": 110.00,
+      "description": "En balanserad blend med mjuka vanilj- och ektoner",
+      "image": "https://www.pentagast.de/media/1c/7b/6b/1700668424/260147_20245_00.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Whiskey",
+      "name": "Irländsk Whisky",
+      "price": 115.00,
+      "description": "En lätt och fruktig irländsk whisky med mjuk finish",
+      "image": "https://media.s-bol.com/Y2kQoKygQDO/550x412.jpg",
+      "rateing": 5,
+      "visible": true
+    }
+  ],
+  "checkout": {
+    "type": "Skicka förfrågan", // "Skicka förfrågan" eller "Boka nu"
+    "prepay": false, //true or false
+    "tillval": ["Barnstol (i mån av tillgång)", "Rullstol", "Födelsedag"],
+    "godkännande": ["Jag förstår att bokningen varar 2 timmar", "Jag förstår att min mat görs i förväg och måste betalas oavsett om besöket uteblir!", "Ta emot e-postmeddelande med erbjudande och nyheter från *Aroma Restaurang, Se vilkor*"]
+  }
 }
