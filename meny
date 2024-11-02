@@ -1,8 +1,8 @@
 {
   "guests": 10,
   "days": {
-    "blockedDays": [], // Blockerade dagar (siffror mellan 0-6)
-    "count": 3 // Antal dagar
+    "blockedDays": [],
+    "count": 3
   },
   "time": {
     "intervals": 30,
@@ -406,8 +406,8 @@
     }
   ],
   "checkout": {
-    "type": "Skicka förfrågan", // "Skicka förfrågan" eller "Boka nu"
-    "prepay": false, //true or false
+    "type": "Skicka förfrågan",
+    "prepay": false, 
     "tillval": ["Barnstol (i mån av tillgång)", "Rullstol", "Födelsedag"],
     "godkännande": ["Jag förstår att bokningen varar 2 timmar", "Jag förstår att min mat görs i förväg och måste betalas oavsett om besöket uteblir!", "Ta emot e-postmeddelande med erbjudande och nyheter från *Aroma Restaurang, Se vilkor*"]
   }
