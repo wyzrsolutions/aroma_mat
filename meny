@@ -56,15 +56,6 @@
     },
     {
       "categori": "Pizza",
-      "name": "test23",
-      "price": 2453,
-      "description": "test",
-      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
       "name": "test",
       "price": 234,
       "description": "ing",
@@ -474,15 +465,6 @@
       "price": 115,
       "description": "En lätt och fruktig irländsk whisky med mjuk finish",
       "image": "https://media.s-bol.com/Y2kQoKygQDO/550x412.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "test23",
-      "price": 234,
-      "description": "dewfwrgeg",
-      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
       "rateing": 5,
       "visible": true
     }
