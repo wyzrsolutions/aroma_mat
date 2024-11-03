@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "Pizza",
+      "name": "try15",
+      "price": 456,
+      "description": "dewrth",
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
       "name": "Margherita pizza",
       "price": 99,
       "description": "Tomatsås, mozzarella, basilika",
