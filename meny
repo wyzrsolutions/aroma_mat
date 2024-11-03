@@ -449,6 +449,15 @@
       "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
       "rateing": 5,
       "visible": true
+    },
+    {
+      "categori": "pizza",
+      "name": "Try2",
+      "price": 345,
+      "description": "dfrgthy",
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
+      "rateing": 5,
+      "visible": true
     }
   ],
   "checkout": {
