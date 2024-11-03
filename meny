@@ -46,15 +46,6 @@
   },
   "preOrder": [
     {
-      "categori": "Pasta",
-      "name": "test8",
-      "price": 345,
-      "description": "defregtrh",
-      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Pizza",
       "name": "Margherita pizza",
       "price": 99,
