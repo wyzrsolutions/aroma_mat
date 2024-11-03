@@ -56,6 +56,15 @@
     },
     {
       "categori": "Pizza",
+      "name": "test3",
+      "price": 133,
+      "description": "hefwkfwf ",
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
       "name": "Parma",
       "price": 189,
       "description": "Tomatsås, parma skinka, ruccola, ost, små tomater",
