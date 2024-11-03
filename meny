@@ -8,7 +8,7 @@
     "intervals": 30,
     "days": [
       {
-        "day": "Mån", 
+        "day": "Mån",
         "start": 11,
         "end": 21
       },
@@ -51,6 +51,15 @@
       "price": 99,
       "description": "Tomatsås, mozzarella, basilika",
       "image": "https://www.zeta.nu/app/uploads/2016/12/Pizza-Margarita-1-768x1024.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "test",
+      "price": 133,
+      "description": "hefwkfwf ",
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
       "rateing": 5,
       "visible": true
     },
