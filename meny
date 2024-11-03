@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "pizza",
+      "name": "try6",
+      "price": 3456,
+      "description": "sdfgfh",
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "pizza",
       "name": "try5",
       "price": 345,
       "description": "dertg",
