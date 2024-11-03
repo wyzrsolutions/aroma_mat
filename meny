@@ -449,6 +449,15 @@
       "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
       "rateing": 5,
       "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Test B",
+      "price": 2345,
+      "description": "edrftgrh",
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
+      "rateing": 5,
+      "visible": true
     }
   ],
   "checkout": {
