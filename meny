@@ -449,6 +449,15 @@
       "image": "https://media.s-bol.com/Y2kQoKygQDO/550x412.jpg",
       "rateing": 5,
       "visible": true
+    },
+    {
+      "categori": "Soppa",
+      "name": "Gulasch",
+      "price": 654,
+      "description": "sfrgtg",
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
+      "rateing": 5,
+      "visible": true
     }
   ],
   "checkout": {
