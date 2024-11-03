@@ -56,15 +56,6 @@
     },
     {
       "categori": "Pizza",
-      "name": "Äpplekaka",
-      "price": 123,
-      "description": "Äpplen, kaka oc massa socker",
-      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
       "name": "Parma",
       "price": 189,
       "description": "Tomats�s, parma skinka, ruccola, ost, sm� tomater",
@@ -456,6 +447,15 @@
       "price": 115,
       "description": "En l�tt och fruktig irl�ndsk whisky med mjuk finish",
       "image": "https://media.s-bol.com/Y2kQoKygQDO/550x412.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "test",
+      "name": "test",
+      "price": 124,
+      "description": "test",
+      "image": "test",
       "rateing": 5,
       "visible": true
     }
