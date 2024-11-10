@@ -58,21 +58,6 @@
   ],
   "2025-01-02": [
     {
-      "guests": 8,
-      "time": "13:00",
-      "preorder": [
-        "Parma",
-        "Parma",
-        "Vesuvio",
-        "Bolognese",
-        "Cola",
-        "Cola",
-        "Tiramisu"
-      ],
-      "status": "completed",
-      "price": 560
-    },
-    {
       "guests": 2,
       "time": "20:30",
       "preorder": [
