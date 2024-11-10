@@ -35,7 +35,7 @@
         "Bolognese",
         "Cola"
       ],
-      "status": "declined",
+      "status": "accepted",
       "price": 250
     }
   ],
@@ -137,7 +137,7 @@
         "Bolognese",
         "Cola"
       ],
-      "status": "accepted",
+      "status": "requested",
       "price": 250
     }
   ],
