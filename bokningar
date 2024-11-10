@@ -1,117 +1,161 @@
 {
   "2024-11-21": [
-    { 
-      "guests": 5, 
-      "time": "14:30", 
-      "preorder": [ 
-        "Parma", "Vesuvio", "Bolognese", "Cola", "Tiramisu" 
-      ], 
-      "status": "requested",
-      "price": 400 
-    },
-    { 
-      "guests": 3, 
-      "time": "19:00", 
-      "preorder": [ 
-        "Vesuvio", "Bolognese", "Cola", "Tiramisu" 
-      ], 
+    {
+      "guests": 5,
+      "time": "14:30",
+      "preorder": [
+        "Parma",
+        "Vesuvio",
+        "Bolognese",
+        "Cola",
+        "Tiramisu"
+      ],
       "status": "accepted",
-      "price": 280 
+      "price": 400
+    },
+    {
+      "guests": 3,
+      "time": "19:00",
+      "preorder": [
+        "Vesuvio",
+        "Bolognese",
+        "Cola",
+        "Tiramisu"
+      ],
+      "status": "accepted",
+      "price": 280
     }
   ],
   "2024-11-28": [
-    { 
-      "guests": 2, 
-      "time": "12:00", 
-      "preorder": [ 
-        "Parma", "Bolognese", "Cola" 
-      ], 
+    {
+      "guests": 2,
+      "time": "12:00",
+      "preorder": [
+        "Parma",
+        "Bolognese",
+        "Cola"
+      ],
       "status": "requested",
-      "price": 250 
+      "price": 250
     }
   ],
   "2024-11-10": [
-    { 
-      "guests": 7, 
-      "time": "17:45", 
-      "preorder": [ 
-        "Parma", "Vesuvio", "Bolognese", "Cola", "Tiramisu", "Vesuvio", "Tiramisu" 
-      ], 
+    {
+      "guests": 7,
+      "time": "17:45",
+      "preorder": [
+        "Parma",
+        "Vesuvio",
+        "Bolognese",
+        "Cola",
+        "Tiramisu",
+        "Vesuvio",
+        "Tiramisu"
+      ],
       "status": "accepted",
-      "price": 530 
+      "price": 530
     }
   ],
   "2025-01-02": [
-    { 
-      "guests": 8, 
-      "time": "13:00", 
-      "preorder": [ 
-        "Parma", "Parma", "Vesuvio", "Bolognese", "Cola", "Cola", "Tiramisu" 
-      ], 
+    {
+      "guests": 8,
+      "time": "13:00",
+      "preorder": [
+        "Parma",
+        "Parma",
+        "Vesuvio",
+        "Bolognese",
+        "Cola",
+        "Cola",
+        "Tiramisu"
+      ],
       "status": "requested",
-      "price": 560 
+      "price": 560
     },
-    { 
-      "guests": 2, 
-      "time": "20:30", 
-      "preorder": [ 
-        "Vesuvio", "Cola", "Tiramisu" 
-      ], 
+    {
+      "guests": 2,
+      "time": "20:30",
+      "preorder": [
+        "Vesuvio",
+        "Cola",
+        "Tiramisu"
+      ],
       "status": "accepted",
-      "price": 170 
+      "price": 170
     }
   ],
   "2024-12-14": [
-    { 
-      "guests": 6, 
-      "time": "18:00", 
-      "preorder": [ 
-        "Parma", "Bolognese", "Bolognese", "Cola", "Tiramisu" 
-      ], 
+    {
+      "guests": 6,
+      "time": "18:00",
+      "preorder": [
+        "Parma",
+        "Bolognese",
+        "Bolognese",
+        "Cola",
+        "Tiramisu"
+      ],
       "status": "accepted",
-      "price": 370 
+      "price": 370
     }
   ],
   "2024-12-20": [
-    { 
-      "guests": 4, 
-      "time": "16:00", 
-      "preorder": [ 
-        "Parma", "Vesuvio", "Cola", "Tiramisu" 
-      ], 
+    {
+      "guests": 4,
+      "time": "16:00",
+      "preorder": [
+        "Parma",
+        "Vesuvio",
+        "Cola",
+        "Tiramisu"
+      ],
       "status": "requested",
-      "price": 290 
+      "price": 290
     },
-    { 
-      "guests": 10, 
-      "time": "21:30", 
-      "preorder": [ 
-        "Parma", "Vesuvio", "Bolognese", "Bolognese", "Cola", "Cola", "Tiramisu" 
-      ], 
+    {
+      "guests": 10,
+      "time": "21:30",
+      "preorder": [
+        "Parma",
+        "Vesuvio",
+        "Bolognese",
+        "Bolognese",
+        "Cola",
+        "Cola",
+        "Tiramisu"
+      ],
       "status": "accepted",
-      "price": 470 
+      "price": 470
     }
   ],
   "2024-12-25": [
-    { 
-      "guests": 3, 
-      "time": "11:00", 
-      "preorder": [ 
-        "Parma", "Bolognese", "Cola" 
-      ], 
+    {
+      "guests": 3,
+      "time": "11:00",
+      "preorder": [
+        "Parma",
+        "Bolognese",
+        "Cola"
+      ],
       "status": "requested",
-      "price": 250 
+      "price": 250
     }
   ],
   "2024-12-30": [
-    { 
-      "guests": 9, 
-      "time": "15:45", 
-      "preorder": [ 
-        "Parma", "Parma", "Vesuvio", "Bolognese", "Cola", "Tiramisu", "Tiramisu" 
-      ], 
+    {
+      "guests": 9,
+      "time": "15:45",
+      "preorder": [
+        "Parma",
+        "Parma",
+        "Vesuvio",
+        "Bolognese",
+        "Cola",
+        "Tiramisu",
+        "Tiramisu"
+      ],
       "status": "accepted",
-      "price": 590 
+      "price": 590
     }
   ]
 }
