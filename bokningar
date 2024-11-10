@@ -1,29 +1,106 @@
 {
-          "2024-11-21": [
-            { "guests": 5, "time": "14:30" },
-            { "guests": 3, "time": "19:00" }
-          ],
-          "2024-11-28": [
-            { "guests": 2, "time": "12:00" }
-          ],
-          "2024-11-10": [
-            { "guests": 7, "time": "17:45" }
-          ],
-          "2025-01-02": [
-            { "guests": 8, "time": "13:00" },
-            { "guests": 2, "time": "20:30" }
-          ],
-          "2024-12-14": [
-            { "guests": 6, "time": "18:00" }
-          ],
-          "2024-12-20": [
-            { "guests": 4, "time": "16:00" },
-            { "guests": 10, "time": "21:30" }
-          ],
-          "2024-12-25": [
-            { "guests": 3, "time": "11:00" }
-          ],
-          "2024-12-30": [
-            { "guests": 9, "time": "15:45" }
-          ]
-        }
+  "2024-11-21": [
+    { 
+      "guests": 5, 
+      "time": "14:30", 
+      "preorder": [ 
+        "Parma", "Vesuvio", "Bolognese", "Cola", "Tiramisu" 
+      ], 
+      "status": "requested" 
+    },
+    { 
+      "guests": 3, 
+      "time": "19:00", 
+      "preorder": [ 
+        "Vesuvio", "Bolognese", "Cola", "Tiramisu" 
+      ], 
+      "status": "accepted" 
+    }
+  ],
+  "2024-11-28": [
+    { 
+      "guests": 2, 
+      "time": "12:00", 
+      "preorder": [ 
+        "Parma", "Bolognese", "Cola" 
+      ], 
+      "status": "requested" 
+    }
+  ],
+  "2024-11-10": [
+    { 
+      "guests": 7, 
+      "time": "17:45", 
+      "preorder": [ 
+        "Parma", "Vesuvio", "Bolognese", "Cola", "Tiramisu", "Vesuvio", "Tiramisu" 
+      ], 
+      "status": "accepted" 
+    }
+  ],
+  "2025-01-02": [
+    { 
+      "guests": 8, 
+      "time": "13:00", 
+      "preorder": [ 
+        "Parma", "Parma", "Vesuvio", "Bolognese", "Cola", "Cola", "Tiramisu" 
+      ], 
+      "status": "requested" 
+    },
+    { 
+      "guests": 2, 
+      "time": "20:30", 
+      "preorder": [ 
+        "Vesuvio", "Cola", "Tiramisu" 
+      ], 
+      "status": "accepted" 
+    }
+  ],
+  "2024-12-14": [
+    { 
+      "guests": 6, 
+      "time": "18:00", 
+      "preorder": [ 
+        "Parma", "Bolognese", "Bolognese", "Cola", "Tiramisu" 
+      ], 
+      "status": "accepted" 
+    }
+  ],
+  "2024-12-20": [
+    { 
+      "guests": 4, 
+      "time": "16:00", 
+      "preorder": [ 
+        "Parma", "Vesuvio", "Cola", "Tiramisu" 
+      ], 
+      "status": "requested" 
+    },
+    { 
+      "guests": 10, 
+      "time": "21:30", 
+      "preorder": [ 
+        "Parma", "Vesuvio", "Bolognese", "Bolognese", "Cola", "Cola", "Tiramisu" 
+      ], 
+      "status": "accepted" 
+    }
+  ],
+  "2024-12-25": [
+    { 
+      "guests": 3, 
+      "time": "11:00", 
+      "preorder": [ 
+        "Parma", "Bolognese", "Cola" 
+      ], 
+      "status": "requested" 
+    }
+  ],
+  "2024-12-30": [
+    { 
+      "guests": 9, 
+      "time": "15:45", 
+      "preorder": [ 
+        "Parma", "Parma", "Vesuvio", "Bolognese", "Cola", "Tiramisu", "Tiramisu" 
+      ], 
+      "status": "accepted" 
+    }
+  ]
+}
