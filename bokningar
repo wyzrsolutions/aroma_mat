@@ -69,21 +69,6 @@
       "price": 170
     }
   ],
-  "2024-12-14": [
-    {
-      "guests": 6,
-      "time": "18:00",
-      "preorder": [
-        "Parma",
-        "Bolognese",
-        "Bolognese",
-        "Cola",
-        "Tiramisu"
-      ],
-      "status": "accepted",
-      "price": 370
-    }
-  ],
   "2024-12-20": [
     {
       "guests": 4,
