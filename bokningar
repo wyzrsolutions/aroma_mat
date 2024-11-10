@@ -124,8 +124,8 @@
         "Cola",
         "Tiramisu"
       ],
-      "status": "accepted",
-      "price": 470
+      "status": "requested",
+      "price": 3
     }
   ],
   "2024-12-25": [
@@ -137,8 +137,8 @@
         "Bolognese",
         "Cola"
       ],
-      "status": "declined",
-      "price": 250
+      "status": "requested",
+      "price": 2
     }
   ],
   "2024-12-30": [
@@ -154,8 +154,8 @@
         "Tiramisu",
         "Tiramisu"
       ],
-      "status": "accepted",
-      "price": 590
+      "status": "requested",
+      "price": 1
     }
   ]
 }
