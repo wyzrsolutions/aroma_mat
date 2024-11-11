@@ -164,15 +164,6 @@
     },
     {
       "categori": "Risotto",
-      "name": "Risotto alla Milanese",
-      "price": 139,
-      "description": "Ris, saffran, parmesan, smör, vitlök, vitt vin",
-      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_251490/cf_259/risotto_milanese.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Risotto",
       "name": "Svamprisotto",
       "price": 129,
       "description": "Ris, skogschampinjoner, parmesan, smör, vitlök, vitt vin",
