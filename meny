@@ -190,15 +190,6 @@
       "visible": true
     },
     {
-      "categori": "Risotto",
-      "name": "Risotto al Limone",
-      "price": 119,
-      "description": "Ris, citron, rucola, parmesan, smör, vitlök",
-      "image": "https://www.zeta.nu/app/uploads/auto-cropped/2016/07/Risotto_med_citron_och_rucola_st-2048x1365.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Osso Buco",
       "name": "Osso Buco alla Milanese",
       "price": 179,
