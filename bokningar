@@ -1,19 +1,6 @@
 {
   "2024-11-21": [
     {
-      "guests": 5,
-      "time": "14:30",
-      "preorder": [
-        "Parma",
-        "Vesuvio",
-        "Bolognese",
-        "Cola",
-        "Tiramisu"
-      ],
-      "status": "accepted",
-      "price": 400
-    },
-    {
       "guests": 3,
       "time": "19:00",
       "preorder": [
