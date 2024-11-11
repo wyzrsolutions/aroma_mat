@@ -46,47 +46,11 @@
   },
   "preOrder": [
     {
-      "categori": "Pasta",
-      "name": "Pasta köttfärsås",
-      "price": 89,
-      "description": "Pasta, köttfärsås med mera",
-      "image": "https://img.koket.se/standard-mega/kottfarssas-med-notfars.jpg.webp",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Carbonara",
-      "price": 129,
-      "description": "Pasta, ägg, bacon, parmesan, svartpeppar",
-      "image": "https://www.zeta.nu/app/uploads/2016/06/Pasta-Carbonara-953x1024.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Spaghetti Bolognese",
-      "price": 109,
-      "description": "Spaghetti, köttfärssås, parmesan",
-      "image": "https://www.zeta.nu/app/uploads/2016/07/Spaghetti_med_chili_vitl%C3%B6k_och_kapris_li-1024x683.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Penne Arrabbiata",
-      "price": 99,
-      "description": "Penne, tomatsås, vitlök, chili",
-      "image": "https://mutti-parma.com/app/uploads/sites/14/2020/12/penne-arrabbiata-.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Fettuccine Alfredo",
-      "price": 119,
-      "description": "Fettuccine, smör, grädde, parmesan",
-      "image": "https://nyssaskitchen.com/wp-content/uploads/2022/05/Fettuccine-Alfredo-18-scaled.jpg",
+      "categori": "Pizza",
+      "name": "Vesuvio",
+      "price": 149,
+      "description": "Ost och tomat och skinka",
+      "image": "https://shared.cdn.smp.schibsted.com/v2/images/e0964960-0e06-4186-b727-1ab4e6dbd3b8?fit=crop&h=442&w=600&s=14db3ac4fd6bebb2429374c582c6377ee310ca68",
       "rateing": 5,
       "visible": true
     },
@@ -159,6 +123,51 @@
       "price": 115,
       "description": "Tomatsås, mozzarella, grönsaker",
       "image": "https://cdn.shopify.com/s/files/1/0191/9978/files/Pizza-Veggie-Supreme-blog.jpg?v=1652775259",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Pasta köttfärsås",
+      "price": 89,
+      "description": "Pasta, köttfärsås med mera",
+      "image": "https://img.koket.se/standard-mega/kottfarssas-med-notfars.jpg.webp",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Carbonara",
+      "price": 129,
+      "description": "Pasta, ägg, bacon, parmesan, svartpeppar",
+      "image": "https://www.zeta.nu/app/uploads/2016/06/Pasta-Carbonara-953x1024.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Spaghetti Bolognese",
+      "price": 109,
+      "description": "Spaghetti, köttfärssås, parmesan",
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Spaghetti_med_chili_vitl%C3%B6k_och_kapris_li-1024x683.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Penne Arrabbiata",
+      "price": 99,
+      "description": "Penne, tomatsås, vitlök, chili",
+      "image": "https://mutti-parma.com/app/uploads/sites/14/2020/12/penne-arrabbiata-.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Fettuccine Alfredo",
+      "price": 119,
+      "description": "Fettuccine, smör, grädde, parmesan",
+      "image": "https://nyssaskitchen.com/wp-content/uploads/2022/05/Fettuccine-Alfredo-18-scaled.jpg",
       "rateing": 5,
       "visible": true
     },
