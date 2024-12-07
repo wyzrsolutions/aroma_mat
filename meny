@@ -299,15 +299,6 @@
     },
     {
       "categori": "Pizza",
-      "name": "Vesuvio",
-      "price": 149,
-      "description": "Ost och tomat och skinka",
-      "image": "https://shared.cdn.smp.schibsted.com/v2/images/e0964960-0e06-4186-b727-1ab4e6dbd3b8?fit=crop&h=442&w=600&s=14db3ac4fd6bebb2429374c582c6377ee310ca68",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
       "name": "Margherita pizza",
       "price": 99,
       "description": "Tomatsås, mozzarella, basilika",
