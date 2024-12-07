@@ -586,15 +586,6 @@
       "visible": true
     },
     {
-      "categori": "Bruschetta",
-      "name": "Bruschetta con Funghi",
-      "price": 79,
-      "description": "Grillad brödskiva, svamp, vitlök, persilja, olivolja",
-      "image": "https://www.giallozafferano.it/images/11-1100/Bruschette-con-funghi-trifolati_780x520_wm.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Drycker",
       "name": "Limoncello",
       "price": 70,
