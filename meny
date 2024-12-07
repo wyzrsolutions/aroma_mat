@@ -299,15 +299,6 @@
     },
     {
       "categori": "Pizza",
-      "name": "Calzone",
-      "price": 119,
-      "description": "Tomatsås, mozzarella, skinka (fylld)",
-      "image": "https://receptfavoriter.se/sites/default/files/styles/recipe_16x9/public/hembakt_calzone_1200_2.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
       "name": "Vegetariana",
       "price": 115,
       "description": "Tomatsås, mozzarella, grönsaker",
