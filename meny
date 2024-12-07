@@ -551,15 +551,6 @@
     },
     {
       "categori": "Öl",
-      "name": "Weissbier",
-      "price": 95,
-      "description": "En veteöl med fruktiga och kryddiga toner, perfekt för varma dagar.",
-      "image": "https://www.paulaner.com/content/1-our-products/1-weissbier/modules/1-product_intro-c8mu3l/20200218_sidebarimage-hwbn-1.jpg",
-      "rating": 4,
-      "visible": true
-    },
-    {
-      "categori": "Öl",
       "name": "Porter",
       "price": 100,
       "description": "En mörk öl med djupa smaker av choklad och kaffe.",
