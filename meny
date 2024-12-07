@@ -505,15 +505,6 @@
       "visible": true
     },
     {
-      "categori": "Pasta",
-      "name": "Fettuccine Alfredo",
-      "price": 119,
-      "description": "Fettuccine, smör, grädde, parmesan",
-      "image": "https://nyssaskitchen.com/wp-content/uploads/2022/05/Fettuccine-Alfredo-18-scaled.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Dessert",
       "name": "Tiramisu",
       "price": 89,
