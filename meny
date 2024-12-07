@@ -551,15 +551,6 @@
     },
     {
       "categori": "Öl",
-      "name": "Pilsner",
-      "price": 85,
-      "description": "En ljus och ren öl med en balanserad smak av malt och humle.",
-      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/c5de05114510633.603cf714a9295.png",
-      "rating": 4,
-      "visible": true
-    },
-    {
-      "categori": "Öl",
       "name": "Weissbier",
       "price": 95,
       "description": "En veteöl med fruktiga och kryddiga toner, perfekt för varma dagar.",
