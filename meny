@@ -596,15 +596,6 @@
     },
     {
       "categori": "Sallad",
-      "name": "Tonfisksallad",
-      "price": 109,
-      "description": "Tonfisk, ägg, sallad, tomat, oliver",
-      "image": "https://www.zeta.nu/app/uploads/2024/04/Ljummen-sallad-med-tonfisk-linser-agg-och-rostade-gronsaker-768x1025.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Sallad",
       "name": "Grekisk sallad",
       "price": 105,
       "description": "Fetaost, tomat, gurka, oliver, rödlök",
