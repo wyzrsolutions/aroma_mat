@@ -440,6 +440,15 @@
       "image": "https://media.s-bol.com/Y2kQoKygQDO/550x412.jpg",
       "rateing": 5,
       "visible": true
+    },
+    {
+      "categori": "test",
+      "name": "test",
+      "price": 100,
+      "description": "test",
+      "image": "https://photos.fife.usercontent.google.com/pw/AP1GczPbSV2fJ5-e9ECOb7BzR9cwlFUE7Xqt2czbfHfFEjG2WMcJO74xniw=w352-h400-s-no-gm?authuser=0",
+      "rateing": 5,
+      "visible": true
     }
   ],
   "checkout": {
