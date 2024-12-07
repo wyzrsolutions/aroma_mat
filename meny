@@ -46,6 +46,42 @@
   },
   "preOrder": [
     {
+      "categori": "Dessert",
+      "name": "Tiramisu",
+      "price": 89,
+      "description": "Ladyfinger biscuits, kakao, mascarpone, ägg, socker och kaffe",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dessert",
+      "name": "Tiramisu",
+      "price": 79,
+      "description": "Mascarpone, kaffe, kakao, savoiardi",
+      "image": "https://www.zeta.nu/app/uploads/2019/03/DSC_4529-1024x683.jpg",
+      "rating": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dessert",
+      "name": "Panna Cotta",
+      "price": 85,
+      "description": "Krämlig dessert med vanilj och bär",
+      "image": "https://blogscdn.thehut.net/app/uploads/sites/57/2021/05/Panna-Cotta-FEATURE_1622130883.jpg",
+      "rating": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dessert",
+      "name": "Gelato",
+      "price": 60,
+      "description": "Italiensk glass med olika smaker",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Strawberry-Gelato_EXPS_TOHAM25_212175_P2_MD_04_18_7b.jpg",
+      "rating": 5,
+      "visible": true
+    },
+    {
       "categori": "Kids Special",
       "name": "Pasta Bolognese",
       "price": 129,
@@ -547,33 +583,6 @@
       "description": "Grillad brödskiva, svamp, vitlök, persilja, olivolja",
       "image": "https://www.giallozafferano.it/images/11-1100/Bruschette-con-funghi-trifolati_780x520_wm.jpg",
       "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Dessert",
-      "name": "Tiramisu",
-      "price": 79,
-      "description": "Mascarpone, kaffe, kakao, savoiardi",
-      "image": "https://www.zeta.nu/app/uploads/2019/03/DSC_4529-1024x683.jpg",
-      "rating": 5,
-      "visible": true
-    },
-    {
-      "categori": "Dessert",
-      "name": "Panna Cotta",
-      "price": 85,
-      "description": "Krämlig dessert med vanilj och bär",
-      "image": "https://blogscdn.thehut.net/app/uploads/sites/57/2021/05/Panna-Cotta-FEATURE_1622130883.jpg",
-      "rating": 5,
-      "visible": true
-    },
-    {
-      "categori": "Dessert",
-      "name": "Gelato",
-      "price": 60,
-      "description": "Italiensk glass med olika smaker",
-      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Strawberry-Gelato_EXPS_TOHAM25_212175_P2_MD_04_18_7b.jpg",
-      "rating": 5,
       "visible": true
     },
     {
