@@ -46,6 +46,24 @@
   },
   "preOrder": [
     {
+      "categori": "Viner",
+      "name": "Husets vita (flaska)",
+      "price": 320,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Viner",
+      "name": "Husets vita (glas)",
+      "price": 75,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
       "categori": "Dryck",
       "name": "Prosecco 200ml",
       "price": 120,
@@ -744,15 +762,6 @@
       "price": 110,
       "description": "En balanserad blend med mjuka vanilj- och ektoner",
       "image": "https://www.pentagast.de/media/1c/7b/6b/1700668424/260147_20245_00.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Viner",
-      "name": "Husets vita (glas)",
-      "price": 75,
-      "description": " ",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
       "visible": true
     }
