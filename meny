@@ -550,15 +550,6 @@
       "visible": true
     },
     {
-      "categori": "Öl",
-      "name": "Porter",
-      "price": 100,
-      "description": "En mörk öl med djupa smaker av choklad och kaffe.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrtRzlkde-9nEwO9pKPgE7qtocIeL2JsMZ3ELD2kaiLbLxwJ_I-RhG1US9Lp3etBm6sI&usqp=CAU",
-      "rating": 5,
-      "visible": true
-    },
-    {
       "categori": "Vin",
       "name": "Cabernet Sauvignon",
       "price": 110,
