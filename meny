@@ -587,15 +587,6 @@
     },
     {
       "categori": "Bruschetta",
-      "name": "Bruschetta al Pomodoro",
-      "price": 69,
-      "description": "Grillad brödskiva, tomat, basilika, olivolja, vitlök",
-      "image": "https://www.sprinklesandsprouts.com/wp-content/uploads/2020/04/italian-bruschetta-4.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Bruschetta",
       "name": "Bruschetta con Funghi",
       "price": 79,
       "description": "Grillad brödskiva, svamp, vitlök, persilja, olivolja",
