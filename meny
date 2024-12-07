@@ -299,15 +299,6 @@
     },
     {
       "categori": "Pizza",
-      "name": "Margherita pizza",
-      "price": 99,
-      "description": "Tomatsås, mozzarella, basilika",
-      "image": "https://www.zeta.nu/app/uploads/2016/12/Pizza-Margarita-1-768x1024.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
       "name": "Parma",
       "price": 189,
       "description": "Tomatsås, parma skinka, ruccola, ost, små tomater",
