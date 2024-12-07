@@ -550,15 +550,6 @@
       "visible": true
     },
     {
-      "categori": "Vin",
-      "name": "Merlot",
-      "price": 105,
-      "description": "Ett mjukt rött vin med smaker av plommon och choklad",
-      "image": "https://image-resizing.booztcdn.com/endevour/dev4090_cglass_12.webp?has_grey=0&has_webp=1&size=w400&dpr=2.5",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Whiskey",
       "name": "Single Malt Scotch",
       "price": 120,
