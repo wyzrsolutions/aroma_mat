@@ -551,15 +551,6 @@
     },
     {
       "categori": "Drycker",
-      "name": "Bärsmoothie",
-      "price": 55,
-      "description": "Fräsch smoothie med blandade bär",
-      "image": "https://skapahalsa.se/wp-content/uploads/2021/06/Barsmoothie-500x500.png",
-      "rating": 5,
-      "visible": true
-    },
-    {
-      "categori": "Drycker",
       "name": "Cappuccino",
       "price": 45,
       "description": "Kaffe med ångad mjölk och skum",
