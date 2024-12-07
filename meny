@@ -596,15 +596,6 @@
     },
     {
       "categori": "Sallad",
-      "name": "Caesarsallad",
-      "price": 119,
-      "description": "Romansallad, kyckling, parmesan, krutonger, caesardressing",
-      "image": "https://www.zeta.nu/app/uploads/2024/04/Pasta-Paccheri-med-kramig-sas-och-krispiga-gronsaker-768x1025.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Sallad",
       "name": "Insalata Caprese",
       "price": 99,
       "description": "Mozzarella, tomat, basilika, olivolja",
