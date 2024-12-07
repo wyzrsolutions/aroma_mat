@@ -605,15 +605,6 @@
     },
     {
       "categori": "Osso Buco",
-      "name": "Osso Buco alla Milanese",
-      "price": 179,
-      "description": "Kalvlägg, tomat, vitt vin, morötter, lök, selleri, gremolata",
-      "image": "https://www.enjoywine.se/app/uploads/2016/02/ossobuco-alla-milanese.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Osso Buco",
       "name": "Osso Buco al Pomodoro",
       "price": 169,
       "description": "Kalvlägg, tomatsås, vitt vin, lök, vitlök, örter",
