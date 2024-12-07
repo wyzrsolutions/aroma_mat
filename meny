@@ -487,15 +487,6 @@
       "visible": true
     },
     {
-      "categori": "Pasta",
-      "name": "Spaghetti Bolognese",
-      "price": 109,
-      "description": "Spaghetti, köttfärssås, parmesan",
-      "image": "https://www.zeta.nu/app/uploads/2016/07/Spaghetti_med_chili_vitl%C3%B6k_och_kapris_li-1024x683.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Dessert",
       "name": "Tiramisu",
       "price": 89,
