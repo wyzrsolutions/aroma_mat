@@ -190,15 +190,6 @@
       "visible": true
     },
     {
-      "categori": "Dessert",
-      "name": "Gelato",
-      "price": 60,
-      "description": "Italiensk glass med olika smaker",
-      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Strawberry-Gelato_EXPS_TOHAM25_212175_P2_MD_04_18_7b.jpg",
-      "rating": 5,
-      "visible": true
-    },
-    {
       "categori": "Kids Special",
       "name": "Pasta Bolognese",
       "price": 129,
