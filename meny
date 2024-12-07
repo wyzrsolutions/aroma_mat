@@ -46,6 +46,24 @@
   },
   "preOrder": [
     {
+      "categori": "Sallader",
+      "name": "Kycklingsallad",
+      "price": 139,
+      "description": "Romansallad, kyckling, blandade grönsaker, dressing och bröd",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Sallader",
+      "name": "Evergreen Sallad",
+      "price": 129,
+      "description": "Blandade gröna blad med oliver och färsk mozzarella",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
       "categori": "Viner",
       "name": "Husets Röda (glas)",
       "price": 75,
@@ -365,15 +383,6 @@
       "name": "Risotto Porcini",
       "price": 169,
       "description": "Lök, vitlök, vin, blandad svamp, parmesan, citron, persilja",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Sallader",
-      "name": "Evergreen Sallad",
-      "price": 129,
-      "description": "Blandade gröna blad med oliver och färsk mozzarella",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
       "visible": true
