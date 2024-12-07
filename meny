@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "Risotto",
+      "name": "Skaldjursrisotto",
+      "price": 169,
+      "description": "Musslor, blandade skaldjur, vin, lök, vitlök, parmesan, chili",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Risotto",
       "name": "Risotto Porcini",
       "price": 169,
       "description": "Lök, vitlök, vin, blandad svamp, parmesan, citron, persilja",
