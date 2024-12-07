@@ -46,6 +46,33 @@
   },
   "preOrder": [
     {
+      "categori": "Risotto",
+      "name": "Risotto Porcini",
+      "price": 169,
+      "description": "Lök, vitlök, vin, blandad svamp, parmesan, citron, persilja",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Risotto",
+      "name": "Svamprisotto",
+      "price": 129,
+      "description": "Ris, skogschampinjoner, parmesan, smör, vitlök, vitt vin",
+      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_89399/cf_259/risotto_med_skogschampinjoner.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Risotto",
+      "name": "Risotto ai Frutti di Mare",
+      "price": 149,
+      "description": "Ris, räkor, musslor, bläckfisk, vitt vin, vitlök, persilja",
+      "image": "https://www.giallozafferano.it/images/203-20327/Risotto-ai-frutti-di-mare_450x300.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
       "categori": "Sallader",
       "name": "Kycklingsallad",
       "price": 139,
@@ -321,24 +348,6 @@
       "price": 115,
       "description": "Tomatsås, mozzarella, grönsaker",
       "image": "https://cdn.shopify.com/s/files/1/0191/9978/files/Pizza-Veggie-Supreme-blog.jpg?v=1652775259",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Risotto",
-      "name": "Svamprisotto",
-      "price": 129,
-      "description": "Ris, skogschampinjoner, parmesan, smör, vitlök, vitt vin",
-      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_89399/cf_259/risotto_med_skogschampinjoner.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Risotto",
-      "name": "Risotto ai Frutti di Mare",
-      "price": 149,
-      "description": "Ris, räkor, musslor, bläckfisk, vitt vin, vitlök, persilja",
-      "image": "https://www.giallozafferano.it/images/203-20327/Risotto-ai-frutti-di-mare_450x300.jpg",
       "rateing": 5,
       "visible": true
     },
