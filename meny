@@ -47,24 +47,6 @@
   "preOrder": [
     {
       "categori": "Förrätter",
-      "name": "Antipasto Misto",
-      "price": 149,
-      "description": "Kockens urval av charkuterier, ost, oliver och bröd",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Förrätter",
-      "name": "Antipasto Misto",
-      "price": 149,
-      "description": "Kockens urval av charkuterier, ost, oliver och bröd",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Förrätter",
       "name": "Pane All'Aglie (Vitlöskbröd)",
       "price": 99,
       "description": "Mozzarella och vitlök",
