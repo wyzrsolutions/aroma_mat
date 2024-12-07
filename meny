@@ -299,15 +299,6 @@
     },
     {
       "categori": "Pizza",
-      "name": "Diavola",
-      "price": 119,
-      "description": "Tomatsås, mozzarella, stark salami",
-      "image": "https://www.zeta.nu/app/uploads/2016/12/diavolo_li-1024x767.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
       "name": "Quattro Stagioni",
       "price": 129,
       "description": "Tomatsås, mozzarella, skinka, svamp, kronärtskocka, oliver",
