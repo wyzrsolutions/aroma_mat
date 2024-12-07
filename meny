@@ -586,15 +586,6 @@
       "visible": true
     },
     {
-      "categori": "Sallad",
-      "name": "Panzanella",
-      "price": 89,
-      "description": "Bröd, tomat, gurka, rödlök, basilika",
-      "image": "https://www.zeta.nu/app/uploads/2020/05/Panzanella-bruschetta-1024x768.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Bruschetta",
       "name": "Bruschetta al Pomodoro",
       "price": 69,
