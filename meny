@@ -596,15 +596,6 @@
     },
     {
       "categori": "Sallad",
-      "name": "Grekisk sallad",
-      "price": 105,
-      "description": "Fetaost, tomat, gurka, oliver, rödlök",
-      "image": "https://www.zeta.nu/app/uploads/2016/03/Grekisk-sallad-1-e1695379452296-1024x797.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Sallad",
       "name": "Kycklingsallad",
       "price": 119,
       "description": "Kyckling, sallad, tomat, gurka, avokado",
