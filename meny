@@ -551,15 +551,6 @@
     },
     {
       "categori": "Whiskey",
-      "name": "Single Malt Scotch",
-      "price": 120,
-      "description": "En rökig single malt med toner av torv och honung",
-      "image": "https://images.pexels.com/photos/7799797/pexels-photo-7799797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Whiskey",
       "name": "Blended Scotch Whisky",
       "price": 110,
       "description": "En balanserad blend med mjuka vanilj- och ektoner",
