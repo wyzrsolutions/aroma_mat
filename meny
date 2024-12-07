@@ -46,6 +46,24 @@
   },
   "preOrder": [
     {
+      "categori": "Förrätter",
+      "name": "Caprese",
+      "price": 99,
+      "description": "Färsk mozzarella, tomat, vitlök och basilika",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Förrätter",
+      "name": "Pane All'Aglie (Vitlöskbröd)",
+      "price": 99,
+      "description": "Mozzarella och vitlök",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
       "categori": "Pizza",
       "name": "Vesuvio",
       "price": 149,
@@ -429,15 +447,6 @@
       "price": 110,
       "description": "En balanserad blend med mjuka vanilj- och ektoner",
       "image": "https://www.pentagast.de/media/1c/7b/6b/1700668424/260147_20245_00.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Förrätter",
-      "name": "Pane All'Aglie (Vitlöskbröd)",
-      "price": 99,
-      "description": "Mozzarella och vitlök",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
       "visible": true
     }
