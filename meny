@@ -299,15 +299,6 @@
     },
     {
       "categori": "Pizza",
-      "name": "Prosciutto e Funghi",
-      "price": 119,
-      "description": "Tomatsås, mozzarella, skinka, svamp",
-      "image": "https://fratellipizza-heilbronn.de/wp-content/uploads/2022/10/4-Prosciutto-e-Funghi.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
       "name": "Frutti di Mare",
       "price": 139,
       "description": "Tomatsås, mozzarella, skaldjur, vitlök",
