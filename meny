@@ -497,15 +497,6 @@
     },
     {
       "categori": "Pasta",
-      "name": "Pasta köttfärsås",
-      "price": 89,
-      "description": "Pasta, köttfärsås med mera",
-      "image": "https://img.koket.se/standard-mega/kottfarssas-med-notfars.jpg.webp",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
       "name": "Carbonara",
       "price": 129,
       "description": "Pasta, ägg, bacon, parmesan, svartpeppar",
