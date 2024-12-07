@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "Dryck",
+      "name": "Prosecco 200ml",
+      "price": 120,
+      "description": "  ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dryck",
       "name": "Smirnoff Ice / Briska",
       "price": 69,
       "description": " ",
