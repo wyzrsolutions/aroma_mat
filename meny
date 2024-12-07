@@ -46,6 +46,69 @@
   },
   "preOrder": [
     {
+      "categori": "Pasta",
+      "name": "Pasta Med Salsiccia",
+      "price": 149,
+      "description": "Salsiccia, lök, vitlök, paprika, körbärstomater, plivolja, citron",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipO_aoCarNyqxtQAmxaiwhyPXkD0KjpxoVpuP8rO=s1360-w1360-h1020",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Vongole",
+      "price": 159,
+      "description": "Spagetti, blandade blåmusslor, chili, vitlök, persilja, olivolja",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Pomodoro Scampi con Spinaci",
+      "price": 159,
+      "description": "Scampi, pomodoro, vin, chili, vitlök, parmesan, olivolja",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Pasta Verdure",
+      "price": 159,
+      "description": "Mozzarella, zucchini, paprika, vitlök, tomater",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Frutti Di Mare",
+      "price": 159,
+      "description": "Blandade skaldjur, körsbärstomater, persilja, olivolja, citron",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Arabiata",
+      "price": 149,
+      "description": "Tomater, röd chili, vitlök, persilja, olivolja",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Bolognese",
+      "price": 149,
+      "description": "Kalvköttfärs, tomat, vitlök, parmesan",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
       "categori": "Förrätter",
       "name": "Caprese",
       "price": 99,
@@ -347,60 +410,6 @@
       "name": "Musslor (Cause)",
       "price": 149,
       "description": "Musslor med vin, vitlök, olivolja och citron",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Vongole",
-      "price": 159,
-      "description": "Spagetti, blandade blåmusslor, chili, vitlök, persilja, olivolja",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Pomodoro Scampi con Spinaci",
-      "price": 159,
-      "description": "Scampi, pomodoro, vin, chili, vitlök, parmesan, olivolja",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Pasta Verdure",
-      "price": 159,
-      "description": "Mozzarella, zucchini, paprika, vitlök, tomater",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Frutti Di Mare",
-      "price": 159,
-      "description": "Blandade skaldjur, körsbärstomater, persilja, olivolja, citron",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Arabiata",
-      "price": 149,
-      "description": "Tomater, röd chili, vitlök, persilja, olivolja",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Bolognese",
-      "price": 149,
-      "description": "Kalvköttfärs, tomat, vitlök, parmesan",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
       "visible": true
