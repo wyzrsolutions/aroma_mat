@@ -191,15 +191,6 @@
     },
     {
       "categori": "Dessert",
-      "name": "Panna Cotta",
-      "price": 85,
-      "description": "Krämlig dessert med vanilj och bär",
-      "image": "https://blogscdn.thehut.net/app/uploads/sites/57/2021/05/Panna-Cotta-FEATURE_1622130883.jpg",
-      "rating": 5,
-      "visible": true
-    },
-    {
-      "categori": "Dessert",
       "name": "Gelato",
       "price": 60,
       "description": "Italiensk glass med olika smaker",
