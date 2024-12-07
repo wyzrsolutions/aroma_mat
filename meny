@@ -433,15 +433,6 @@
       "visible": true
     },
     {
-      "categori": "Whiskey",
-      "name": "Irländsk Whisky",
-      "price": 115,
-      "description": "En lätt och fruktig irländsk whisky med mjuk finish",
-      "image": "https://media.s-bol.com/Y2kQoKygQDO/550x412.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Förrätter",
       "name": "Pane All'Aglie (Vitlöskbröd)",
       "price": 99,
