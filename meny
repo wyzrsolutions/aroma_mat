@@ -551,15 +551,6 @@
     },
     {
       "categori": "Öl",
-      "name": "Lager",
-      "price": 69,
-      "description": "En ljus, maltig lager med lätt beska",
-      "image": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcS91U4IfAKlOR8FWicQyh--eko0sTK_F8K8OnrZep3QuTjRAGglu5QCDshMcC_QE3Ip",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Öl",
       "name": "Pilsner",
       "price": 85,
       "description": "En ljus och ren öl med en balanserad smak av malt och humle.",
