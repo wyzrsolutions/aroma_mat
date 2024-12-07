@@ -406,15 +406,6 @@
       "visible": true
     },
     {
-      "categori": "Risotto",
-      "name": "Risotto ai Frutti di Mare",
-      "price": 149,
-      "description": "Ris, räkor, musslor, bläckfisk, vitt vin, vitlök, persilja",
-      "image": "https://www.giallozafferano.it/images/203-20327/Risotto-ai-frutti-di-mare_450x300.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Sallader",
       "name": "Kycklingsallad",
       "price": 139,
