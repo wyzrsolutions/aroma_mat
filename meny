@@ -298,15 +298,6 @@
       "visible": true
     },
     {
-      "categori": "Pizza",
-      "name": "Vegetariana",
-      "price": 115,
-      "description": "Tomatsås, mozzarella, grönsaker",
-      "image": "https://cdn.shopify.com/s/files/1/0191/9978/files/Pizza-Veggie-Supreme-blog.jpg?v=1652775259",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Risotto",
       "name": "Risotto Scampi",
       "price": 169,
