@@ -496,15 +496,6 @@
       "visible": true
     },
     {
-      "categori": "Pasta",
-      "name": "Penne Arrabbiata",
-      "price": 99,
-      "description": "Penne, tomatsås, vitlök, chili",
-      "image": "https://mutti-parma.com/app/uploads/sites/14/2020/12/penne-arrabbiata-.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Dessert",
       "name": "Tiramisu",
       "price": 89,
