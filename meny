@@ -191,24 +191,6 @@
     },
     {
       "categori": "Dessert",
-      "name": "Tiramisu",
-      "price": 89,
-      "description": "Ladyfinger biscuits, kakao, mascarpone, ägg, socker och kaffe",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Dessert",
-      "name": "Tiramisu",
-      "price": 79,
-      "description": "Mascarpone, kaffe, kakao, savoiardi",
-      "image": "https://www.zeta.nu/app/uploads/2019/03/DSC_4529-1024x683.jpg",
-      "rating": 5,
-      "visible": true
-    },
-    {
-      "categori": "Dessert",
       "name": "Panna Cotta",
       "price": 85,
       "description": "Krämlig dessert med vanilj och bär",
