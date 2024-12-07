@@ -550,15 +550,6 @@
       "visible": true
     },
     {
-      "categori": "Drycker",
-      "name": "Cappuccino",
-      "price": 45,
-      "description": "Kaffe med ångad mjölk och skum",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cappuccino_at_Sightglass_Coffee.jpg",
-      "rating": 5,
-      "visible": true
-    },
-    {
       "categori": "Öl",
       "name": "Lager",
       "price": 69,
