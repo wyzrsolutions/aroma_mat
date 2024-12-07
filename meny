@@ -461,15 +461,6 @@
     },
     {
       "categori": "Pasta",
-      "name": "Carbonara",
-      "price": 159,
-      "description": "Bacon/Lax, grädde, äggula, lök, vitlök, parmesan, olivolja",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
       "name": "Frutti Di Mare",
       "price": 159,
       "description": "Blandade skaldjur, körsbärstomater, persilja, olivolja, citron",
@@ -492,15 +483,6 @@
       "price": 149,
       "description": "Kalvköttfärs, tomat, vitlök, parmesan",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
-      "name": "Carbonara",
-      "price": 129,
-      "description": "Pasta, ägg, bacon, parmesan, svartpeppar",
-      "image": "https://www.zeta.nu/app/uploads/2016/06/Pasta-Carbonara-953x1024.jpg",
       "rateing": 5,
       "visible": true
     },
