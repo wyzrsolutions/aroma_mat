@@ -605,15 +605,6 @@
     },
     {
       "categori": "Osso Buco",
-      "name": "Osso Buco al Pomodoro",
-      "price": 169,
-      "description": "Kalvlägg, tomatsås, vitt vin, lök, vitlök, örter",
-      "image": "https://www.vinia.se/blogg/vin-och-vanner/wp-content/uploads/sites/2/2023/09/Osso-Buco-alla-Milanese-med-Gremolata.gif",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Osso Buco",
       "name": "Osso Buco med Apelsin och Timjan",
       "price": 189,
       "description": "Kalvlägg, apelsinzest, timjan, vitt vin, vitlök, morötter",
