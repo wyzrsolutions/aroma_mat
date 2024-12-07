@@ -596,15 +596,6 @@
     },
     {
       "categori": "Sallad",
-      "name": "Insalata Caprese",
-      "price": 99,
-      "description": "Mozzarella, tomat, basilika, olivolja",
-      "image": "https://emilybites.com/wp-content/uploads/2020/08/Caprese-Salad-7b.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Sallad",
       "name": "Tonfisksallad",
       "price": 109,
       "description": "Tonfisk, ägg, sallad, tomat, oliver",
