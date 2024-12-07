@@ -46,6 +46,96 @@
   },
   "preOrder": [
     {
+      "categori": "Pizza",
+      "name": "Margherita",
+      "price": 149,
+      "description": "Tomatsås, mozzarella och basilika",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Vesuvio",
+      "price": 149,
+      "description": "Ost och tomat och skinka",
+      "image": "https://shared.cdn.smp.schibsted.com/v2/images/e0964960-0e06-4186-b727-1ab4e6dbd3b8?fit=crop&h=442&w=600&s=14db3ac4fd6bebb2429374c582c6377ee310ca68",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Margherita pizza",
+      "price": 99,
+      "description": "Tomatsås, mozzarella, basilika",
+      "image": "https://www.zeta.nu/app/uploads/2016/12/Pizza-Margarita-1-768x1024.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Parma",
+      "price": 189,
+      "description": "Tomatsås, parma skinka, ruccola, ost, små tomater",
+      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Diavola",
+      "price": 119,
+      "description": "Tomatsås, mozzarella, stark salami",
+      "image": "https://www.zeta.nu/app/uploads/2016/12/diavolo_li-1024x767.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Quattro Stagioni",
+      "price": 129,
+      "description": "Tomatsås, mozzarella, skinka, svamp, kronärtskocka, oliver",
+      "image": "https://images.recept.se/images/recipes/pizza-fyra-arstider_3337.jpg?fit=crop&crop=focalpoint&auto=format&fp-x=0.4939076817556&fp-y=0.62221975263075&fp-z=1.0146130823917&w=600&h=600",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Prosciutto e Funghi",
+      "price": 119,
+      "description": "Tomatsås, mozzarella, skinka, svamp",
+      "image": "https://fratellipizza-heilbronn.de/wp-content/uploads/2022/10/4-Prosciutto-e-Funghi.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Frutti di Mare",
+      "price": 139,
+      "description": "Tomatsås, mozzarella, skaldjur, vitlök",
+      "image": "https://img.koket.se/standard-mega/pizza-frutti-di-mare.jpg.webp",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Calzone",
+      "price": 119,
+      "description": "Tomatsås, mozzarella, skinka (fylld)",
+      "image": "https://receptfavoriter.se/sites/default/files/styles/recipe_16x9/public/hembakt_calzone_1200_2.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Vegetariana",
+      "price": 115,
+      "description": "Tomatsås, mozzarella, grönsaker",
+      "image": "https://cdn.shopify.com/s/files/1/0191/9978/files/Pizza-Veggie-Supreme-blog.jpg?v=1652775259",
+      "rateing": 5,
+      "visible": true
+    },
+    {
       "categori": "Risotto",
       "name": "Risotto Scampi",
       "price": 169,
@@ -285,87 +375,6 @@
       "price": 99,
       "description": "Mozzarella och vitlök",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Vesuvio",
-      "price": 149,
-      "description": "Ost och tomat och skinka",
-      "image": "https://shared.cdn.smp.schibsted.com/v2/images/e0964960-0e06-4186-b727-1ab4e6dbd3b8?fit=crop&h=442&w=600&s=14db3ac4fd6bebb2429374c582c6377ee310ca68",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Margherita pizza",
-      "price": 99,
-      "description": "Tomatsås, mozzarella, basilika",
-      "image": "https://www.zeta.nu/app/uploads/2016/12/Pizza-Margarita-1-768x1024.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Parma",
-      "price": 189,
-      "description": "Tomatsås, parma skinka, ruccola, ost, små tomater",
-      "image": "https://www.zeta.nu/app/uploads/2016/07/Pizza_med_parmaskinka_och_rucola_li.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Diavola",
-      "price": 119,
-      "description": "Tomatsås, mozzarella, stark salami",
-      "image": "https://www.zeta.nu/app/uploads/2016/12/diavolo_li-1024x767.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Quattro Stagioni",
-      "price": 129,
-      "description": "Tomatsås, mozzarella, skinka, svamp, kronärtskocka, oliver",
-      "image": "https://images.recept.se/images/recipes/pizza-fyra-arstider_3337.jpg?fit=crop&crop=focalpoint&auto=format&fp-x=0.4939076817556&fp-y=0.62221975263075&fp-z=1.0146130823917&w=600&h=600",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Prosciutto e Funghi",
-      "price": 119,
-      "description": "Tomatsås, mozzarella, skinka, svamp",
-      "image": "https://fratellipizza-heilbronn.de/wp-content/uploads/2022/10/4-Prosciutto-e-Funghi.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Frutti di Mare",
-      "price": 139,
-      "description": "Tomatsås, mozzarella, skaldjur, vitlök",
-      "image": "https://img.koket.se/standard-mega/pizza-frutti-di-mare.jpg.webp",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Calzone",
-      "price": 119,
-      "description": "Tomatsås, mozzarella, skinka (fylld)",
-      "image": "https://receptfavoriter.se/sites/default/files/styles/recipe_16x9/public/hembakt_calzone_1200_2.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Vegetariana",
-      "price": 115,
-      "description": "Tomatsås, mozzarella, grönsaker",
-      "image": "https://cdn.shopify.com/s/files/1/0191/9978/files/Pizza-Veggie-Supreme-blog.jpg?v=1652775259",
       "rateing": 5,
       "visible": true
     },
