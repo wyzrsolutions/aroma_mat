@@ -551,15 +551,6 @@
     },
     {
       "categori": "Drycker",
-      "name": "Limoncello",
-      "price": 70,
-      "description": "Sötläskande citronsprit",
-      "image": "https://www.crowdedkitchen.com/wp-content/uploads/2021/01/limoncello-spritz-13.jpg",
-      "rating": 5,
-      "visible": true
-    },
-    {
-      "categori": "Drycker",
       "name": "Spritz",
       "price": 85,
       "description": "En frisk drink med prosecco och aperol",
