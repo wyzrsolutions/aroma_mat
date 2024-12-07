@@ -299,15 +299,6 @@
     },
     {
       "categori": "Pizza",
-      "name": "Quattro Stagioni",
-      "price": 129,
-      "description": "Tomatsås, mozzarella, skinka, svamp, kronärtskocka, oliver",
-      "image": "https://images.recept.se/images/recipes/pizza-fyra-arstider_3337.jpg?fit=crop&crop=focalpoint&auto=format&fp-x=0.4939076817556&fp-y=0.62221975263075&fp-z=1.0146130823917&w=600&h=600",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
       "name": "Prosciutto e Funghi",
       "price": 119,
       "description": "Tomatsås, mozzarella, skinka, svamp",
