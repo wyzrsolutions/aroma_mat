@@ -46,6 +46,24 @@
   },
   "preOrder": [
     {
+      "categori": "Dryck",
+      "name": "San Pellegrino 500ml",
+      "price": 60,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dryck",
+      "name": "Cola/Fanta/7-up/Pepsi/Juice 33cl",
+      "price": 30,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
       "categori": "Dessert",
       "name": "Tiramisu",
       "price": 89,
@@ -690,15 +708,6 @@
       "price": 110,
       "description": "En balanserad blend med mjuka vanilj- och ektoner",
       "image": "https://www.pentagast.de/media/1c/7b/6b/1700668424/260147_20245_00.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Dryck",
-      "name": "Cola/Fanta/7-up/Pepsi/Juice 33cl",
-      "price": 30,
-      "description": " ",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
       "visible": true
     }
