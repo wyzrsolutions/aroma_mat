@@ -551,15 +551,6 @@
     },
     {
       "categori": "Drycker",
-      "name": "Spritz",
-      "price": 85,
-      "description": "En frisk drink med prosecco och aperol",
-      "image": "https://www.alkoholfrittshop.se/media/catalog/product/cache/4a5cf70630b9c3080e492221e54d9a9f/b/l/blood-orange-spritz-800x600.png",
-      "rating": 5,
-      "visible": true
-    },
-    {
-      "categori": "Drycker",
       "name": "Bärsmoothie",
       "price": 55,
       "description": "Fräsch smoothie med blandade bär",
