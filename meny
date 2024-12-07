@@ -299,15 +299,6 @@
     },
     {
       "categori": "Pizza",
-      "name": "Frutti di Mare",
-      "price": 139,
-      "description": "Tomatsås, mozzarella, skaldjur, vitlök",
-      "image": "https://img.koket.se/standard-mega/pizza-frutti-di-mare.jpg.webp",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
       "name": "Calzone",
       "price": 119,
       "description": "Tomatsås, mozzarella, skinka (fylld)",
