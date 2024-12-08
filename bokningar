@@ -35,17 +35,15 @@
   "2025-1-10": [
     {
       "guests": "2",
-      "time": "16:00",
-      "preorder": [
-        "1x Vongole"
-      ],
+      "time": "16:30",
+      "preorder": [],
       "status": "requested",
-      "price": 159,
-      "extra": "Barnstol",
-      "name": "Osccar",
-      "phone": "0898765432",
+      "price": 0,
+      "extra": "",
+      "name": "Stella",
+      "phone": "0708202154",
       "email": "ceciliaforsvall@hotmail.com",
-      "comment": "e"
+      "comment": "nr 2"
     }
   ]
 }
