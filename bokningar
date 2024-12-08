@@ -32,18 +32,18 @@
       "comment": "Hej hej"
     }
   ],
-  "2025-1-10": [
+  "2024-12-13": [
     {
-      "guests": "10",
-      "time": "21:00",
+      "guests": "3",
+      "time": "16:30",
       "preorder": [],
       "status": "requested",
       "price": 0,
-      "extra": "Födelsedag",
-      "name": "Andreas",
-      "phone": "0987564534",
-      "email": "andreas@gmail.com",
-      "comment": "nr.1"
+      "extra": "",
+      "name": "Cecilia Forsvall",
+      "phone": "0898765432",
+      "email": "hej@gmail.com",
+      "comment": "13:e"
     }
   ]
 }
