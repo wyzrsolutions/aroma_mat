@@ -16,22 +16,6 @@
       "comment": "Hej"
     }
   ],
-  "2024-12-12": [
-    {
-      "guests": "2",
-      "time": "16:30",
-      "preorder": [
-        "2x Pasta Med Salsiccia"
-      ],
-      "status": "accepted",
-      "price": 298,
-      "extra": "",
-      "name": "Stella",
-      "phone": "0898765432",
-      "email": "hej@gmail.com",
-      "comment": "Hej hej"
-    }
-  ],
   "2024-12-13": [
     {
       "guests": "3",
