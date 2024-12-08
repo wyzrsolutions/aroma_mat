@@ -75,24 +75,6 @@
       "comment": "8:e nr.4"
     }
   ],
-  "2025-1-11": [
-    {
-      "guests": "4",
-      "time": "13:00",
-      "preorder": [
-        "1x Caprese",
-        "4x Pane All'Aglie (Vitlöskbröd)",
-        "1x Bolognese"
-      ],
-      "status": "accepted",
-      "price": 644,
-      "extra": "Barnstol",
-      "name": "Osccar",
-      "phone": "0898765432",
-      "email": "ceciliaforsvall@hotmail.com",
-      "comment": "Vi gillar mat"
-    }
-  ],
   "": [
     {
       "guests": "9",
