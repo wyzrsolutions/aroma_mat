@@ -31,5 +31,21 @@
       "email": "hej@gmail.com",
       "comment": "Hej hej"
     }
+  ],
+  "2025-1-10": [
+    {
+      "guests": "2",
+      "time": "16:00",
+      "preorder": [
+        "1x Vongole"
+      ],
+      "status": "requested",
+      "price": 159,
+      "extra": "Barnstol",
+      "name": "Osccar",
+      "phone": "0898765432",
+      "email": "ceciliaforsvall@hotmail.com",
+      "comment": "e"
+    }
   ]
 }
