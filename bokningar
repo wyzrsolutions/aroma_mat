@@ -16,22 +16,20 @@
       "comment": "Hej"
     }
   ],
-  "2024-12-17": [
+  "2024-12-12": [
     {
       "guests": "2",
-      "time": "16:00",
+      "time": "16:30",
       "preorder": [
-        "1x Vongole",
-        "2x Pomodoro Scampi con Spinaci",
-        "1x Pasta Bolognese"
+        "2x Pasta Med Salsiccia"
       ],
       "status": "requested",
-      "price": 606,
-      "extra": "Barnstol",
-      "name": "Cecilia Forsvall",
-      "phone": "0708202154",
-      "email": "ceciliaforsvall@hotmail.com",
-      "comment": "Hej"
+      "price": 298,
+      "extra": "",
+      "name": "Stella",
+      "phone": "0898765432",
+      "email": "hej@gmail.com",
+      "comment": "Hej hej"
     }
   ]
 }
