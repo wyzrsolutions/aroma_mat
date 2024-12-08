@@ -50,14 +50,17 @@
     {
       "guests": "4",
       "time": "20:30",
-      "preorder": [],
+      "preorder": [
+        "1x Pasta Med Salsiccia",
+        "1x Vongole"
+      ],
       "status": "requested",
-      "price": 0,
-      "extra": "Födelsedag",
-      "name": "Stella",
+      "price": 308,
+      "extra": "",
+      "name": "Cecilia Forsvall",
       "phone": "0708202154",
       "email": "ceciliaforsvall@hotmail.com",
-      "comment": "8:e nr 2"
+      "comment": "8:e nr3"
     }
   ]
 }
