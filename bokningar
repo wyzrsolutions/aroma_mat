@@ -14,91 +14,24 @@
       "phone": "0898765432",
       "email": "hej@gmail.com",
       "comment": "Hej"
-    },
-    {
-      "guests": "4",
-      "time": "19:00",
-      "preorder": [
-        "2x Husets röda (glas)",
-        "1x Husets röda (flaska)",
-        "1x Kaffe"
-      ],
-      "status": "confirmed",
-      "price": 750,
-      "extra": "Vegan, Allergi (nötter)",
-      "name": "Anna Svensson",
-      "phone": "0812345678",
-      "email": "anna.svensson@example.com",
-      "comment": "Tack!"
     }
   ],
-  "2025-1-13": [
-    {
-      "guests": "3",
-      "time": "18:00",
-      "preorder": [
-        "3x Husets vita (glas)",
-        "1x Mineralvatten"
-      ],
-      "status": "requested",
-      "price": 645,
-      "extra": "Barnvagn",
-      "name": "Johan Eriksson",
-      "phone": "0876543210",
-      "email": "johan.eriksson@example.com",
-      "comment": "Kommer med barnvagn."
-    }
-  ],
-  "2025-1-14": [
-    {
-      "guests": "5",
-      "time": "20:00",
-      "preorder": [
-        "1x Husets röda (glas)",
-        "2x Husets röda (flaska)",
-        "1x Mousserande (glas)"
-      ],
-      "status": "confirmed",
-      "price": 2100,
-      "extra": "Födelsedag",
-      "name": "Maria Andersson",
-      "phone": "0865432109",
-      "email": "maria.andersson@example.com",
-      "comment": "Födelsedagsfirande."
-    }
-  ],
-  "2025-1-15": [
-    {
-      "guests": "6",
-      "time": "17:30",
-      "preorder": [
-        "6x Husets vita (glas)",
-        "2x Mineralvatten"
-      ],
-      "status": "requested",
-      "price": 1650,
-      "extra": "",
-      "name": "Erik Nilsson",
-      "phone": "0834567890",
-      "email": "erik.nilsson@example.com",
-      "comment": ""
-    }
-  ],
-  "2025-1-16": [
+  "2024-12-17": [
     {
       "guests": "2",
-      "time": "12:00",
+      "time": "16:00",
       "preorder": [
-        "2x Husets röda (glas)",
-        "2x Cappuccino"
+        "1x Vongole",
+        "2x Pomodoro Scampi con Spinaci",
+        "1x Pasta Bolognese"
       ],
-      "status": "confirmed",
-      "price": 450,
-      "extra": "Rullstol",
-      "name": "Lena Karlsson",
-      "phone": "0843216789",
-      "email": "lena.karlsson@example.com",
-      "comment": "Kommer i rullstol."
+      "status": "requested",
+      "price": 606,
+      "extra": "Barnstol",
+      "name": "Cecilia Forsvall",
+      "phone": "0708202154",
+      "email": "ceciliaforsvall@hotmail.com",
+      "comment": "Hej"
     }
   ]
 }
