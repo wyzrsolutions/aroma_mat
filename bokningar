@@ -48,16 +48,16 @@
   ],
   "2024-12-08": [
     {
-      "guests": "3",
-      "time": "15:30",
+      "guests": "4",
+      "time": "20:30",
       "preorder": [],
       "status": "requested",
       "price": 0,
-      "extra": "",
-      "name": "Osccar",
-      "phone": "0898765432",
+      "extra": "Födelsedag",
+      "name": "Stella",
+      "phone": "0708202154",
       "email": "ceciliaforsvall@hotmail.com",
-      "comment": "8:e"
+      "comment": "8:e nr 2"
     }
   ]
 }
