@@ -58,19 +58,5 @@
       "email": "ceciliaforsvall@hotmail.com",
       "comment": "8:e nr.4"
     }
-  ],
-  "2024-12-23": [
-    {
-      "guests": "9",
-      "time": "13:30",
-      "preorder": "",
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Test person",
-      "phone": "0987654321",
-      "email": "hej@gmail.com",
-      "comment": "Hje hje"
-    }
   ]
 }
