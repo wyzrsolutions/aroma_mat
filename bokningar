@@ -34,16 +34,16 @@
   ],
   "2025-1-10": [
     {
-      "guests": "2",
-      "time": "16:30",
+      "guests": "10",
+      "time": "21:00",
       "preorder": [],
       "status": "requested",
       "price": 0,
-      "extra": "",
-      "name": "Stella",
-      "phone": "0708202154",
-      "email": "ceciliaforsvall@hotmail.com",
-      "comment": "nr 2"
+      "extra": "Födelsedag",
+      "name": "Andreas",
+      "phone": "0987564534",
+      "email": "andreas@gmail.com",
+      "comment": "nr.1"
     }
   ]
 }
