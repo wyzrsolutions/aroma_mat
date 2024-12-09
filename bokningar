@@ -29,5 +29,26 @@
       "email": "hej@gmail.com",
       "comment": "13:e"
     }
+  ],
+  "2024-12-20": [
+    {
+      "guests": "3",
+      "time": "16:30",
+      "preorder": [
+        "1x Vongole",
+        "1x Kycklingsallad",
+        "1x Evergreen Sallad",
+        "1x Prosecco",
+        "200ml",
+        "1x Tiramisu"
+      ],
+      "status": "requested",
+      "price": 636,
+      "extra": "",
+      "name": "Oscar Forsvall",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Hej Anggor!"
+    }
   ]
 }
