@@ -92,5 +92,19 @@
       "email": "anggormiah@gmail.com",
       "comment": "Some good "
     }
+  ],
+  "2024-12-10": [
+    {
+      "guests": "3",
+      "time": "18:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anki Leeman",
+      "phone": "0702328967",
+      "email": "Anki.larsson@gmail.com",
+      "comment": ""
+    }
   ]
 }
