@@ -29,19 +29,5 @@
       "email": "hej@gmail.com",
       "comment": "13:e"
     }
-  ],
-  "2024-12-20": [
-    {
-      "guests": "4",
-      "time": "16:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Jakob Bogsjö",
-      "phone": "0898765432",
-      "email": "hej@gmail.com",
-      "comment": "ser du denna?"
-    }
   ]
 }
