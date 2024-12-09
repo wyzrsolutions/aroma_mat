@@ -57,7 +57,7 @@
     {
       "guests": "2",
       "time": "16:30",
-      "preorder": "",
+      "preorder": [],
       "status": "requested",
       "price": 0,
       "extra": "",
