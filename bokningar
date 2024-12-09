@@ -38,5 +38,19 @@
       "email": "amandacoester@live.com",
       "comment": ""
     }
+  ],
+  "2024-12-13": [
+    {
+      "guests": "4",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anders Lindén",
+      "phone": "0705959398",
+      "email": "Skellefteanders@hotmail.com",
+      "comment": ""
+    }
   ]
 }
