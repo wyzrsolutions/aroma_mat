@@ -15,27 +15,15 @@
   ],
   "2024-12-14": [
     {
-      "guests": "4",
-      "time": "18:30",
+      "guests": "2",
+      "time": "16:30",
       "preorder": [],
       "status": "accepted",
       "price": 0,
       "extra": "",
-      "name": "Lena Svensson",
-      "phone": "0739370387",
-      "email": "svenssons2@hotmail.com",
-      "comment": ""
-    },
-    {
-      "guests": "4",
-      "time": "17:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Amanda",
-      "phone": "0733164020",
-      "email": "amandacoester@live.com",
+      "name": "Madeleine Hjerpe",
+      "phone": "0706401920",
+      "email": "madeleinehjerpe@live.se ",
       "comment": ""
     }
   ],
@@ -50,20 +38,6 @@
       "name": "Anders Lindén",
       "phone": "0705959398",
       "email": "Skellefteanders@hotmail.com",
-      "comment": ""
-    }
-  ],
-  "2024-12-14": [
-    {
-      "guests": "2",
-      "time": "16:30",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Madeleine Hjerpe",
-      "phone": "0706401920",
-      "email": "madeleinehjerpe@live.se ",
       "comment": ""
     }
   ],
