@@ -66,5 +66,19 @@
       "email": "madeleinehjerpe@live.se ",
       "comment": ""
     }
+  ],
+  "2025-1-11": [
+    {
+      "guests": "2",
+      "time": "16:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Födelsedag",
+      "name": "Oscar Forsvall",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Test"
+    }
   ]
 }
