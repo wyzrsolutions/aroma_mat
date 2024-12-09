@@ -59,18 +59,6 @@
       "phone": "0708202154",
       "email": "ceciliaforsvall@hotmail.com",
       "comment": "8:e nr3"
-    },
-    {
-      "guests": "2",
-      "time": "19:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "F�delsedag",
-      "name": "Stella",
-      "phone": "0898765432",
-      "email": "ceciliaforsvall@hotmail.com",
-      "comment": "8:e nr.4"
     }
   ]
 }
