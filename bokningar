@@ -52,5 +52,19 @@
       "email": "Skellefteanders@hotmail.com",
       "comment": ""
     }
+  ],
+  "": [
+    {
+      "guests": "2",
+      "time": "16:30",
+      "preorder": "",
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Madeleine Hjerpe",
+      "phone": "0706401920",
+      "email": "Madeleinehjerpe@live.se ",
+      "comment": ""
+    }
   ]
 }
