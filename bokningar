@@ -29,5 +29,19 @@
       "email": "Anki.larsson@gmail.com",
       "comment": ""
     }
+  ],
+  "2024-12-14": [
+    {
+      "guests": "4",
+      "time": "18:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Lena Svensson",
+      "phone": "0739370387",
+      "email": "svenssons2@hotmail.com",
+      "comment": ""
+    }
   ]
 }
