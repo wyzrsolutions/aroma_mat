@@ -30,6 +30,20 @@
       "comment": "13:e"
     }
   ],
+  "2024-12-16": [
+    {
+      "guests": "7",
+      "time": "16:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Oscar Fosravll",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Jag älskar mat!"
+    }
+  ],
   "2024-12-21": [
     {
       "guests": "5",
