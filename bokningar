@@ -78,5 +78,22 @@
       "email": "oscarforsvall@icloud.com",
       "comment": "Hej Anggor!"
     }
+  ],
+  "2024-12-27": [
+    {
+      "guests": "4",
+      "time": "13:00",
+      "preorder": [
+        "1x Pasta Med Salsiccia",
+        "1x Vongole"
+      ],
+      "status": "requested",
+      "price": 308,
+      "extra": "Barnstol",
+      "name": "Anggor",
+      "phone": "0766292154",
+      "email": "aromarestaurang@gmail.com",
+      "comment": "Test"
+    }
   ]
 }
