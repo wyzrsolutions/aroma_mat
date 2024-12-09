@@ -30,6 +30,20 @@
       "comment": "13:e"
     }
   ],
+  "2024-12-21": [
+    {
+      "guests": "5",
+      "time": "15:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Cecilia Forsvall",
+      "phone": "0898765432",
+      "email": "hej@gmail.com",
+      "comment": "den nya"
+    }
+  ],
   "2024-12-20": [
     {
       "guests": "3",
