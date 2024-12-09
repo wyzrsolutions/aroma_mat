@@ -7,7 +7,7 @@
         "1x Husets vita (glas)",
         "4x Husets vita (flaska)"
       ],
-      "status": "accepted",
+      "status": "requested",
       "price": 1355,
       "extra": "Barnstol, Rullstol, F�delsedag",
       "name": "Osccar",
@@ -21,7 +21,7 @@
       "guests": "3",
       "time": "16:30",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "Cecilia Forsvall",
