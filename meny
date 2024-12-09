@@ -49,7 +49,7 @@
       "categori": "Pasta",
       "name": "Pasta Med Salsiccia",
       "price": 149,
-      "description": "Salsiccia, lök, vitlök, paprika, körbärstomater, plivolja, citron",
+      "description": "Salsiccia, lök, vitlök, paprika, körbärstomater, olivolja, citron",
       "image": "https://lh3.googleusercontent.com/p/AF1QipO_aoCarNyqxtQAmxaiwhyPXkD0KjpxoVpuP8rO=s1360-w1360-h1020",
       "rateing": 5,
       "visible": true
@@ -119,7 +119,7 @@
     },
     {
       "categori": "Förrätter",
-      "name": "Pane All'Aglie (Vitlöskbröd)",
+      "name": "Pane All'Aglie (vitlöksbröd)",
       "price": 99,
       "description": "Mozzarella och vitlök",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
