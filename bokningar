@@ -15,10 +15,34 @@
   ],
   "2024-12-14": [
     {
+      "guests": "4",
+      "time": "18:30",
+      "preorder": [],
+      "status": "accepted",
+      "price": 0,
+      "extra": "",
+      "name": "Lena Svensson",
+      "phone": "0739370387",
+      "email": "svenssons2@hotmail.com",
+      "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "17:00",
+      "preorder": [],
+      "status": "accepted",
+      "price": 0,
+      "extra": "",
+      "name": "Amanda",
+      "phone": "0733164020",
+      "email": "amandacoester@live.com",
+      "comment": ""
+    },
+    {
       "guests": "2",
       "time": "16:30",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "Madeleine Hjerpe",
