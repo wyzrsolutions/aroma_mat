@@ -16,20 +16,6 @@
       "comment": "Test"
     }
   ],
-  "2024-12-12": [
-    {
-      "guests": "2",
-      "time": "14:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Anggor",
-      "phone": "0739429416",
-      "email": "anggormiah@gmail.com",
-      "comment": "Some good "
-    }
-  ],
   "2024-12-10": [
     {
       "guests": "3",
