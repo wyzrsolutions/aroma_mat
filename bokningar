@@ -43,22 +43,5 @@
       "email": "hej@gmail.com",
       "comment": "ser du denna?"
     }
-  ],
-  "2024-12-08": [
-    {
-      "guests": "4",
-      "time": "20:30",
-      "preorder": [
-        "1x Pasta Med Salsiccia",
-        "1x Vongole"
-      ],
-      "status": "accepted",
-      "price": 308,
-      "extra": "",
-      "name": "Cecilia Forsvall",
-      "phone": "0708202154",
-      "email": "ceciliaforsvall@hotmail.com",
-      "comment": "8:e nr3"
-    }
   ]
 }
