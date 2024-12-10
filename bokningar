@@ -78,5 +78,19 @@
       "email": "oscarforsvall@icloud.com",
       "comment": ""
     }
+  ],
+  "2024-12-31": [
+    {
+      "guests": "4",
+      "time": "12:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "programmer booking",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": ""
+    }
   ]
 }
