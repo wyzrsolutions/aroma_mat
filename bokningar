@@ -62,6 +62,20 @@
       "name": "Madeleine Hjerpe",
       "phone": "0706401920",
       "email": "madeleinehjerpe@live.se ",
+      "comment": "Madeleine tried to make a booking but it didn't registrer. Now fixed and email to her has been sent."
+    }
+  ],
+  "2024-12-30": [
+    {
+      "guests": "4",
+      "time": "17:30",
+      "preorder": [],
+      "status": "accepted",
+      "price": 0,
+      "extra": "",
+      "name": "programmer booking",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
       "comment": ""
     }
   ]
