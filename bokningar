@@ -70,7 +70,7 @@
       "guests": "4",
       "time": "17:30",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "programmer booking",
