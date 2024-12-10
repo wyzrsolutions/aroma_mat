@@ -64,19 +64,5 @@
       "email": "madeleinehjerpe@live.se ",
       "comment": ""
     }
-  ],
-  "2024-12-17": [
-    {
-      "guests": "7",
-      "time": "19:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "The programmer",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Just a test booking"
-    }
   ]
 }
