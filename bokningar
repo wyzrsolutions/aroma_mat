@@ -97,7 +97,7 @@
     {
       "guests": "4",
       "time": "19:00",
-      "preorder": "",
+      "preorder": [],
       "status": "requested",
       "price": 0,
       "extra": "",
