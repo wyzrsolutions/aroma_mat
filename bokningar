@@ -65,4 +65,18 @@
       "comment": ""
     }
   ]
+    "2024-01-10": [
+    {
+      "guests": "10",
+      "time": "13:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Programmer testing",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "hello, this is just a test booking"
+    }
+  ],
 }
