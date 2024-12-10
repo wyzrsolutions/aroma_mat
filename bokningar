@@ -64,23 +64,5 @@
       "email": "madeleinehjerpe@live.se ",
       "comment": ""
     }
-  ],
-  "2024-12-31": [
-    {
-      "guests": "7",
-      "time": "12:30",
-      "preorder": [
-        "1x Pasta Med Salsiccia",
-        "1x Vongole",
-        "2x Pomodoro Scampi con Spinaci"
-      ],
-      "status": "accepted",
-      "price": 626,
-      "extra": "Barnstol",
-      "name": "programmer testing",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Programmer testing"
-    }
   ]
 }
