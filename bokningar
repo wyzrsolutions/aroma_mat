@@ -82,24 +82,5 @@
       "email": "oscarforsvall@icloud.com",
       "comment": "Programmer testing"
     }
-  ],
-  "2025-1-10": [
-    {
-      "guests": "10",
-      "time": "16:30",
-      "preorder": [
-        "1x Vongole",
-        "2x Pasta Med Salsiccia",
-        "1x Pomodoro Scampi con Spinaci",
-        "1x Pasta Verdure"
-      ],
-      "status": "accepted",
-      "price": 775,
-      "extra": "Barnstol, Rullstol, Födelsedag",
-      "name": "programmer testing",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "programmer testing"
-    }
   ]
 }
