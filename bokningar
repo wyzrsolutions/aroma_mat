@@ -64,5 +64,19 @@
       "email": "madeleinehjerpe@live.se ",
       "comment": "Madeleine tried to make a booking but it didn't registrer. Now fixed and email to her has been sent."
     }
+  ],
+  "2024-12-11": [
+    {
+      "guests": "2",
+      "time": "17:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Bo Johansson ",
+      "phone": "0709504885",
+      "email": "beji51@gmail.com",
+      "comment": ""
+    }
   ]
 }
