@@ -91,6 +91,18 @@
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
       "comment": "Test 2"
+    },
+    {
+      "guests": "2",
+      "time": "13:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Oscar Forsvall",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Test 3"
     }
   ]
 }
