@@ -13,6 +13,20 @@
       "comment": ""
     }
   ],
+  "2024-12-13": [
+    {
+      "guests": "4",
+      "time": "17:30",
+      "preorder": [],
+      "status": "accepted",
+      "price": 0,
+      "extra": "",
+      "name": "Anders Lindén",
+      "phone": "0705959398",
+      "email": "Skellefteanders@hotmail.com",
+      "comment": ""
+    }
+  ],
   "2024-12-14": [
     {
       "guests": "4",
@@ -48,20 +62,6 @@
       "name": "Madeleine Hjerpe",
       "phone": "0706401920",
       "email": "madeleinehjerpe@live.se ",
-      "comment": ""
-    }
-  ],
-  "2024-12-13": [
-    {
-      "guests": "4",
-      "time": "17:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Anders Lindén",
-      "phone": "0705959398",
-      "email": "Skellefteanders@hotmail.com",
       "comment": ""
     }
   ]
