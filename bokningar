@@ -62,7 +62,7 @@
       "name": "Madeleine Hjerpe",
       "phone": "0706401920",
       "email": "madeleinehjerpe@live.se ",
-      "comment": "Madeleine tried to make a booking but it didn't registrer. Now fixed and email to her has been sent."
+      "comment": ""
     }
   ],
   "2024-12-11": [
@@ -93,7 +93,7 @@
       "comment": ""
     }
   ],
-  "": [
+  "2025-12-31": [
     {
       "guests": "4",
       "time": "19:00",
@@ -104,7 +104,7 @@
       "name": "Torben Birk Schlage ",
       "phone": "+4550598085",
       "email": "torbenschlage@gmail.com",
-      "comment": ""
+      "comment": "Not the correct date yet"
     }
   ]
 }
