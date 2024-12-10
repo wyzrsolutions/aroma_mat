@@ -64,45 +64,5 @@
       "email": "Skellefteanders@hotmail.com",
       "comment": ""
     }
-  ],
-  "2025-01-11": [
-    {
-      "guests": "2",
-      "time": "16:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "Födelsedag",
-      "name": "Oscar Forsvall",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Test"
-    }
-  ],
-  "2024-12-24": [
-    {
-      "guests": "5",
-      "time": "17:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "Födelsedag",
-      "name": "Oscar Forsvall",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Test 2"
-    },
-    {
-      "guests": "2",
-      "time": "13:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Oscar Forsvall",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Test 3"
-    }
   ]
 }
