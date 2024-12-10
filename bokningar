@@ -106,5 +106,19 @@
       "email": "torbenschlage@gmail.com",
       "comment": "Not the correct date yet"
     }
+  ],
+  "2025-1-09": [
+    {
+      "guests": "--",
+      "time": "21:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "programmer testing",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Progrmmer testing"
+    }
   ]
 }
