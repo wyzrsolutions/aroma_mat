@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "Pizza",
+      "name": "Funghi",
+      "price": 159,
+      "description": "Höstsvamp, vitlök, oregano och mozzarella",
+      "image": "https://i.postimg.cc/V6br81Rd/fungi.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
       "name": "Calzone (inbakad)",
       "price": 159,
       "description": "Tomatsås, ost, vitlök, skinka, mozzarella",
