@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "Pizza",
+      "name": "Diavolo",
+      "price": 169,
+      "description": "Tomatsås, mozzarella, stark salami, parmesan och ruccola",
+      "image": "https://i.postimg.cc/y8YDN0jq/diavolo.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
       "name": "Funghi",
       "price": 159,
       "description": "Höstsvamp, vitlök, oregano och mozzarella",
