@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "Pasta",
+      "name": "Frutti Di Mare",
+      "price": 159,
+      "description": "Blandade skaldjur, körsbärstomater, persilja, olivolja, citron",
+      "image": "https://i.postimg.cc/g2QGPhBH/fruti.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
       "name": "Vongole",
       "price": 159,
       "description": "Spagetti, blandade blåmusslor, chili, vitlök, persilja, olivolja",
