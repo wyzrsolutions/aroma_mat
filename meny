@@ -46,6 +46,33 @@
   },
   "preOrder": [
     {
+      "categori": "Huvudrätter",
+      "name": "Ossobuco Beef",
+      "price": 189,
+      "description": "Nötkött med ben tillagat med ingefära och vitlök, serverat med risotto",
+      "image": "https://i.postimg.cc/TPMB9J4F/oie-HFo-Tp9am6l79.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Huvudrätter",
+      "name": "Grillad Laxfilé",
+      "price": 179,
+      "description": "Grillad Laxfilé med risotto eller sallad och bröd",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Huvudrätter",
+      "name": "Musslor (Cause)",
+      "price": 149,
+      "description": "Musslor med vin, vitlök, olivolja och citron",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
       "categori": "Pasta",
       "name": "Pomodoro Scampi con Spinaci",
       "price": 159,
@@ -185,24 +212,6 @@
       "name": "Evergreen Sallad",
       "price": 129,
       "description": "Blandade gröna blad med oliver och färsk mozzarella",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Huvudrätter",
-      "name": "Grillad Laxfilé",
-      "price": 179,
-      "description": "Grillad Laxfilé med risotto eller sallad och bröd",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Huvudrätter",
-      "name": "Musslor (Cause)",
-      "price": 149,
-      "description": "Musslor med vin, vitlök, olivolja och citron",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
       "visible": true
