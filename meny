@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "Pasta",
+      "name": "Pomodoro Scampi con Spinaci",
+      "price": 159,
+      "description": "Scampi, pomodoro, vin, chili, vitlök, parmesan, olivolja",
+      "image": "https://i.postimg.cc/TYszy6qR/oie-VBwg-PZp-Cy5u9.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
       "name": "Arabiata",
       "price": 149,
       "description": "Tomater, röd chili, vitlök, persilja, olivolja",
