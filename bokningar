@@ -1,4 +1,18 @@
 {
+  "2024-12-10": [
+    {
+      "guests": "3",
+      "time": "18:00",
+      "preorder": [],
+      "status": "accepted",
+      "price": 0,
+      "extra": "",
+      "name": "Anki Leeman",
+      "phone": "0702328967",
+      "email": "Anki.larsson@gmail.com",
+      "comment": ""
+    }
+  ],
   "2024-12-13": [
     {
       "guests": "4",
@@ -72,6 +86,20 @@
       "name": "Ulrika H Ström",
       "phone": "0730257980",
       "email": "ulrika.h.strom@outlook.com",
+      "comment": ""
+    }
+  ],
+  "2024-12-11": [
+    {
+      "guests": "2",
+      "time": "17:00",
+      "preorder": [],
+      "status": "accepted",
+      "price": 0,
+      "extra": "",
+      "name": "Bo Johansson ",
+      "phone": "0709504885",
+      "email": "beji51@gmail.com",
       "comment": ""
     }
   ],
