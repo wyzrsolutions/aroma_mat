@@ -16,26 +16,14 @@
   "2024-12-13": [
     {
       "guests": "4",
-      "time": "17:30",
+      "time": "19:00",
       "preorder": [],
       "status": "accepted",
       "price": 0,
       "extra": "",
-      "name": "Anders Lindén",
-      "phone": "0705959398",
-      "email": "Skellefteanders@hotmail.com",
-      "comment": ""
-    },
-    {
-      "guests": "4",
-      "time": "17:00",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Tahani Kassak",
-      "phone": "0737286253",
-      "email": "Tahani.kassak@hotmail.com",
+      "name": "Torben Birk Schlage ",
+      "phone": "+4550598085",
+      "email": "torbenschlage@gmail.com",
       "comment": ""
     }
   ],
@@ -129,20 +117,6 @@
       "comment": ""
     }
   ],
-  "2024-12-13": [
-    {
-      "guests": "4",
-      "time": "19:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Torben Birk Schlage ",
-      "phone": "+4550598085",
-      "email": "torbenschlage@gmail.com",
-      "comment": ""
-    }
-  ],
   "2025-1-09": [
     {
       "guests": "--",
@@ -171,7 +145,7 @@
       "comment": ""
     }
   ],
-  "2024-12-31": [
+  "2024-31-31": [
     {
       "guests": "2",
       "time": "18:30",
@@ -183,6 +157,20 @@
       "phone": "767996867",
       "email": "andreolsson13@gmail.com",
       "comment": "NOT RIGHT TIME"
+    }
+  ],
+  "2024-12-12": [
+    {
+      "guests": "1",
+      "time": "12:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Födelsedag",
+      "name": "Programmer",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "programmer booking!"
     }
   ]
 }
