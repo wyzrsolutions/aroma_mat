@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "Pizza",
+      "name": "Margherita",
+      "price": 149,
+      "description": "Tomatsås, mozzarella och basilika",
+      "image": "https://i.postimg.cc/nh0QK3rc/Magarirata.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
       "name": "Prosciutto Crudo",
       "price": 169,
       "description": "Tomatsås, prosciutto, parmesan och ruccola",
