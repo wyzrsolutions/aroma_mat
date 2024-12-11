@@ -74,15 +74,6 @@
     },
     {
       "categori": "Pasta",
-      "name": "Arabiata",
-      "price": 149,
-      "description": "Tomater, röd chili, vitlök, persilja, olivolja",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pasta",
       "name": "Bolognese",
       "price": 149,
       "description": "Kalvköttfärs, tomat, vitlök, parmesan",
