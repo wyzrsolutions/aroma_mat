@@ -173,18 +173,18 @@
       "comment": "programmer booking!"
     }
   ],
-  "2024-12-27": [
+  "2024-12-19": [
     {
-      "guests": "1",
+      "guests": "3",
       "time": "16:00",
       "preorder": [],
       "status": "requested",
       "price": 0,
-      "extra": "",
-      "name": "programmer",
+      "extra": "Födelsedag",
+      "name": "programmer2",
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
-      "comment": "programmer"
+      "comment": "programmer 2 test"
     }
   ]
 }
