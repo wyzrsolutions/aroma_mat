@@ -63,6 +63,18 @@
       "phone": "0706401920",
       "email": "madeleinehjerpe@live.se ",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anette Kronvall",
+      "phone": "0735458389",
+      "email": "Anette.kronvall@helsingborg.se",
+      "comment": ""
     }
   ],
   "2024-12-11": [
