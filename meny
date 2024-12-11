@@ -47,6 +47,15 @@
   "preOrder": [
     {
       "categori": "Huvudrätter",
+      "name": "Grillad Laxfilé",
+      "price": 179,
+      "description": "Grillad Laxfilé med risotto eller sallad och bröd",
+      "image": "https://i.postimg.cc/0NYFHJgQ/lux.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Huvudrätter",
       "name": "Ossobuco Beef",
       "price": 189,
       "description": "Nötkött med ben tillagat med ingefära och vitlök, serverat med risotto",
