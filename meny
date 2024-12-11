@@ -56,6 +56,15 @@
     },
     {
       "categori": "Pizza",
+      "name": "Margherita",
+      "price": 149,
+      "description": "Tomatsås, mozzarella och basilika",
+      "image": "https://i.postimg.cc/nh0QK3rc/Magarirata.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
       "name": "Calzone (inbakad)",
       "price": 159,
       "description": "Tomatsås, ost, vitlök, skinka, mozzarella",
