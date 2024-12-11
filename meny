@@ -46,69 +46,6 @@
   },
   "preOrder": [
     {
-      "categori": "Pizza",
-      "name": "Calzone (inbakad)",
-      "price": 159,
-      "description": "Tomatsås, ost, vitlök, skinka, mozzarella",
-      "image": "https://i.postimg.cc/fb8jLwmC/oie-eusyg-O6-Jkj-Lb.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Quattro",
-      "price": 159,
-      "description": "Tomatsås, mozzarella, musslor, skinka, champinjoner",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Calzone (inbakad)",
-      "price": 159,
-      "description": "Tomatsås, ost, vitlök, skinka, mozzarella",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Prosciutto Crudo",
-      "price": 169,
-      "description": "Tomatsås, prosciutto, parmesan och ruccola",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Diavolo",
-      "price": 169,
-      "description": "Tomatsås, mozzarella, stark salami, parmesan och ruccola",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Funghi",
-      "price": 159,
-      "description": "Höstsvamp, vitlök, oregano och mozzarella",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Pizza",
-      "name": "Margherita",
-      "price": 149,
-      "description": "Tomatsås, mozzarella och basilika",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Förrätter",
       "name": "Caprese",
       "price": 99,
@@ -230,6 +167,51 @@
       "name": "Bolognese",
       "price": 149,
       "description": "Kalvköttfärs, tomat, vitlök, parmesan",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Quattro",
+      "price": 159,
+      "description": "Tomatsås, mozzarella, musslor, skinka, champinjoner",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Prosciutto Crudo",
+      "price": 169,
+      "description": "Tomatsås, prosciutto, parmesan och ruccola",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Diavolo",
+      "price": 169,
+      "description": "Tomatsås, mozzarella, stark salami, parmesan och ruccola",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Funghi",
+      "price": 159,
+      "description": "Höstsvamp, vitlök, oregano och mozzarella",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Margherita",
+      "price": 149,
+      "description": "Tomatsås, mozzarella och basilika",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
       "visible": true
