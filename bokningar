@@ -172,5 +172,19 @@
       "email": "oscarforsvall@icloud.com",
       "comment": "programmer 1 test"
     }
+  ],
+  "": [
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": "",
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anders Strömqvist ",
+      "phone": "070-674 85 43 ",
+      "email": "antehbg@hotmail.com",
+      "comment": ""
+    }
   ]
 }
