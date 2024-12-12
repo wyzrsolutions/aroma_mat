@@ -196,5 +196,19 @@
       "email": "antehbg@hotmail.com",
       "comment": "NOT THE RIGHT TIME"
     }
+  ],
+  "2024-12-31": [
+    {
+      "guests": "1",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Programmer ",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Programmer testing "
+    }
   ]
 }
