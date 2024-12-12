@@ -210,5 +210,19 @@
       "email": "oscarforsvall@icloud.com",
       "comment": "Programmer testing "
     }
+  ],
+  "": [
+    {
+      "guests": "4",
+      "time": "19:30",
+      "preorder": "",
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Krisztina Bengtsson ",
+      "phone": "070 288 4307 ",
+      "email": "Krisztina@syntes.se",
+      "comment": ""
+    }
   ]
 }
