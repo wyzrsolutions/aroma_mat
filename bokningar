@@ -153,6 +153,18 @@
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
       "comment": "programmer booking!"
+    },
+    {
+      "guests": "4",
+      "time": "19:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Krisztina Bengtsson ",
+      "phone": "0702884307",
+      "email": "Krisztina@syntes.se",
+      "comment": ""
     }
   ],
   "2024-12-19": [
