@@ -129,7 +129,7 @@
       "comment": ""
     }
   ],
-  "2024-12-31": [
+  "2024-31-31": [
     {
       "guests": "2",
       "time": "18:30",
@@ -140,7 +140,7 @@
       "name": "André",
       "phone": "767996867",
       "email": "andreolsson13@gmail.com",
-      "comment": "NOT RIGHT TIME"
+      "comment": "NOT THE RIGHT TIME"
     }
   ],
   "2024-12-12": [
@@ -196,7 +196,7 @@
       "name": "Anders Strömqvist ",
       "phone": "070-674 85 43 ",
       "email": "antehbg@hotmail.com",
-      "comment": ""
+      "comment": "NOT THE RIGHT TIME"
     }
   ]
 }
