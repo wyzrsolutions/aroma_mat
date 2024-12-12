@@ -97,6 +97,18 @@
       "phone": "0706748543",
       "email": "antehbg@hotmail.com",
       "comment": ""
+    },
+    {
+      "guests": "3",
+      "time": "19:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Johanna  Mårtensson",
+      "phone": "0761077992",
+      "email": "Johannamartensson9@gmail.com",
+      "comment": ""
     }
   ],
   "2024-12-15": [
