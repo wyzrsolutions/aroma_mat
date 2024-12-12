@@ -247,11 +247,11 @@
       "comment": "Programmer testing "
     }
   ],
-  "": [
+  "2024-31-03": [
     {
       "guests": "4",
       "time": "19:30",
-      "preorder": "",
+      "preorder": [],
       "status": "requested",
       "price": 0,
       "extra": "",
