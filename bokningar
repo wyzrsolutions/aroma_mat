@@ -73,6 +73,18 @@
       "phone": "0730257980",
       "email": "ulrika.h.strom@outlook.com",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anders Strömqvist ",
+      "phone": "0706748543",
+      "email": "antehbg@hotmail.com",
+      "comment": ""
     }
   ],
   "2024-12-15": [
