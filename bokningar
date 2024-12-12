@@ -23,6 +23,18 @@
       "phone": "767996867",
       "email": "andreolsson13@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "18:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anders Bäckström",
+      "phone": "0734661110",
+      "email": "backstromanders88@gmail.com",
+      "comment": ""
     }
   ],
   "2024-12-14": [
