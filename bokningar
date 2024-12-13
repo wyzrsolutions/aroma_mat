@@ -179,18 +179,6 @@
   ],
   "2024-12-12": [
     {
-      "guests": "1",
-      "time": "12:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "Födelsedag",
-      "name": "Programmer",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "programmer booking!"
-    },
-    {
       "guests": "4",
       "time": "19:30",
       "preorder": [],
