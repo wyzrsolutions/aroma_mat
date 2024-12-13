@@ -274,5 +274,19 @@
       "email": "Krisztina@syntes.se",
       "comment": ""
     }
+  ],
+  "": [
+    {
+      "guests": "2",
+      "time": "19:30",
+      "preorder": "",
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Peter Byfors",
+      "phone": "0703-790404",
+      "email": "peter.byfors@hotmail.com",
+      "comment": ""
+    }
   ]
 }
