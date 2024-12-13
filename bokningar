@@ -275,7 +275,7 @@
       "comment": ""
     }
   ],
-  "2024-31-05": [
+  "": [
     {
       "guests": "2",
       "time": "19:30",
@@ -286,6 +286,20 @@
       "name": "Peter Byfors",
       "phone": "0703-790404",
       "email": "peter.byfors@hotmail.com",
+      "comment": ""
+    }
+  ],
+  "2024-12-18": [
+    {
+      "guests": "3",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anders Skoglund",
+      "phone": "0704587420",
+      "email": "anders.skoglund@ekamant.se",
       "comment": ""
     }
   ]
