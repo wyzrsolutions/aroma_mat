@@ -35,6 +35,18 @@
       "phone": "0734661110",
       "email": "backstromanders88@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Bo Lundström ",
+      "phone": "0703945095",
+      "email": "bolundstrom53@gmail.com",
+      "comment": ""
     }
   ],
   "2024-12-14": [
