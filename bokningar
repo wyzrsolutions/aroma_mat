@@ -61,6 +61,18 @@
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
       "comment": "Lunch "
+    },
+    {
+      "guests": "2",
+      "time": "20:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Ola",
+      "phone": "0705563831",
+      "email": "ola63@hotmail.se",
+      "comment": ""
     }
   ],
   "2024-12-14": [
