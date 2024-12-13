@@ -47,6 +47,20 @@
       "phone": "0703945095",
       "email": "bolundstrom53@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "1",
+      "time": "13:30",
+      "preorder": [
+        "1x Prosciutto Crudo"
+      ],
+      "status": "requested",
+      "price": 169,
+      "extra": "",
+      "name": "Oscar",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Lunch "
     }
   ],
   "2024-12-14": [
