@@ -275,11 +275,11 @@
       "comment": ""
     }
   ],
-  "": [
+  "2024-31-05": [
     {
       "guests": "2",
       "time": "19:30",
-      "preorder": "",
+      "preorder": [],
       "status": "requested",
       "price": 0,
       "extra": "",
