@@ -326,19 +326,5 @@
       "email": "anders.skoglund@ekamant.se",
       "comment": ""
     }
-  ],
-  "2024-12-21": [
-    {
-      "guests": "4",
-      "time": "18:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "John Glennander",
-      "phone": "0733411157",
-      "email": "jglennander@gmail.com",
-      "comment": ""
-    }
   ]
 }
