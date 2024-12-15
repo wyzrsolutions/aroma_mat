@@ -209,6 +209,18 @@
       "phone": "0768834640",
       "email": "pontus__pp@hotmail.com",
       "comment": ""
+    },
+    {
+      "guests": "3",
+      "time": "12:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Kristin Hintze",
+      "phone": "0708470377",
+      "email": "britakristinhintze@gmail.com",
+      "comment": ""
     }
   ],
   "2025-1-09": [
