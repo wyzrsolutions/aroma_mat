@@ -374,5 +374,19 @@
       "email": "anders.skoglund@ekamant.se",
       "comment": ""
     }
+  ],
+  "2024-12-22": [
+    {
+      "guests": "1",
+      "time": "13:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Födelsedag",
+      "name": "Programmera test",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Test "
+    }
   ]
 }
