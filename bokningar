@@ -291,6 +291,18 @@
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
       "comment": "programmer 1 test"
+    },
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Kerstin",
+      "phone": "0733477006",
+      "email": "Kerstinmaughan61@gmail.com",
+      "comment": ""
     }
   ],
   "2024-31-01": [
