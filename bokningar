@@ -402,5 +402,19 @@
       "email": "robhero@gmail.com",
       "comment": ""
     }
+  ],
+  "2024-12-23": [
+    {
+      "guests": "6",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Mari Ekman",
+      "phone": "0739088746",
+      "email": "Mariekman@hotmail.com",
+      "comment": ""
+    }
   ]
 }
