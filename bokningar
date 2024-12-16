@@ -388,5 +388,19 @@
       "email": "oscarforsvall@icloud.com",
       "comment": "Test "
     }
+  ],
+  "2024-12-16": [
+    {
+      "guests": "5",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Födelsedag",
+      "name": "Robert Gustavsson",
+      "phone": "0723888550",
+      "email": "robhero@gmail.com",
+      "comment": ""
+    }
   ]
 }
