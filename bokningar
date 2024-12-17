@@ -327,6 +327,18 @@
       "phone": "0703108597",
       "email": "Mattias_dahl@outlook.com",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "19:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Mattias Dahl",
+      "phone": "0703108597",
+      "email": "Mattias_dahl@outlook.com",
+      "comment": ""
     }
   ],
   "2024-31-01": [
