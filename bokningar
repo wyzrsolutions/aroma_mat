@@ -477,6 +477,18 @@
       "phone": "0705-753560",
       "email": "mia_eriksson@telia.com",
       "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "16:30",
+      "preorder": "",
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Niklas",
+      "phone": "0708-158515",
+      "email": "Niklas.stromberg001@gmail.com",
+      "comment": ""
     }
   ]
 }
