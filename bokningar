@@ -289,6 +289,18 @@
       "phone": "0702884307",
       "email": "Krisztina@syntes.se",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "13:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anders",
+      "phone": "0705194075",
+      "email": "Anders.gudmundsson@design.lth.se",
+      "comment": ""
     }
   ],
   "2024-12-17": [
