@@ -501,17 +501,19 @@
       "phone": "0708-158515",
       "email": "Niklas.stromberg001@gmail.com",
       "comment": ""
-    },
+    }
+  ],
+  "2024-12-20": [
     {
       "guests": "5",
-      "time": "19:00",
-      "preorder": "",
+      "time": "19:30",
+      "preorder": [],
       "status": "requested",
       "price": 0,
       "extra": "",
-      "name": "Bo nielsen",
-      "phone": "+4522444180",
-      "email": "bonielsen81@gmail.com",
+      "name": "Nellie  Nilsson",
+      "phone": "0722001727",
+      "email": "Nellie.nilsson77@gmail.com",
       "comment": ""
     }
   ]
