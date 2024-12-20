@@ -379,6 +379,18 @@
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
       "comment": "Programmer testing "
+    },
+    {
+      "guests": "2",
+      "time": "20:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Linn Båge",
+      "phone": "0702727961",
+      "email": "Linnjosefinbage@gmail.com",
+      "comment": ""
     }
   ],
   "2024-31-03": [
