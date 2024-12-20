@@ -447,6 +447,18 @@
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
       "comment": "Test "
+    },
+    {
+      "guests": "4",
+      "time": "18:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Peter ",
+      "phone": "0736184507",
+      "email": "Peter.kindbacke@live.com",
+      "comment": ""
     }
   ],
   "2024-12-16": [
