@@ -471,6 +471,18 @@
       "phone": "0736184507",
       "email": "Peter.kindbacke@live.com",
       "comment": ""
+    },
+    {
+      "guests": "6",
+      "time": "12:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Johan Liljeros",
+      "phone": "0765010376",
+      "email": "johan.liljeros@live.se",
+      "comment": ""
     }
   ],
   "2024-12-16": [
