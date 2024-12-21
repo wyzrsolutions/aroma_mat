@@ -261,6 +261,18 @@
       "phone": "0704505093",
       "email": "Susannepersson758@hotmail.com",
       "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "17:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Susanne ",
+      "phone": "0704505093",
+      "email": "Susannepersson758@hotmail.com",
+      "comment": "Bokar för 3e gången nu. Har inte fått någon bekräftelse i mailen "
     }
   ],
   "2024-12-12": [
