@@ -614,19 +614,5 @@
       "email": "jamievanzijl7@gmail.com",
       "comment": ""
     }
-  ],
-  "2025-1-31": [
-    {
-      "guests": "1",
-      "time": "16:00",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "Barnstol",
-      "name": "programmer testing",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "hej"
-    }
   ]
 }
