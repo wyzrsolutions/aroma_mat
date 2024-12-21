@@ -589,13 +589,11 @@
       "phone": "0706394056",
       "email": "ccr72@hotmail.se",
       "comment": "Hej. \nMehenaz har lovat mig världens godaste risotto. Gärna skaldjursrisotto. :)\nMvh\n\nChristian Reimer"
-    }
-  ],
-  "": [
+    },
     {
       "guests": "2",
       "time": "19:00",
-      "preorder": "",
+      "preorder": [],
       "status": "requested",
       "price": 0,
       "extra": "",
