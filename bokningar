@@ -568,7 +568,7 @@
       "guests": "2",
       "time": "18:00",
       "preorder": [],
-      "status": "requested",
+      "status": "declined",
       "price": 0,
       "extra": "",
       "name": "Tilda",
