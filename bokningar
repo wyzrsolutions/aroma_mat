@@ -190,7 +190,7 @@
       "guests": "4",
       "time": "17:30",
       "preorder": [],
-      "status": "requested",
+      "status": "declined",
       "price": 0,
       "extra": "",
       "name": "Joakim",
