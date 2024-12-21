@@ -282,7 +282,7 @@
       "guests": "3",
       "time": "16:00",
       "preorder": [],
-      "status": "accepted",
+      "status": "declined",
       "price": 0,
       "extra": "Födelsedag",
       "name": "programmer2",
