@@ -194,5 +194,19 @@
       "email": "igor.plicanic@gmail.con",
       "comment": "Hej, vi vill äta av den vanliga menyn, hoppas ni inte bara har nyårsmeny. "
     }
+  ],
+  "2024-12-27": [
+    {
+      "guests": "7",
+      "time": "13:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Födelsedag",
+      "name": "Eric Nilsson",
+      "phone": "0730284425",
+      "email": "ericflingan@hotmail.com",
+      "comment": "Mammas födelsedag så sätt gärna dit en flagga :)"
+    }
   ]
 }
