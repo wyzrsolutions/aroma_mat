@@ -41,6 +41,18 @@
       "comment": ""
     },
     {
+      "guests": "2",
+      "time": "18:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Oscar",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": ""
+    },
+    {
       "guests": "4",
       "time": "16:30",
       "preorder": [],
