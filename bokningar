@@ -25,20 +25,6 @@
       "comment": ""
     },
     {
-      "guests": "1",
-      "time": "13:30",
-      "preorder": [
-        "1x Prosciutto Crudo"
-      ],
-      "status": "requested",
-      "price": 169,
-      "extra": "",
-      "name": "Oscar",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Lunch "
-    },
-    {
       "guests": "2",
       "time": "20:30",
       "preorder": [],
