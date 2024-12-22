@@ -28,18 +28,6 @@
   "2024-12-14": [
     {
       "guests": "4",
-      "time": "18:30",
-      "preorder": [],
-      "status": "declined",
-      "price": 0,
-      "extra": "",
-      "name": "Lena Svensson",
-      "phone": "0739370387",
-      "email": "svenssons2@hotmail.com",
-      "comment": ""
-    },
-    {
-      "guests": "4",
       "time": "17:00",
       "preorder": [],
       "status": "declined",
