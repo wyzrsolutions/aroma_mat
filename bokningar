@@ -1,6 +1,42 @@
 {
   "2024-12-15": [
     {
+      "guests": "4",
+      "time": "12:00",
+      "preorder": [],
+      "status": "accepted",
+      "price": 0,
+      "extra": "",
+      "name": "Carina Mårtensson",
+      "phone": "0767738089",
+      "email": "carina.martensson26@gmail.com",
+      "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "17:30",
+      "preorder": [],
+      "status": "declined",
+      "price": 0,
+      "extra": "",
+      "name": "Joakim",
+      "phone": "0734412425",
+      "email": "Jocke.holmquist@outlook.com",
+      "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "14:00",
+      "preorder": [],
+      "status": "declined",
+      "price": 0,
+      "extra": "",
+      "name": "Pontus Rudin",
+      "phone": "0768834640",
+      "email": "pontus__pp@hotmail.com",
+      "comment": ""
+    },
+    {
       "guests": "3",
       "time": "12:30",
       "preorder": [],
