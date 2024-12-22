@@ -40,18 +40,6 @@
     },
     {
       "guests": "2",
-      "time": "16:30",
-      "preorder": [],
-      "status": "declined",
-      "price": 0,
-      "extra": "",
-      "name": "Madeleine Hjerpe",
-      "phone": "0706401920",
-      "email": "madeleinehjerpe@live.se ",
-      "comment": ""
-    },
-    {
-      "guests": "2",
       "time": "17:30",
       "preorder": [],
       "status": "accepted",
