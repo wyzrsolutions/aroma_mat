@@ -223,7 +223,7 @@
       "comment": ""
     }
   ],
-  "2025-1-09": [
+  "2025-01-09": [
     {
       "guests": "--",
       "time": "21:00",
@@ -377,20 +377,6 @@
       "comment": ""
     }
   ],
-  "2024-31-01": [
-    {
-      "guests": "2",
-      "time": "19:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Anders Strömqvist ",
-      "phone": "070-674 85 43 ",
-      "email": "antehbg@hotmail.com",
-      "comment": "NOT THE RIGHT TIME"
-    }
-  ],
   "2024-12-31": [
     {
       "guests": "1",
@@ -414,34 +400,6 @@
       "name": "Linn Båge",
       "phone": "0702727961",
       "email": "Linnjosefinbage@gmail.com",
-      "comment": ""
-    }
-  ],
-  "2024-31-03": [
-    {
-      "guests": "4",
-      "time": "19:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Krisztina Bengtsson ",
-      "phone": "0702884307 ",
-      "email": "Krisztina@syntes.se",
-      "comment": ""
-    }
-  ],
-  "2024-31-05": [
-    {
-      "guests": "2",
-      "time": "19:30",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Peter Byfors",
-      "phone": "0703-790404",
-      "email": "peter.byfors@hotmail.com",
       "comment": ""
     }
   ],
@@ -549,32 +507,6 @@
       "comment": "Har försökt boka bord via denna sida sen i måndags men inte fått någon återkoppling. Om ni hittar en bokning till i mitt namn så ta bort en av dem.  Tacksam återkoppling, gärna sms"
     }
   ],
-  "2024-31-06": [
-    {
-      "guests": "2",
-      "time": "17:00",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Mia Eriksson",
-      "phone": "0705-753560",
-      "email": "mia_eriksson@telia.com",
-      "comment": ""
-    },
-    {
-      "guests": "4",
-      "time": "16:30",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Niklas",
-      "phone": "0708-158515",
-      "email": "Niklas.stromberg001@gmail.com",
-      "comment": ""
-    }
-  ],
   "2024-12-20": [
     {
       "guests": "5",
@@ -627,7 +559,7 @@
       "comment": ""
     }
   ],
-  "2025-1-01": [
+  "2025-01-01": [
     {
       "guests": "3",
       "time": "17:00",
