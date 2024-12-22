@@ -1,18 +1,6 @@
 {
   "2024-12-13": [
     {
-      "guests": "2",
-      "time": "18:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "André",
-      "phone": "767996867",
-      "email": "andreolsson13@gmail.com",
-      "comment": ""
-    },
-    {
       "guests": "4",
       "time": "17:30",
       "preorder": [],
