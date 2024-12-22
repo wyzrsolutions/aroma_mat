@@ -614,5 +614,19 @@
       "email": "jamievanzijl7@gmail.com",
       "comment": ""
     }
+  ],
+  "2025-1-01": [
+    {
+      "guests": "3",
+      "time": "17:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Maja",
+      "phone": "0703639487",
+      "email": "maja-92_@hotmail.com",
+      "comment": ""
+    }
   ]
 }
