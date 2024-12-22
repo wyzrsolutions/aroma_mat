@@ -13,45 +13,7 @@
       "comment": ""
     }
   ],
-  "2025-01-09": [
-    {
-      "guests": "--",
-      "time": "21:00",
-      "preorder": [],
-      "status": "declined",
-      "price": 0,
-      "extra": "",
-      "name": "programmer testing",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Progrmmer testing"
-    }
-  ],
   "2024-12-24": [
-    {
-      "guests": "2",
-      "time": "18:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Tatjana ",
-      "phone": "0739895678",
-      "email": "Consorriso@hotmail.com",
-      "comment": ""
-    },
-    {
-      "guests": "2",
-      "time": "18:30",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Oscar",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": ""
-    },
     {
       "guests": "4",
       "time": "16:30",
@@ -75,33 +37,21 @@
       "phone": "0704505093",
       "email": "Susannepersson758@hotmail.com",
       "comment": "Bokar för 3e gången nu. Har inte fått någon bekräftelse i mailen "
-    }
-  ],
-  "2024-12-19": [
+    },
     {
-      "guests": "3",
-      "time": "16:00",
+      "guests": "2",
+      "time": "18:30",
       "preorder": [],
       "status": "accepted",
       "price": 0,
-      "extra": "Födelsedag",
-      "name": "programmer2",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "programmer 2 test"
-    },
-    {
-      "guests": "3",
-      "time": "18:00",
-      "preorder": [],
-      "status": "declined",
-      "price": 0,
-      "extra": "Födelsedag",
-      "name": "Krisztina Bengtsson ",
-      "phone": "0702884307",
-      "email": "Krisztina@syntes.se",
+      "extra": "",
+      "name": "Tatjana ",
+      "phone": "0739895678",
+      "email": "Consorriso@hotmail.com",
       "comment": ""
-    },
+    }
+  ],
+  "2024-12-19": [
     {
       "guests": "2",
       "time": "13:00",
@@ -115,83 +65,7 @@
       "comment": ""
     }
   ],
-  "2024-12-17": [
-    {
-      "guests": "2",
-      "time": "19:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Kerstin",
-      "phone": "0733477006",
-      "email": "Kerstinmaughan61@gmail.com",
-      "comment": ""
-    },
-    {
-      "guests": "2",
-      "time": "18:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Mattias Dahl",
-      "phone": "0703108597",
-      "email": "Mattias_dahl@outlook.com",
-      "comment": ""
-    },
-    {
-      "guests": "2",
-      "time": "19:30",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Mattias Dahl",
-      "phone": "0703108597",
-      "email": "Mattias_dahl@outlook.com",
-      "comment": ""
-    }
-  ],
-  "2024-12-31": [
-    {
-      "guests": "1",
-      "time": "17:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Programmer ",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Programmer testing "
-    },
-    {
-      "guests": "2",
-      "time": "20:00",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Linn Båge",
-      "phone": "0702727961",
-      "email": "Linnjosefinbage@gmail.com",
-      "comment": ""
-    }
-  ],
   "2024-12-22": [
-    {
-      "guests": "1",
-      "time": "13:00",
-      "preorder": [],
-      "status": "declined",
-      "price": 0,
-      "extra": "Födelsedag",
-      "name": "Programmera test",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Test "
-    },
     {
       "guests": "4",
       "time": "18:30",
@@ -229,20 +103,6 @@
       "comment": ""
     }
   ],
-  "2024-12-16": [
-    {
-      "guests": "5",
-      "time": "17:30",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "Födelsedag",
-      "name": "Robert Gustavsson",
-      "phone": "0723888550",
-      "email": "robhero@gmail.com",
-      "comment": ""
-    }
-  ],
   "2024-12-23": [
     {
       "guests": "6",
@@ -267,32 +127,6 @@
       "phone": "0739088746",
       "email": "Mariekman@hotmail.com",
       "comment": "Har försökt boka bord via denna sida sen i måndags men inte fått någon återkoppling. Om ni hittar en bokning till i mitt namn så ta bort en av dem.  Tacksam återkoppling, gärna sms"
-    }
-  ],
-  "2024-12-20": [
-    {
-      "guests": "5",
-      "time": "19:30",
-      "preorder": [],
-      "status": "declined",
-      "price": 0,
-      "extra": "",
-      "name": "Nellie  Nilsson",
-      "phone": "0722001727",
-      "email": "Nellie.nilsson77@gmail.com",
-      "comment": ""
-    },
-    {
-      "guests": "2",
-      "time": "18:00",
-      "preorder": [],
-      "status": "declined",
-      "price": 0,
-      "extra": "",
-      "name": "Tilda",
-      "phone": "0733104018",
-      "email": "tildah10@hotmail.com",
-      "comment": ""
     }
   ],
   "2024-12-26": [
