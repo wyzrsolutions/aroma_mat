@@ -495,6 +495,18 @@
       "phone": "0765010376",
       "email": "johan.liljeros@live.se",
       "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Marie",
+      "phone": "0706610047",
+      "email": "Marie.danielsson@yahoo.se",
+      "comment": ""
     }
   ],
   "2024-12-16": [
