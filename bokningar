@@ -208,5 +208,19 @@
       "email": "ericflingan@hotmail.com",
       "comment": "Mammas födelsedag så sätt gärna dit en flagga :)"
     }
+  ],
+  "2024-12-25": [
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Lidia Ryberg",
+      "phone": "0736936243",
+      "email": "lidia.ryberg@gmail.com",
+      "comment": ""
+    }
   ]
 }
