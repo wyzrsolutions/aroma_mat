@@ -18,7 +18,7 @@
       "guests": "4",
       "time": "16:30",
       "preorder": [],
-      "status": "requested",
+      "status": "accepted",
       "price": 0,
       "extra": "",
       "name": "Susanne ",
@@ -30,7 +30,7 @@
       "guests": "4",
       "time": "17:00",
       "preorder": [],
-      "status": "requested",
+      "status": "accepted",
       "price": 0,
       "extra": "",
       "name": "Susanne ",
@@ -132,13 +132,25 @@
       "guests": "6",
       "time": "19:30",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "Mari Ekman",
       "phone": "0739088746",
       "email": "Mariekman@hotmail.com",
       "comment": "Har försökt boka bord via denna sida sen i måndags men inte fått någon återkoppling. Om ni hittar en bokning till i mitt namn så ta bort en av dem.  Tacksam återkoppling, gärna sms"
+    },
+    {
+      "guests": "2",
+      "time": "18:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Helene Ljung",
+      "phone": "0703285543",
+      "email": "hlofven@yahoo.com",
+      "comment": ""
     }
   ],
   "2024-12-26": [
@@ -146,7 +158,7 @@
       "guests": "4",
       "time": "18:00",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "Christian Reimer",
@@ -165,6 +177,18 @@
       "phone": "+4560554464",
       "email": "jamievanzijl7@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "6",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Barnstol, Födelsedag",
+      "name": "Magnus Falk",
+      "phone": "0705127918",
+      "email": "magnusfalk22@gmail.com",
+      "comment": ""
     }
   ],
   "2025-01-01": [
@@ -172,12 +196,104 @@
       "guests": "3",
       "time": "17:00",
       "preorder": [],
-      "status": "requested",
+      "status": "accepted",
       "price": 0,
       "extra": "",
       "name": "Maja",
       "phone": "0703639487",
       "email": "maja-92_@hotmail.com",
+      "comment": ""
+    }
+  ],
+  "2024-12-31": [
+    {
+      "guests": "4",
+      "time": "18:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Igor Plicanic",
+      "phone": "0737149526",
+      "email": "igor.plicanic@gmail.con",
+      "comment": "Hej, vi vill äta av den vanliga menyn, hoppas ni inte bara har nyårsmeny. "
+    }
+  ],
+  "2024-12-27": [
+    {
+      "guests": "7",
+      "time": "13:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Födelsedag",
+      "name": "Eric Nilsson",
+      "phone": "0730284425",
+      "email": "ericflingan@hotmail.com",
+      "comment": "Mammas födelsedag så sätt gärna dit en flagga :)"
+    }
+  ],
+  "2024-12-25": [
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": [],
+      "status": "accepted",
+      "price": 0,
+      "extra": "",
+      "name": "Lidia Ryberg",
+      "phone": "0736936243",
+      "email": "lidia.ryberg@gmail.com",
+      "comment": ""
+    }
+  ],
+  "": [
+    {
+      "guests": "3",
+      "time": "20:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Chutikan",
+      "phone": "Augustsson",
+      "email": "nan2417@gmail.com",
+      "comment": "0738447689"
+    },
+    {
+      "guests": "3",
+      "time": "20:00 น",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Chutikan ",
+      "phone": "Augustsson",
+      "email": "nan2417@gmail.com",
+      "comment": "1 vux , 2 barn ,9 och 11\n0738447689 "
+    },
+    {
+      "guests": "4",
+      "time": "16:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anna ",
+      "phone": "-",
+      "email": "stockbring@me.com",
+      "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "16:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anna ",
+      "phone": "0000",
+      "email": "stockbring@me.com",
       "comment": ""
     }
   ]
