@@ -189,6 +189,18 @@
       "phone": "0705127918",
       "email": "magnusfalk22@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "19:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Anki Grahn",
+      "phone": "0730636922",
+      "email": "anki.grahn64@gmail.com",
+      "comment": ""
     }
   ],
   "2025-01-01": [
