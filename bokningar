@@ -177,6 +177,18 @@
       "phone": "+4560554464",
       "email": "jamievanzijl7@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "6",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Barnstol, Födelsedag",
+      "name": "Magnus Falk",
+      "phone": "0705127918",
+      "email": "magnusfalk22@gmail.com",
+      "comment": ""
     }
   ],
   "2025-01-01": [
