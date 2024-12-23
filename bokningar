@@ -214,7 +214,7 @@
       "guests": "2",
       "time": "19:00",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "Lidia Ryberg",
