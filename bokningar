@@ -139,6 +139,18 @@
       "phone": "0739088746",
       "email": "Mariekman@hotmail.com",
       "comment": "Har försökt boka bord via denna sida sen i måndags men inte fått någon återkoppling. Om ni hittar en bokning till i mitt namn så ta bort en av dem.  Tacksam återkoppling, gärna sms"
+    },
+    {
+      "guests": "2",
+      "time": "18:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Helene Ljung",
+      "phone": "0703285543",
+      "email": "hlofven@yahoo.com",
+      "comment": ""
     }
   ],
   "2024-12-26": [
