@@ -307,6 +307,18 @@
       "phone": "0000",
       "email": "stockbring@me.com",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Lidelotte Olofsson svärd",
+      "phone": "0733920631",
+      "email": "",
+      "comment": ""
     }
   ]
 }
