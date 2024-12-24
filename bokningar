@@ -68,7 +68,7 @@
       "guests": "2",
       "time": "13:00",
       "preorder": [],
-      "status": "requested",
+      "status": "declined",
       "price": 0,
       "extra": "",
       "name": "Anders",
