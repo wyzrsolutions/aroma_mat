@@ -331,6 +331,18 @@
       "phone": "+46760249549",
       "email": "Jocafus@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Mia",
+      "phone": "0737108117",
+      "email": "",
+      "comment": ""
     }
   ]
 }
