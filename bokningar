@@ -279,6 +279,18 @@
       "phone": "0739957695",
       "email": "cilla@gjordkallarn.se",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "19:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Estelle Salhi",
+      "phone": "0733104414",
+      "email": "Estellesalhi@gmail.com",
+      "comment": ""
     }
   ],
   "2024-12-25": [
