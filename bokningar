@@ -267,6 +267,18 @@
       "phone": "0706734045",
       "email": "joakim.hallberg.73@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "3",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Cilla Bjertner",
+      "phone": "0739957695",
+      "email": "cilla@gjordkallarn.se",
+      "comment": ""
     }
   ],
   "2024-12-25": [
