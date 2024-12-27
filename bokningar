@@ -398,7 +398,7 @@
       "guests": "6",
       "time": "18:30",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "Malin",
