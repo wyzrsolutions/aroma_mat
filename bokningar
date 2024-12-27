@@ -355,6 +355,18 @@
       "phone": "0737108117",
       "email": "",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Susanne Offersen",
+      "phone": "25285965",
+      "email": "susanneoffersen@gmail.com",
+      "comment": ""
     }
   ]
 }
