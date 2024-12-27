@@ -243,6 +243,18 @@
       "phone": "0730284425",
       "email": "ericflingan@hotmail.com",
       "comment": "Mammas födelsedag så sätt gärna dit en flagga :)"
+    },
+    {
+      "guests": "2",
+      "time": "18:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Jonas Gernandt",
+      "phone": "0709471992",
+      "email": "Jonas.gernandt@outlook.com",
+      "comment": ""
     }
   ],
   "2024-12-25": [
