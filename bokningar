@@ -255,6 +255,18 @@
       "phone": "0709471992",
       "email": "Jonas.gernandt@outlook.com",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "18:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Joakim Hallberg",
+      "phone": "0706734045",
+      "email": "joakim.hallberg.73@gmail.com",
+      "comment": ""
     }
   ],
   "2024-12-25": [
