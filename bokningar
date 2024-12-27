@@ -368,5 +368,19 @@
       "email": "susanneoffersen@gmail.com",
       "comment": ""
     }
+  ],
+  "2024-12-28": [
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Mikael Falkenstridh ",
+      "phone": "0704338394",
+      "email": "mikael.falkenstridh@live.se",
+      "comment": "Sitter gärna längre in i restaurangen,\nej nära ytterdörren.\nTack på förhand."
+    }
   ]
 }
