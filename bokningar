@@ -367,6 +367,18 @@
       "phone": "25285965",
       "email": "susanneoffersen@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "7",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Dino",
+      "phone": "Demo",
+      "email": "kontakt@dinodemo.se",
+      "comment": "4 vuxna och 3 barn, "
     }
   ],
   "2024-12-28": [
