@@ -411,6 +411,18 @@
       "phone": "Demo",
       "email": "kontakt@dinodemo.se",
       "comment": "4 vuxna och 3 barn, "
+    },
+    {
+      "guests": "2",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Cecilia Nilsson",
+      "phone": "070-413 57 07 ",
+      "email": "Evasilla63@gmail.com",
+      "comment": ""
     }
   ],
   "2024-12-28": [
