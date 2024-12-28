@@ -425,6 +425,18 @@
       "phone": "0704338394",
       "email": "mikael.falkenstridh@live.se",
       "comment": "Sitter gärna längre in i restaurangen,\nej nära ytterdörren.\nTack på förhand."
+    },
+    {
+      "guests": "4",
+      "time": "17:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Jim Wiklund",
+      "phone": "0705856518",
+      "email": "jim.wiklund@ahlsell.se",
+      "comment": ""
     }
   ]
 }
