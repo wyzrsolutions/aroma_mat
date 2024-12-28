@@ -435,6 +435,18 @@
       "phone": "++4915259926167",
       "email": "aglisic78@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "20:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Aleksandar Glisic",
+      "phone": "+4915259926167",
+      "email": "aglisic78@gmail.com",
+      "comment": ""
     }
   ],
   "2024-12-28": [
