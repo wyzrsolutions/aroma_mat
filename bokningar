@@ -487,6 +487,18 @@
       "phone": "0704135707",
       "email": "evasilla63@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "20:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Pierre Adolfsson",
+      "phone": "0701976259",
+      "email": "p.a88@hotmail.se",
+      "comment": ""
     }
   ],
   "2024-12-31": [
