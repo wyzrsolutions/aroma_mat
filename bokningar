@@ -511,6 +511,18 @@
       "phone": "0701976259",
       "email": "p.a88@hotmail.se",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "19:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Carl Cronbring",
+      "phone": "0702801437",
+      "email": "C.cronbring@telia.com",
+      "comment": ""
     }
   ],
   "2024-12-31": [
