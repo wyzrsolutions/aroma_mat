@@ -523,6 +523,18 @@
       "phone": "0702801437",
       "email": "C.cronbring@telia.com",
       "comment": ""
+    },
+    {
+      "guests": "4",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Elin",
+      "phone": "0733301753",
+      "email": "elinwallentin@hotmail.com",
+      "comment": "Har med en barnvagn som går att fälla ihop dock. "
     }
   ],
   "2024-12-31": [
