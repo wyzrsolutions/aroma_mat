@@ -617,7 +617,7 @@
     {
       "guests": "1",
       "time": "12:00",
-      "preorder": [1x mat ett, 1x mat två, 2x mat 3],
+      "preorder": [],
       "status": "requested",
       "price": 0,
       "extra": "Barnstol, Rullstol, Födelsedag",
