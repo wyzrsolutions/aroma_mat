@@ -598,5 +598,19 @@
       "email": "marsuchlenaanek@gmail.com",
       "comment": ""
     }
+  ],
+  "2024-12-30": [
+    {
+      "guests": "3",
+      "time": "15:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Barnstol, Födelsedag",
+      "name": "Test person!!",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Detta är bara ett test"
+    }
   ]
 }
