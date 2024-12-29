@@ -612,5 +612,19 @@
       "email": "oscarforsvall@icloud.com",
       "comment": "Hej detta är ett test!"
     }
+  ],
+  "2024-12-30": [
+    {
+      "guests": "1",
+      "time": "12:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Barnstol, Rullstol, Födelsedag",
+      "name": "Test person!!",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Detta är ett test!"
+    }
   ]
 }
