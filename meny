@@ -46,6 +46,24 @@
   },
   "preOrder": [
     {
+      "categori": "test",
+      "name": "test2",
+      "price": 100,
+      "description": "test",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Test",
+      "name": "Test",
+      "price": 100,
+      "description": "Test",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
       "categori": "Huvudrätter",
       "name": "Grillad Laxfilé",
       "price": 179,
@@ -411,15 +429,6 @@
       "price": 89,
       "description": "Ladyfinger biscuits, kakao, mascarpone, ägg, socker och kaffe",
       "image": "https://i.postimg.cc/hv557LmC/oie-EBms-SDm-U7-HJy.jpg",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Test",
-      "name": "Test",
-      "price": 100,
-      "description": "Test",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
       "visible": true
     }
