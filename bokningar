@@ -504,7 +504,7 @@
       "guests": "4",
       "time": "20:00",
       "preorder": [],
-      "status": "requested",
+      "status": "accepted",
       "price": 0,
       "extra": "",
       "name": "Pierre Adolfsson",
@@ -535,6 +535,18 @@
       "phone": "0733301753",
       "email": "elinwallentin@hotmail.com",
       "comment": "Har med en barnvagn som går att fälla ihop dock. "
+    },
+    {
+      "guests": "2",
+      "time": "18:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Tilde Claesson",
+      "phone": "0705206022",
+      "email": "tilde.claesson0218@gmail.com",
+      "comment": ""
     }
   ],
   "2024-12-31": [
@@ -542,7 +554,7 @@
       "guests": "2",
       "time": "19:00",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "Leyla Burdett",
@@ -554,7 +566,7 @@
       "guests": "3",
       "time": "17:00",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "Per Persson",
