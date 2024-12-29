@@ -625,6 +625,18 @@
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
       "comment": "Detta är ett test!"
+    },
+    {
+      "guests": "2",
+      "time": "15:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Barnstol, Födelsedag",
+      "name": "Test person!!",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Test!"
     }
   ]
 }
