@@ -459,6 +459,18 @@
       "phone": "047068109",
       "email": "business@graebel-schmid.de",
       "comment": ""
+    },
+    {
+      "guests": "3",
+      "time": "18:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Ida  Sinding",
+      "phone": "+4528121230",
+      "email": "idsibidsi@gmail.com",
+      "comment": "1 voksen\n2 børn på 10 og 12"
     }
   ],
   "2024-12-28": [
