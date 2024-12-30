@@ -4,6 +4,12 @@
     "blockedDays": [],
     "count": 3
   },
+  "categories": [
+    "Förrätter",
+    "Efterrätter",
+    "Pizza",
+    "Pasta"
+  ],
   "time": {
     "intervals": 30,
     "days": [
