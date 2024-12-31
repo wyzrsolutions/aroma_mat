@@ -15,7 +15,12 @@
     "Dessert",
     "Dryck",
     "Viner",
-    "Sprit"
+    "Sprit",
+    "Test1",
+    "test2",
+    "Test5",
+    "Test3",
+    "Test4"
   ],
   "time": {
     "intervals": 30,
