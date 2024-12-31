@@ -1,16 +1,438 @@
 {
+  "guests": 10,
+  "days": {
+    "blockedDays": [],
+    "count": 3
+  },
   "categories": [
     "Förrätter",
-    "Pizza",
-    "Pasta",
-    "Huvudrätter",
-    "Sallader",
-    "Risotto",
-    "Kids Special",
     "Efterrätter",
-    "Dryck",
-    "Viner",
-    "Sprit",
-    "Dessert"
-  ]
+    "Pizza",
+    "Pasta"
+  ],
+  "time": {
+    "intervals": 30,
+    "days": [
+      {
+        "day": "Mån",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "day": "Tis",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "day": "Ons",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "day": "Tors",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "day": "Fre",
+        "start": 11,
+        "end": 22
+      },
+      {
+        "day": "Lör",
+        "start": 12,
+        "end": 22
+      },
+      {
+        "day": "Sön",
+        "start": 12,
+        "end": 21
+      }
+    ]
+  },
+  "preOrder": [
+    {
+      "categori": "Huvudrätter",
+      "name": "Grillad Laxfilé",
+      "price": 179,
+      "description": "Grillad Laxfilé med risotto eller sallad och bröd",
+      "image": "https://i.postimg.cc/0NYFHJgQ/lux.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Huvudrätter",
+      "name": "Ossobuco Beef",
+      "price": 189,
+      "description": "Nötkött med ben tillagat med ingefära och vitlök, serverat med risotto",
+      "image": "https://i.postimg.cc/TPMB9J4F/oie-HFo-Tp9am6l79.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Huvudrätter",
+      "name": "Musslor (Cause)",
+      "price": 149,
+      "description": "Musslor med vin, vitlök, olivolja och citron",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Pomodoro Scampi con Spinaci",
+      "price": 159,
+      "description": "Scampi, pomodoro, vin, chili, vitlök, parmesan, olivolja",
+      "image": "https://i.postimg.cc/TYszy6qR/oie-VBwg-PZp-Cy5u9.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Arabiata",
+      "price": 149,
+      "description": "Tomater, röd chili, vitlök, persilja, olivolja",
+      "image": "https://i.postimg.cc/J0695wf5/oie-s-Zn-VLDayp7-KE.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Carboara",
+      "price": 159,
+      "description": "Bacon/Lux, grädde, äggula, lök, vitlök, parmesan, olivolja",
+      "image": "https://i.postimg.cc/Df6FwHMZ/co.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Frutti Di Mare",
+      "price": 159,
+      "description": "Blandade skaldjur, körsbärstomater, persilja, olivolja, citron",
+      "image": "https://i.postimg.cc/g2QGPhBH/fruti.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Vongole",
+      "price": 159,
+      "description": "Spagetti, blandade blåmusslor, chili, vitlök, persilja, olivolja",
+      "image": "https://i.postimg.cc/J757BGGR/oie-h-Esb4-Nbae-IXs.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Pasta Med Salsiccia",
+      "price": 149,
+      "description": "Salsiccia, lök, vitlök, paprika, körbärstomater, olivolja, citron",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipO_aoCarNyqxtQAmxaiwhyPXkD0KjpxoVpuP8rO=s1360-w1360-h1020",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pasta",
+      "name": "Bolognese",
+      "price": 149,
+      "description": "Kalvköttfärs, tomat, vitlök, parmesan",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Margherita",
+      "price": 149,
+      "description": "Tomatsås, mozzarella och basilika",
+      "image": "https://i.postimg.cc/nh0QK3rc/Magarirata.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Prosciutto Crudo",
+      "price": 169,
+      "description": "Tomatsås, prosciutto, parmesan och ruccola",
+      "image": "https://i.postimg.cc/D0Pzvzby/crudo.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Diavolo",
+      "price": 169,
+      "description": "Tomatsås, mozzarella, stark salami, parmesan och ruccola",
+      "image": "https://i.postimg.cc/y8YDN0jq/diavolo.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Funghi",
+      "price": 159,
+      "description": "Höstsvamp, vitlök, oregano och mozzarella",
+      "image": "https://i.postimg.cc/V6br81Rd/fungi.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Pizza",
+      "name": "Calzone (inbakad)",
+      "price": 159,
+      "description": "Tomatsås, ost, vitlök, skinka, mozzarella",
+      "image": "https://i.postimg.cc/fb8jLwmC/oie-eusyg-O6-Jkj-Lb.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Förrätter",
+      "name": "Caprese",
+      "price": 99,
+      "description": "Färsk mozzarella, tomat, vitlök och basilika",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Förrätter",
+      "name": "Pane All'Aglie (vitlöksbröd)",
+      "price": 99,
+      "description": "Mozzarella och vitlök",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Sallader",
+      "name": "Kycklingsallad",
+      "price": 139,
+      "description": "Romansallad, kyckling, blandade grönsaker, dressing och bröd",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Sallader",
+      "name": "Evergreen Sallad",
+      "price": 129,
+      "description": "Blandade gröna blad med oliver och färsk mozzarella",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Risotto",
+      "name": "Risotto Scampi",
+      "price": 169,
+      "description": "Scampi, basilika, salt, olivolja",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Risotto",
+      "name": "Skaldjursrisotto",
+      "price": 169,
+      "description": "Musslor, blandade skaldjur, vin, lök, vitlök, parmesan, chili",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Risotto",
+      "name": "Risotto Porcini",
+      "price": 169,
+      "description": "Lök, vitlök, vin, blandad svamp, parmesan, citron, persilja",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Kids Special",
+      "name": "Pasta Bolognese",
+      "price": 129,
+      "description": "Kalvköttfärs, tomatsås, parmesan och smör",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Kids Special",
+      "name": "Margherita (for Kids)",
+      "price": 129,
+      "description": "Tomatsås, mozzarella och basilika",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dryck",
+      "name": "Prosecco 200ml",
+      "price": 120,
+      "description": "  ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dryck",
+      "name": "Smirnoff Ice / Briska",
+      "price": 69,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dryck",
+      "name": "Heineken Alkoholfri 33cl",
+      "price": 69,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dryck",
+      "name": "Peroni / Moretti /Corona 33cl",
+      "price": 69,
+      "description": "  ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dryck",
+      "name": "San Pellegrino 500ml",
+      "price": 60,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dryck",
+      "name": "Cola/Fanta/7-up/Pepsi/Juice 33cl",
+      "price": 30,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Viner",
+      "name": "Husets Röda (glas)",
+      "price": 75,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Viner",
+      "name": "Valpolicella (flaska)",
+      "price": 320,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Viner",
+      "name": "Valpolicella (glas)",
+      "price": 75,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Viner",
+      "name": "Husets röda (flaska)",
+      "price": 320,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Viner",
+      "name": "Chardonnay (flaska)",
+      "price": 320,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Viner",
+      "name": "Chardonnay (glas)",
+      "price": 75,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Viner",
+      "name": "Husets vita (flaska)",
+      "price": 320,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Viner",
+      "name": "Husets vita (glas)",
+      "price": 75,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Sprit",
+      "name": "Vodka 6 cl",
+      "price": 95,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Sprit",
+      "name": "Red Label 6cl",
+      "price": 95,
+      "description": " ",
+      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Dessert",
+      "name": "Tiramisu",
+      "price": 89,
+      "description": "Ladyfinger biscuits, kakao, mascarpone, ägg, socker och kaffe",
+      "image": "https://i.postimg.cc/hv557LmC/oie-EBms-SDm-U7-HJy.jpg",
+      "rateing": 5,
+      "visible": true
+    }
+  ],
+  "checkout": {
+    "type": "Skicka förfrågan",
+    "prepay": false,
+    "tillval": [
+      "Barnstol (i mån av tillgång)",
+      "Rullstol",
+      "Födelsedag"
+    ],
+    "godkännande": [
+      "Jag förstår att bokningen varar 2 timmar",
+      "Jag förstår att min mat görs i förväg och måste betalas oavsett om besöket uteblir!",
+      "Ta emot e-postmeddelande med erbjudande och nyheter från *Aroma Restaurang, Se vilkor*"
+    ]
+  }
 }
