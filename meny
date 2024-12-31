@@ -12,11 +12,10 @@
     "Sallader",
     "Risotto",
     "Kids Special",
-    "Efterrätter",
+    "Dessert",
     "Dryck",
     "Viner",
-    "Sprit",
-    "Dessert"
+    "Sprit"
   ],
   "time": {
     "intervals": 30,
