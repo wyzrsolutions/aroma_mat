@@ -6,9 +6,17 @@
   },
   "categories": [
     "Förrätter",
-    "Efterrätter",
     "Pizza",
-    "Pasta"
+    "Pasta",
+    "Huvudrätter",
+    "Sallader",
+    "Risotto",
+    "Kids Special",
+    "Efterrätter",
+    "Dryck",
+    "Viner",
+    "Sprit",
+    "Dessert"
   ],
   "time": {
     "intervals": 30,
