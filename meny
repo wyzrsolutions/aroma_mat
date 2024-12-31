@@ -426,6 +426,51 @@
       "image": "https://i.postimg.cc/hv557LmC/oie-EBms-SDm-U7-HJy.jpg",
       "rateing": 5,
       "visible": true
+    },
+    {
+      "categori": "Test1",
+      "name": "Tiramisu",
+      "price": 89,
+      "description": "Ladyfinger biscuits, kakao, mascarpone, ägg, socker och kaffe",
+      "image": "https://i.postimg.cc/hv557LmC/oie-EBms-SDm-U7-HJy.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "test2",
+      "name": "Tiramisu",
+      "price": 89,
+      "description": "Ladyfinger biscuits, kakao, mascarpone, ägg, socker och kaffe",
+      "image": "https://i.postimg.cc/hv557LmC/oie-EBms-SDm-U7-HJy.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Test3",
+      "name": "Tiramisu",
+      "price": 89,
+      "description": "Ladyfinger biscuits, kakao, mascarpone, ägg, socker och kaffe",
+      "image": "https://i.postimg.cc/hv557LmC/oie-EBms-SDm-U7-HJy.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Test4",
+      "name": "Tiramisu",
+      "price": 89,
+      "description": "Ladyfinger biscuits, kakao, mascarpone, ägg, socker och kaffe",
+      "image": "https://i.postimg.cc/hv557LmC/oie-EBms-SDm-U7-HJy.jpg",
+      "rateing": 5,
+      "visible": true
+    },
+    {
+      "categori": "Test5",
+      "name": "Tiramisu",
+      "price": 89,
+      "description": "Ladyfinger biscuits, kakao, mascarpone, ägg, socker och kaffe",
+      "image": "https://i.postimg.cc/hv557LmC/oie-EBms-SDm-U7-HJy.jpg",
+      "rateing": 5,
+      "visible": true
     }
   ],
   "checkout": {
