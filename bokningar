@@ -690,5 +690,19 @@
       "email": "oscarforsvall@icloud.com",
       "comment": "Hej!"
     }
+  ],
+  "2025-01-04": [
+    {
+      "guests": "7",
+      "time": "16:00",
+      "preorder": [],
+      "status": "accepted",
+      "price": 0,
+      "extra": "Barnstol, Födelsedag",
+      "name": "Person Test",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Hej hej!"
+    }
   ]
 }
