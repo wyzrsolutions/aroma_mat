@@ -731,6 +731,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-04T18:41:57.096Z",
       "ID": "1736016117096"
+    },
+    {
+      "name": "Test 1.1",
+      "time": "22:00",
+      "guests": "7",
+      "comment": "Detta är andra försöket",
+      "extra": "Födelsedag",
+      "preorder": [],
+      "price": 0,
+      "phone": "",
+      "email": "",
+      "status": "accepted",
+      "bookingTime": "2025-01-04T18:45:45.029Z",
+      "ID": "1736016345028"
     }
   ],
   "2006-01-25": [
