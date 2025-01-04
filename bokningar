@@ -704,5 +704,21 @@
       "email": "oscarforsvall@icloud.com",
       "comment": "Hej hej!"
     }
+  ],
+  "2006-01-25": [
+    {
+      "name": "Test perosn",
+      "time": "12:30",
+      "guests": "3",
+      "comment": "Detta är ett test",
+      "extra": "Födelsedag, Rullstol",
+      "preorder": [],
+      "price": 0,
+      "phone": "No Number",
+      "email": "No Email",
+      "status": "accepted",
+      "bookingTime": "2025-01-04T14:07:52.168Z",
+      "ID": "1735999672168"
+    }
   ]
 }
