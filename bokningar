@@ -766,17 +766,17 @@
     },
     {
       "name": "Test 4",
-      "time": "09:00",
+      "time": "17:00",
       "guests": "3",
-      "comment": "Hej",
-      "extra": "Födelsedag",
+      "comment": "Test",
+      "extra": "Födelsedag, Rullstol",
       "preorder": [],
       "price": 0,
       "phone": "No Number",
       "email": "No Email",
       "status": "accepted",
-      "bookingTime": "2025-01-04T14:43:00.707Z",
-      "ID": "1736001780707"
+      "bookingTime": "2025-01-04T14:44:54.688Z",
+      "ID": "1736001894688"
     }
   ]
 }
