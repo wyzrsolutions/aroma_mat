@@ -716,7 +716,7 @@
       "price": 0,
       "phone": "No Number",
       "email": "No Email",
-      "status": "accepted",
+      "status": "declined",
       "bookingTime": "2025-01-04T14:07:52.168Z",
       "ID": "1735999672168"
     }
