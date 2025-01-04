@@ -682,7 +682,7 @@
       "guests": "3",
       "time": "16:00",
       "preorder": [],
-      "status": "declined",
+      "status": "accepted",
       "price": 0,
       "extra": "Barnstol, Födelsedag",
       "name": "Test",
