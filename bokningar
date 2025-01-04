@@ -866,10 +866,10 @@
   "2025-03-22": [
     {
       "name": "Födelsedag test",
-      "time": "13:00",
+      "time": "14:30",
       "guests": "10",
-      "comment": "Tårta?",
-      "extra": "Födelsedag",
+      "comment": "Tårta? Nej",
+      "extra": "Födelsedag, Barnstol",
       "preorder": [],
       "price": 0,
       "phone": "",
