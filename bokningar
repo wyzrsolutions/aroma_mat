@@ -703,6 +703,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-04T14:16:51.614Z",
       "ID": "1736000211614"
+    },
+    {
+      "name": "Test Oscar",
+      "time": "20:30",
+      "guests": "10",
+      "comment": "Test!",
+      "extra": "Barnstol",
+      "preorder": [],
+      "price": 0,
+      "phone": "No Number",
+      "email": "No Email",
+      "status": "accepted",
+      "bookingTime": "2025-01-04T14:32:31.394Z",
+      "ID": "1736001151394"
     }
   ],
   "2025-01-04": [
