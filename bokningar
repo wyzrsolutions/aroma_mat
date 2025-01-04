@@ -705,48 +705,872 @@
       "ID": "1736000211614"
     }
   ],
-  "2025-01-04": [
-    {
-      "guests": "7",
-      "time": "16:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "Barnstol, Födelsedag",
-      "name": "Person Test",
-      "phone": "0766292154",
-      "email": "oscarforsvall@icloud.com",
-      "comment": "Hej hej!"
-    },
-    {
-      "name": "Test 1",
-      "time": "21:30",
-      "guests": "3",
-      "comment": "Uppdaterad allt",
-      "extra": "Barnstol",
-      "preorder": [],
-      "price": 0,
-      "phone": "",
-      "email": "",
-      "status": "accepted",
-      "bookingTime": "2025-01-04T18:41:57.096Z",
-      "ID": "1736016117096"
-    },
-    {
-      "name": "Test 1.2",
-      "time": "23:00",
-      "guests": "2",
-      "comment": "Treje uppdateringen",
-      "extra": "Födelsedag",
-      "preorder": [],
-      "price": 0,
-      "phone": "",
-      "email": "",
-      "status": "accepted",
-      "bookingTime": "2025-01-04T18:48:44.763Z",
-      "ID": "1736016524762"
-    }
-  ],
+  "2025-01-04": {
+    "2024-12-15": [
+      {
+        "guests": "3",
+        "time": "12:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Kristin Hintze",
+        "phone": "0708470377",
+        "email": "britakristinhintze@gmail.com",
+        "comment": ""
+      }
+    ],
+    "2024-12-24": [
+      {
+        "guests": "4",
+        "time": "16:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Susanne ",
+        "phone": "0704505093",
+        "email": "Susannepersson758@hotmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "4",
+        "time": "17:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Susanne ",
+        "phone": "0704505093",
+        "email": "Susannepersson758@hotmail.com",
+        "comment": "Bokar för 3e gången nu. Har inte fått någon bekräftelse i mailen "
+      },
+      {
+        "guests": "2",
+        "time": "18:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Tatjana ",
+        "phone": "0739895678",
+        "email": "Consorriso@hotmail.com",
+        "comment": ""
+      }
+    ],
+    "2024-12-19": [
+      {
+        "guests": "2",
+        "time": "13:00",
+        "preorder": [],
+        "status": "declined",
+        "price": 0,
+        "extra": "",
+        "name": "Anders",
+        "phone": "0705194075",
+        "email": "Anders.gudmundsson@design.lth.se",
+        "comment": ""
+      }
+    ],
+    "2024-12-22": [
+      {
+        "guests": "4",
+        "time": "18:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Peter ",
+        "phone": "0736184507",
+        "email": "Peter.kindbacke@live.com",
+        "comment": ""
+      },
+      {
+        "guests": "6",
+        "time": "12:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Johan Liljeros",
+        "phone": "0765010376",
+        "email": "johan.liljeros@live.se",
+        "comment": ""
+      },
+      {
+        "guests": "4",
+        "time": "19:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Marie",
+        "phone": "0706610047",
+        "email": "Marie.danielsson@yahoo.se",
+        "comment": ""
+      }
+    ],
+    "2024-12-23": [
+      {
+        "guests": "6",
+        "time": "19:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Mari Ekman",
+        "phone": "0739088746",
+        "email": "Mariekman@hotmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "6",
+        "time": "19:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Mari Ekman",
+        "phone": "0739088746",
+        "email": "Mariekman@hotmail.com",
+        "comment": "Har försökt boka bord via denna sida sen i måndags men inte fått någon återkoppling. Om ni hittar en bokning till i mitt namn så ta bort en av dem.  Tacksam återkoppling, gärna sms"
+      },
+      {
+        "guests": "2",
+        "time": "18:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Helene Ljung",
+        "phone": "0703285543",
+        "email": "hlofven@yahoo.com",
+        "comment": ""
+      }
+    ],
+    "2024-12-26": [
+      {
+        "guests": "4",
+        "time": "18:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Christian Reimer",
+        "phone": "0706394056",
+        "email": "ccr72@hotmail.se",
+        "comment": "Hej. \nMehenaz har lovat mig världens godaste risotto. Gärna skaldjursrisotto. :)\nMvh\n\nChristian Reimer"
+      },
+      {
+        "guests": "2",
+        "time": "19:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Jamie Timmermann",
+        "phone": "+4560554464",
+        "email": "jamievanzijl7@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "6",
+        "time": "17:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "Barnstol, Födelsedag",
+        "name": "Magnus Falk",
+        "phone": "0705127918",
+        "email": "magnusfalk22@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "4",
+        "time": "19:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Anki Grahn",
+        "phone": "0730636922",
+        "email": "anki.grahn64@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "4",
+        "time": "17:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "Födelsedag",
+        "name": "Norbert ",
+        "phone": "0763366971",
+        "email": "Fergu99@hotmail.com",
+        "comment": ""
+      }
+    ],
+    "2024-12-27": [
+      {
+        "guests": "7",
+        "time": "13:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "Födelsedag",
+        "name": "Eric Nilsson",
+        "phone": "0730284425",
+        "email": "ericflingan@hotmail.com",
+        "comment": "Mammas födelsedag så sätt gärna dit en flagga :)"
+      },
+      {
+        "guests": "2",
+        "time": "18:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Jonas Gernandt",
+        "phone": "0709471992",
+        "email": "Jonas.gernandt@outlook.com",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "18:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Joakim Hallberg",
+        "phone": "0706734045",
+        "email": "joakim.hallberg.73@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "3",
+        "time": "19:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Cilla Bjertner",
+        "phone": "0739957695",
+        "email": "cilla@gjordkallarn.se",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "19:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Estelle Salhi",
+        "phone": "0733104414",
+        "email": "Estellesalhi@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "19:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Estelle Salhi",
+        "phone": "0733104414",
+        "email": "estellesalhi@gmail.com",
+        "comment": ""
+      }
+    ],
+    "2024-12-25": [
+      {
+        "guests": "2",
+        "time": "19:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Lidia Ryberg",
+        "phone": "0736936243",
+        "email": "lidia.ryberg@gmail.com",
+        "comment": ""
+      }
+    ],
+    "2025-01-31": [
+      {
+        "guests": "3",
+        "time": "20:00",
+        "preorder": [],
+        "status": "declined",
+        "price": 0,
+        "extra": "",
+        "name": "Chutikan",
+        "phone": "Augustsson",
+        "email": "nan2417@gmail.com",
+        "comment": "0738447689"
+      },
+      {
+        "guests": "3",
+        "time": "20:00 น",
+        "preorder": [],
+        "status": "declined",
+        "price": 0,
+        "extra": "",
+        "name": "Chutikan ",
+        "phone": "Augustsson",
+        "email": "nan2417@gmail.com",
+        "comment": "1 vux , 2 barn ,9 och 11\n0738447689 "
+      },
+      {
+        "guests": "4",
+        "time": "16:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Anna ",
+        "phone": "-",
+        "email": "stockbring@me.com",
+        "comment": ""
+      },
+      {
+        "guests": "4",
+        "time": "16:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Anna ",
+        "phone": "0000",
+        "email": "stockbring@me.com",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "17:30",
+        "preorder": [],
+        "status": "declined",
+        "price": 0,
+        "extra": "",
+        "name": "Lidelotte Olofsson svärd",
+        "phone": "0733920631",
+        "email": "",
+        "comment": ""
+      },
+      {
+        "guests": "5",
+        "time": "15:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Anna Cordoba",
+        "phone": "",
+        "email": "Jocafus@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "5",
+        "time": "15:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Anna Cordoba",
+        "phone": "+46760249549",
+        "email": "Jocafus@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "19:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Mia",
+        "phone": "0737108117",
+        "email": "",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "19:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Susanne Offersen",
+        "phone": "25285965",
+        "email": "susanneoffersen@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "7",
+        "time": "17:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Dino",
+        "phone": "Demo",
+        "email": "kontakt@dinodemo.se",
+        "comment": "4 vuxna och 3 barn, "
+      },
+      {
+        "guests": "2",
+        "time": "17:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Cecilia Nilsson",
+        "phone": "0704135707 ",
+        "email": "Evasilla63@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "20:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Aleksandar Glisic",
+        "phone": "++4915259926167",
+        "email": "aglisic78@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "20:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Aleksandar Glisic",
+        "phone": "04915259926167",
+        "email": "aglisic78@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "3",
+        "time": "12:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Schmid",
+        "phone": "047068109",
+        "email": "business@graebel-schmid.de",
+        "comment": ""
+      },
+      {
+        "guests": "3",
+        "time": "18:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Ida  Sinding",
+        "phone": "004528121230",
+        "email": "idsibidsi@gmail.com",
+        "comment": "1 voksen\n2 børn på 10 og 12"
+      },
+      {
+        "guests": "8",
+        "time": "18:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Michael ",
+        "phone": "0766397480",
+        "email": "",
+        "comment": ""
+      }
+    ],
+    "2024-12-28": [
+      {
+        "guests": "2",
+        "time": "19:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Mikael Falkenstridh ",
+        "phone": "0704338394",
+        "email": "mikael.falkenstridh@live.se",
+        "comment": "Sitter gärna längre in i restaurangen,\nej nära ytterdörren.\nTack på förhand."
+      },
+      {
+        "guests": "4",
+        "time": "17:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Jim Wiklund",
+        "phone": "0705856518",
+        "email": "jim.wiklund@ahlsell.se",
+        "comment": ""
+      }
+    ],
+    "2024-12-29": [
+      {
+        "guests": "2",
+        "time": "17:30",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Cecilia Nilsson",
+        "phone": "0704135707",
+        "email": "evasilla63@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "4",
+        "time": "20:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "",
+        "name": "Pierre Adolfsson",
+        "phone": "0701976259",
+        "email": "p.a88@hotmail.se",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "19:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Carl Cronbring",
+        "phone": "0702801437",
+        "email": "C.cronbring@telia.com",
+        "comment": ""
+      },
+      {
+        "guests": "4",
+        "time": "19:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Elin",
+        "phone": "0733301753",
+        "email": "elinwallentin@hotmail.com",
+        "comment": "Har med en barnvagn som går att fälla ihop dock. "
+      },
+      {
+        "guests": "2",
+        "time": "18:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Tilde Claesson",
+        "phone": "0705206022",
+        "email": "tilde.claesson0218@gmail.com",
+        "comment": ""
+      }
+    ],
+    "2024-12-31": [
+      {
+        "guests": "2",
+        "time": "19:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Leyla Burdett",
+        "phone": "0705274983",
+        "email": "burdettleyla@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "3",
+        "time": "17:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Per Persson",
+        "phone": "0705116973",
+        "email": "per.persson192@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "18:30",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Marlena Suchanek",
+        "phone": "0831552609",
+        "email": "marsuchlenaanek@gmail.com",
+        "comment": ""
+      },
+      {
+        "guests": "2",
+        "time": "21:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "",
+        "name": "Berivan Tutak",
+        "phone": "0709883357",
+        "email": "Berivantutak@icloud.com",
+        "comment": ""
+      }
+    ],
+    "2025-01-10": [
+      {
+        "guests": "4",
+        "time": "16:00",
+        "preorder": [],
+        "status": "declined",
+        "price": 0,
+        "extra": "Barnstol",
+        "name": "Test person!!",
+        "phone": "0766292154",
+        "email": "oscarforsvall@icloud.com",
+        "comment": "Hej detta är ett test!"
+      }
+    ],
+    "2024-12-30": [
+      {
+        "guests": "1",
+        "time": "12:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "Barnstol, Rullstol, Födelsedag",
+        "name": "Test person!!",
+        "phone": "0766292154",
+        "email": "oscarforsvall@icloud.com",
+        "comment": "Detta är ett test!"
+      },
+      {
+        "guests": "2",
+        "time": "15:00",
+        "preorder": [],
+        "status": "requested",
+        "price": 0,
+        "extra": "Barnstol, Födelsedag",
+        "name": "Test person!!",
+        "phone": "0766292154",
+        "email": "oscarforsvall@icloud.com",
+        "comment": "Test!"
+      }
+    ],
+    "2025-01-03": [
+      {
+        "guests": "2",
+        "time": "16:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "Barnstol",
+        "name": "Test pers",
+        "phone": "0766292154",
+        "email": "oscarforsvall@icloud.com",
+        "comment": "Hej detta är ett test!"
+      }
+    ],
+    "2025-01-06": [
+      {
+        "guests": "3",
+        "time": "16:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "Barnstol, Födelsedag",
+        "name": "Test",
+        "phone": "0766292154",
+        "email": "oscarforsvall@icloud.com",
+        "comment": "Hej!"
+      },
+      {
+        "name": "TEst Person",
+        "time": "13:45",
+        "guests": "6",
+        "comment": "Detta är ett test bara",
+        "extra": "Födelsedag, Rullstol, Barnstol",
+        "preorder": [],
+        "price": 0,
+        "phone": "No Number",
+        "email": "No Email",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T14:16:51.614Z",
+        "ID": "1736000211614"
+      }
+    ],
+    "2025-01-04": [
+      {
+        "guests": "7",
+        "time": "16:00",
+        "preorder": [],
+        "status": "accepted",
+        "price": 0,
+        "extra": "Barnstol, Födelsedag",
+        "name": "Person Test",
+        "phone": "0766292154",
+        "email": "oscarforsvall@icloud.com",
+        "comment": "Hej hej!"
+      },
+      {
+        "name": "Test 1",
+        "time": "21:30",
+        "guests": "3",
+        "comment": "Uppdaterad allt",
+        "extra": "Barnstol",
+        "preorder": [],
+        "price": 0,
+        "phone": "",
+        "email": "",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T18:41:57.096Z",
+        "ID": "1736016117096"
+      },
+      {
+        "name": "Test 1.2",
+        "time": "23:00",
+        "guests": "2",
+        "comment": "Treje uppdateringen",
+        "extra": "Födelsedag",
+        "preorder": [],
+        "price": 0,
+        "phone": "",
+        "email": "",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T18:48:44.763Z",
+        "ID": "1736016524762"
+      }
+    ],
+    "2006-01-25": [
+      {
+        "name": "Test perosn",
+        "time": "12:30",
+        "guests": "3",
+        "comment": "Detta är ett test",
+        "extra": "Födelsedag, Rullstol",
+        "preorder": [],
+        "price": 0,
+        "phone": "No Number",
+        "email": "No Email",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T14:07:52.168Z",
+        "ID": "1735999672168"
+      }
+    ],
+    "2025-02-07": [
+      {
+        "name": "Test 1.3",
+        "time": "12:15",
+        "guests": "1",
+        "comment": "TEst igen",
+        "extra": "Födelsedag",
+        "preorder": [],
+        "price": 0,
+        "phone": "No Number",
+        "email": "No Email",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T14:36:04.026Z",
+        "ID": "1736001364026"
+      },
+      {
+        "name": "Test 2",
+        "time": "10:00",
+        "guests": "3",
+        "comment": "Hej",
+        "extra": "Rullstol",
+        "preorder": [],
+        "price": 0,
+        "phone": "No Number",
+        "email": "No Email",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T14:37:17.608Z",
+        "ID": "1736001437608"
+      },
+      {
+        "name": "Test 5",
+        "time": "18:30",
+        "guests": "20",
+        "comment": "Denna är uppdaterad.",
+        "extra": "Födelsedag, Rullstol",
+        "preorder": [],
+        "price": 0,
+        "phone": "No Number",
+        "email": "No Email",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T14:46:03.039Z",
+        "ID": "1736001963039"
+      },
+      {
+        "name": "Test 5",
+        "time": "18:30",
+        "guests": "3",
+        "comment": "Är min vän här?",
+        "extra": "Födelsedag, Rullstol, Barnstol",
+        "preorder": [],
+        "price": 0,
+        "phone": "",
+        "email": "",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T17:17:27.550Z",
+        "ID": "2025-01-04 18:17"
+      },
+      {
+        "name": "Test 5",
+        "time": "18:30",
+        "guests": "3",
+        "comment": "Är min vän här?",
+        "extra": "",
+        "preorder": [],
+        "price": 0,
+        "phone": "",
+        "email": "",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T17:22:00.925Z",
+        "ID": "1736011320924"
+      },
+      {
+        "name": "Test 5",
+        "time": "18:30",
+        "guests": "3",
+        "comment": "Är min vän här?",
+        "extra": "Födelsedag, Rullstol, Barnstol",
+        "preorder": [],
+        "price": 0,
+        "phone": "",
+        "email": "",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T18:15:08.865Z",
+        "ID": "1736014508865"
+      },
+      {
+        "name": "Test 5",
+        "time": "18:30",
+        "guests": "3",
+        "comment": "Är min vän här?",
+        "extra": "Födelsedag, Rullstol, Barnstol",
+        "preorder": [],
+        "price": 0,
+        "phone": "",
+        "email": "",
+        "status": "accepted",
+        "bookingTime": "2025-01-04T18:21:03.764Z",
+        "ID": "1736014863763"
+      }
+    ]
+  },
   "2006-01-25": [
     {
       "name": "Test perosn",
@@ -765,11 +1589,11 @@
   ],
   "2025-02-07": [
     {
-      "name": "Test 1",
-      "time": "12:00",
+      "name": "Test 1.3",
+      "time": "12:15",
       "guests": "1",
-      "comment": "hej",
-      "extra": "Rullstol",
+      "comment": "TEst igen",
+      "extra": "Födelsedag",
       "preorder": [],
       "price": 0,
       "phone": "No Number",
