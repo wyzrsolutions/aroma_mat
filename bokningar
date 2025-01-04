@@ -719,18 +719,18 @@
       "comment": "Hej hej!"
     },
     {
-      "name": "Person Test",
+      "name": "Test 1",
       "time": "21:30",
-      "guests": "7",
-      "comment": "Uppdaterad tid",
-      "extra": "Födelsedag",
+      "guests": "3",
+      "comment": "Uppdaterad allt",
+      "extra": "Barnstol",
       "preorder": [],
       "price": 0,
       "phone": "",
       "email": "",
       "status": "accepted",
-      "bookingTime": "2025-01-04T18:40:27.312Z",
-      "ID": "1736016027312"
+      "bookingTime": "2025-01-04T18:41:57.096Z",
+      "ID": "1736016117096"
     }
   ],
   "2006-01-25": [
