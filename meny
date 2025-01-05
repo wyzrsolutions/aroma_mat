@@ -4,19 +4,6 @@
     "blockedDays": [],
     "count": 3
   },
-  "categories": [
-    "Förrätter",
-    "Pizza",
-    "Pasta",
-    "Huvudrätter",
-    "Sallader",
-    "Risotto",
-    "Kids Special",
-    "Dessert",
-    "Dryck",
-    "Viner",
-    "Sprit"
-  ],
   "time": {
     "intervals": 30,
     "days": [
@@ -441,5 +428,18 @@
       "Jag förstår att min mat görs i förväg och måste betalas oavsett om besöket uteblir!",
       "Ta emot e-postmeddelande med erbjudande och nyheter från *Aroma Restaurang, Se vilkor*"
     ]
-  }
+  },
+  "categories": [
+    "Förrätter",
+    "Pizza",
+    "Pasta",
+    "Huvudrätter",
+    "Sallader",
+    "Risotto",
+    "Kids Special",
+    "Dessert",
+    "Dryck",
+    "Viner",
+    "Sprit"
+  ]
 }
