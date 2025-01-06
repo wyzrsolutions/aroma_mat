@@ -878,5 +878,19 @@
       "bookingTime": "2025-01-04T23:06:45.621Z",
       "ID": "1736032005621"
     }
+  ],
+  "2025-1-18": [
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Julia Berggren ",
+      "phone": "0707898373",
+      "email": "julia2006berggren@gmail.com",
+      "comment": ""
+    }
   ]
 }
