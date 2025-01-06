@@ -892,5 +892,19 @@
       "email": "julia2006berggren@gmail.com",
       "comment": ""
     }
+  ],
+  "2025-1-12": [
+    {
+      "guests": "8",
+      "time": "17:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Födelsedag",
+      "name": "Minoo Malek ",
+      "phone": "0733389862",
+      "email": "Malek.Minoo@yahoo.com",
+      "comment": ""
+    }
   ]
 }
