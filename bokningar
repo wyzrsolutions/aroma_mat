@@ -891,6 +891,18 @@
       "phone": "0707898373",
       "email": "julia2006berggren@gmail.com",
       "comment": ""
+    },
+    {
+      "guests": "2",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "",
+      "name": "Julia",
+      "phone": "0707898373",
+      "email": "julia2006berggren@gmail.com",
+      "comment": ""
     }
   ],
   "2025-1-12": [
