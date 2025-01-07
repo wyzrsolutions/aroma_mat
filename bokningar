@@ -932,5 +932,19 @@
       "email": "ingegerd.svensson@hotmail.se",
       "comment": ""
     }
+  ],
+  "2025-1-07": [
+    {
+      "guests": "2",
+      "time": "15:30",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Barnstol",
+      "name": "Test person",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Hje"
+    }
   ]
 }
