@@ -938,7 +938,7 @@
       "guests": "2",
       "time": "15:30",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "Barnstol",
       "name": "Test person",
@@ -1000,9 +1000,25 @@
       "price": 0,
       "phone": "",
       "email": "",
-      "status": "requested",
+      "status": "accepted",
       "bookingTime": "2025-01-04T23:06:45.621Z",
       "ID": "1736032005300"
+    }
+  ],
+  "2025-01-07": [
+    {
+      "name": "Test",
+      "time": "17:00",
+      "guests": "2",
+      "comment": "Test",
+      "extra": "Rullstol",
+      "preorder": [],
+      "price": 0,
+      "phone": "",
+      "email": "",
+      "status": "accepted",
+      "bookingTime": "2025-01-07T15:38:18.502Z",
+      "ID": "1736264298502"
     }
   ]
 }
