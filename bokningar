@@ -974,5 +974,19 @@
       "bookingTime": "2025-01-04T23:06:45.621Z",
       "ID": "1736032005621"
     }
+  ],
+  "2025-1-15": [
+    {
+      "guests": "3",
+      "time": "16:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Födelsedag",
+      "name": "Test",
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "comment": "Hej"
+    }
   ]
 }
