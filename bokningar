@@ -966,7 +966,7 @@
       "guests": "2",
       "time": "15:30",
       "preorder": [],
-      "status": "accepted",
+      "status": "declined",
       "price": 0,
       "extra": "Barnstol",
       "name": "Test person",
