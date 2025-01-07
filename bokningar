@@ -703,6 +703,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-04T14:16:51.614Z",
       "ID": "1736000211614"
+    },
+    {
+      "name": "Gamal test",
+      "time": "13:45",
+      "guests": "6",
+      "comment": "Detta är ett test bara",
+      "extra": "Födelsedag, Rullstol, Barnstol",
+      "preorder": [],
+      "price": 0,
+      "phone": "No Number",
+      "email": "No Email",
+      "status": "accepted",
+      "bookingTime": "2025-01-04T14:16:51.614Z",
+      "ID": "1736000211000"
     }
   ],
   "2025-01-04": [
