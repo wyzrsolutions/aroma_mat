@@ -1074,5 +1074,21 @@
       "email": "Gunilla.jarlbro@kom.lu.se",
       "comment": ""
     }
+  ],
+  "2025-02-10": [
+    {
+      "name": "Test 02/10",
+      "time": "10:00",
+      "guests": "2",
+      "comment": "Test 02/10",
+      "extra": "Födelsedag, Rullstol, Barnstol",
+      "preorder": [],
+      "price": 0,
+      "phone": "",
+      "email": "",
+      "status": "accepted",
+      "bookingTime": "2025-01-07T16:43:51.278Z",
+      "ID": "1736268231277"
+    }
   ]
 }
