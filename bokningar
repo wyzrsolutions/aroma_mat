@@ -891,6 +891,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-04T23:06:45.621Z",
       "ID": "1736032005621"
+    },
+    {
+      "name": "Födelsedag",
+      "time": "20:00",
+      "guests": "2",
+      "comment": "Födelsedag",
+      "extra": "Födelsedag",
+      "preorder": [],
+      "price": 0,
+      "phone": "",
+      "email": "",
+      "status": "accepted",
+      "bookingTime": "2025-01-07T16:49:20.709Z",
+      "ID": "1736268560709"
     }
   ],
   "2025-1-18": [
