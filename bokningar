@@ -108,7 +108,7 @@
       "guests": "6",
       "time": "19:00",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
       "name": "Mari Ekman",
