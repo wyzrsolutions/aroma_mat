@@ -1132,5 +1132,19 @@
       "email": "acborjedahl@gmail.com",
       "comment": ""
     }
+  ],
+  "2025-1-29": [
+    {
+      "guests": "5",
+      "time": "19:00",
+      "preorder": [],
+      "status": "requested",
+      "price": 0,
+      "extra": "Födelsedag",
+      "name": "Pia Lövgren",
+      "phone": "0733896498",
+      "email": "alanis73@hotmail.com",
+      "comment": ""
+    }
   ]
 }
