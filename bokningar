@@ -483,6 +483,20 @@
       "phone": "0766397480",
       "email": "",
       "comment": ""
+    },
+    {
+      "name": "Oscar Forsvall",
+      "time": "16:00",
+      "guests": 2,
+      "comment": "Test kommentar",
+      "extra": "Barnstol, Födelsedag",
+      "preorder": "1x Ossobuco Beef, 2x Grillad Laxfilé1x Ossobuco Beef, 2x Grillad Laxfilé",
+      "price": 547,
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-01-08T02:45:23.645Z",
+      "ID": "1736304279250"
     }
   ],
   "2024-12-28": [
