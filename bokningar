@@ -905,6 +905,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-07T16:49:20.709Z",
       "ID": "1736268560709"
+    },
+    {
+      "name": "Oscar Forsvall",
+      "time": "18:00",
+      "guests": 10,
+      "comment": "födelsedag",
+      "extra": "Barnstol, Rullstol, Födelsedag",
+      "preorder": "3x Pomodoro Scampi con Spinaci, 3x Arabiata, 4x Caprese",
+      "price": 1320,
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-01-08T01:46:38.082Z",
+      "ID": "1736300748992"
     }
   ],
   "2025-1-18": [
