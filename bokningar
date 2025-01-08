@@ -1165,10 +1165,10 @@
     {
       "name": "Test person!!!",
       "time": "20:30",
-      "guests": 5,
+      "guests": "6",
       "comment": "Test bokning 2",
-      "extra": "Barnstol, Rullstol, Födelsedag",
-      "preorder": "1x Pomodoro Scampi con Spinaci, 1x Arabiata, 1x Carboara, 2x Frutti Di Mare1x Pomodoro Scampi con Spinaci, 1x Arabiata, 1x Carboara, 2x Frutti Di Mare",
+      "extra": "Födelsedag, Rullstol, Barnstol",
+      "preorder": [],
       "price": 785,
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
