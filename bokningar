@@ -1161,6 +1161,20 @@
       "status": "requested",
       "bookingTime": "2025-01-08T00:55:37.546Z",
       "ID": "1736268231233"
+    },
+    {
+      "name": "Test person!!!",
+      "time": "20:30",
+      "guests": 5,
+      "comment": "Test bokning 2",
+      "extra": "Barnstol, Rullstol, Födelsedag",
+      "preorder": "1x Pomodoro Scampi con Spinaci, 1x Arabiata, 1x Carboara, 2x Frutti Di Mare1x Pomodoro Scampi con Spinaci, 1x Arabiata, 1x Carboara, 2x Frutti Di Mare",
+      "price": 785,
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-01-08T01:15:05.570Z",
+      "ID": "1736298865081"
     }
   ]
 }
