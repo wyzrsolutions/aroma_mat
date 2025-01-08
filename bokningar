@@ -695,6 +695,20 @@
       "status": "requested",
       "bookingTime": "2025-01-08T10:16:40.837Z",
       "ID": "1736331338866"
+    },
+    {
+      "name": "Oscar Forsvall",
+      "time": "13:30",
+      "guests": 1,
+      "comment": "",
+      "extra": "",
+      "preorder": "1x Prosciutto Crudo",
+      "price": 169,
+      "phone": "0766292154",
+      "email": "Oscarforsvall@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-01-08T12:11:41.853Z",
+      "ID": "1736338241321"
     }
   ]
 }
