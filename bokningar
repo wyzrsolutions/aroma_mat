@@ -1189,6 +1189,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-08T01:15:05.570Z",
       "ID": "1736298865081"
+    },
+    {
+      "name": "Ingen mat",
+      "time": "16:30",
+      "guests": 8,
+      "comment": "Tests",
+      "extra": "Barnstol",
+      "preorder": "",
+      "price": 0,
+      "phone": "0766292154",
+      "email": "hej@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-08T02:07:01.143Z",
+      "ID": "1736302003910"
     }
   ]
 }
