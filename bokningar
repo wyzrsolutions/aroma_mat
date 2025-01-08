@@ -1182,7 +1182,7 @@
       "guests": "6",
       "comment": "Test bokning 2",
       "extra": "Födelsedag, Rullstol, Barnstol",
-      "preorder": [],
+      "preorder": "",
       "price": 785,
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
