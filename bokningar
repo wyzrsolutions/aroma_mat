@@ -664,5 +664,21 @@
       "email": "alanis73@hotmail.com",
       "comment": ""
     }
+  ],
+  "2025-01-31": [
+    {
+      "name": "Oscar Forsvall",
+      "time": "20:00",
+      "guests": 9,
+      "comment": "Gärna vid förmstwr ",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0766292154",
+      "email": "Oscarforsvall@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-01-08T03:51:45.678Z",
+      "ID": "1736308239511"
+    }
   ]
 }
