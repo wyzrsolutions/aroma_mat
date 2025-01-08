@@ -497,6 +497,20 @@
       "status": "requested",
       "bookingTime": "2025-01-08T02:47:48.345Z",
       "ID": "1736304442788"
+    },
+    {
+      "name": "Oscar Forsvall",
+      "time": "14:30",
+      "guests": 9,
+      "comment": "Gärna en avskild plats, tack!",
+      "extra": "",
+      "preorder": "4x Pomodoro Scampi con Spinaci, 1x Arabiata, 2x Carboara, 3x Bolognese, 1x Pasta Med Salsiccia",
+      "price": 1699,
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-01-08T02:52:27.163Z",
+      "ID": "1736304704685"
     }
   ],
   "2024-12-28": [
