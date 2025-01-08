@@ -381,40 +381,16 @@
   ],
   "2025-01-19": [
     {
-      "guests": "2",
-      "time": "19:00",
+      "guests": "5",
+      "time": "14:00",
       "preorder": [],
-      "status": "accepted",
+      "status": "requested",
       "price": 0,
       "extra": "",
-      "name": "Mia",
-      "phone": "0737108117",
-      "email": "",
+      "name": "Ingegerd Svensson",
+      "phone": "0705-244535",
+      "email": "ingegerd.svensson@hotmail.se",
       "comment": ""
-    },
-    {
-      "guests": "2",
-      "time": "19:00",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Susanne Offersen",
-      "phone": "25285965",
-      "email": "susanneoffersen@gmail.com",
-      "comment": ""
-    },
-    {
-      "guests": "7",
-      "time": "17:30",
-      "preorder": [],
-      "status": "accepted",
-      "price": 0,
-      "extra": "",
-      "name": "Dino",
-      "phone": "Demo",
-      "email": "kontakt@dinodemo.se",
-      "comment": "4 vuxna och 3 barn, "
     }
   ],
   "2025-01-23": [
@@ -649,29 +625,15 @@
   ],
   "2025-01-12": [
     {
-      "guests": "8",
-      "time": "17:30",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "Födelsedag",
-      "name": "Minoo Malek ",
-      "phone": "0733389862",
-      "email": "Malek.Minoo@yahoo.com",
-      "comment": ""
-    }
-  ],
-  "2025-01-19": [
-    {
-      "guests": "5",
-      "time": "14:00",
+      "guests": "3",
+      "time": "18:00",
       "preorder": [],
       "status": "requested",
       "price": 0,
       "extra": "",
-      "name": "Ingegerd Svensson",
-      "phone": "0705-244535",
-      "email": "ingegerd.svensson@hotmail.se",
+      "name": "Anna-Carin Börjedahl ",
+      "phone": "",
+      "email": "acborjedahl@gmail.com",
       "comment": ""
     }
   ],
@@ -689,26 +651,12 @@
       "comment": ""
     }
   ],
-  "2025-01-12": [
-    {
-      "guests": "3",
-      "time": "18:00",
-      "preorder": [],
-      "status": "requested",
-      "price": 0,
-      "extra": "",
-      "name": "Anna-Carin Börjedahl ",
-      "phone": "",
-      "email": "acborjedahl@gmail.com",
-      "comment": ""
-    }
-  ],
   "2025-01-29": [
     {
       "guests": "5",
       "time": "19:00",
       "preorder": [],
-      "status": "requested",
+      "status": "accepted",
       "price": 0,
       "extra": "Födelsedag",
       "name": "Pia Lövgren",
