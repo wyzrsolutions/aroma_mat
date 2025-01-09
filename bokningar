@@ -710,5 +710,21 @@
       "bookingTime": "2025-01-08T12:11:41.853Z",
       "ID": "1736338241321"
     }
+  ],
+  "2025-02-28": [
+    {
+      "name": "Magnus Kabbenäs",
+      "time": "18:00",
+      "guests": 3,
+      "comment": "Hej jag tänkte fira min äldsta pojk Gustav som fyller tio år hos er. Vi skulle gärna vilja ha ett mysigt bord för tre, en vuxen och två barn. Tack för att ni hjälper mig att skapa en fin dag för honom!",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0731588232",
+      "email": "magnus.kabbenas@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-09T15:37:24.795Z",
+      "ID": "1736436680998"
+    }
   ]
 }
