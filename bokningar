@@ -649,6 +649,20 @@
       "phone": "0705821160",
       "email": "Gunilla.jarlbro@kom.lu.se",
       "comment": ""
+    },
+    {
+      "name": "Per Ahlqvist ",
+      "time": "16:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0761089822",
+      "email": "paje006@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-09T15:55:13.624Z",
+      "ID": "1736437982186"
     }
   ],
   "2025-01-29": [
