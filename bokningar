@@ -754,5 +754,21 @@
       "bookingTime": "2025-01-09T15:37:24.795Z",
       "ID": "1736436680998"
     }
+  ],
+  "2025-01-10": [
+    {
+      "name": "Lena Doverhem",
+      "time": "18:00",
+      "guests": 3,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0705804743",
+      "email": "lena@wr.nu",
+      "status": "requested",
+      "bookingTime": "2025-01-10T09:31:23.875Z",
+      "ID": "1736501455437"
+    }
   ]
 }
