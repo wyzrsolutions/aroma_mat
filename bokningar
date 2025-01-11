@@ -677,6 +677,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-09T15:55:13.624Z",
       "ID": "1736437982186"
+    },
+    {
+      "name": "Max",
+      "time": "20:00",
+      "guests": 8,
+      "comment": ".",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0727369303",
+      "email": "Max.Nordfeldt@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-11T18:32:04.601Z",
+      "ID": "1736620252316"
     }
   ],
   "2025-01-29": [
