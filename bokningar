@@ -842,5 +842,21 @@
       "bookingTime": "2025-01-12T09:31:27.548Z",
       "ID": "1736674172327"
     }
+  ],
+  "2025-01-17": [
+    {
+      "name": "Maria Liedholm ",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0730688837",
+      "email": "m_liedholm@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-14T17:50:56.424Z",
+      "ID": "1736877006941"
+    }
   ]
 }
