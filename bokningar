@@ -663,6 +663,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-14T10:57:48.108Z",
       "ID": "1736852203904"
+    },
+    {
+      "name": "Joachim ",
+      "time": "12:00",
+      "guests": 4,
+      "comment": "Lugnt bord",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0761700571",
+      "email": "joachim.n6@me.com",
+      "status": "requested",
+      "bookingTime": "2025-01-15T13:10:39.526Z",
+      "ID": "1736946562889"
     }
   ],
   "2025-01-12": [
