@@ -508,7 +508,7 @@
       "price": 0,
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
-      "status": "declined",
+      "status": "requested",
       "bookingTime": "2025-01-15T19:56:45.123Z",
       "ID": "1736970991378"
     },
@@ -522,7 +522,7 @@
       "price": 0,
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
-      "status": "declined",
+      "status": "requested",
       "bookingTime": "2025-01-15T20:02:00.404Z",
       "ID": "1736971311292"
     }
@@ -954,7 +954,7 @@
       "price": 2457,
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
-      "status": "declined",
+      "status": "accepted",
       "bookingTime": "2025-01-15T19:49:26.027Z",
       "ID": "1736970534526"
     }
