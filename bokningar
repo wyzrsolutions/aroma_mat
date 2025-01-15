@@ -358,7 +358,7 @@
       "guests": "5",
       "time": "15:00",
       "preorder": [],
-      "status": "accepted",
+      "status": "declined",
       "price": 0,
       "extra": "",
       "name": "Anna Cordoba",
@@ -896,7 +896,7 @@
       "price": 0,
       "phone": "0730688837",
       "email": "m_liedholm@hotmail.com",
-      "status": "accepted",
+      "status": "requested",
       "bookingTime": "2025-01-14T17:50:56.424Z",
       "ID": "1736877006941"
     }
