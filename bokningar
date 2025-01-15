@@ -497,6 +497,20 @@
       "phone": "047068109",
       "email": "business@graebel-schmid.de",
       "comment": ""
+    },
+    {
+      "name": "Carl Oscar Mauritz Forsvall",
+      "time": "15:30",
+      "guests": 3,
+      "comment": "test",
+      "extra": "Barnstol",
+      "preorder": "",
+      "price": 0,
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-01-15T19:56:45.123Z",
+      "ID": "1736970991378"
     }
   ],
   "2025-01-24": [
@@ -926,7 +940,7 @@
       "price": 2457,
       "phone": "0766292154",
       "email": "oscarforsvall@icloud.com",
-      "status": "declined",
+      "status": "requested",
       "bookingTime": "2025-01-15T19:49:26.027Z",
       "ID": "1736970534526"
     }
