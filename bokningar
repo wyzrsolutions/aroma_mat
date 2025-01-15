@@ -914,5 +914,21 @@
       "bookingTime": "2025-01-14T17:50:56.424Z",
       "ID": "1736877006941"
     }
+  ],
+  "2025-01-16": [
+    {
+      "name": "Carl Oscar Mauritz Forsvall",
+      "time": "16:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "13x Ossobuco Beef",
+      "price": 2457,
+      "phone": "0766292154",
+      "email": "oscarforsvall@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-01-15T19:49:26.027Z",
+      "ID": "1736970534526"
+    }
   ]
 }
