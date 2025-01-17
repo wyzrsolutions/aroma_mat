@@ -733,6 +733,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-15T13:10:39.526Z",
       "ID": "1736946562889"
+    },
+    {
+      "name": "Mattias Kjellsson",
+      "time": "20:00",
+      "guests": 3,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703558807",
+      "email": "Mattias.kjellsson@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-17T19:35:48.844Z",
+      "ID": "1737142412060"
     }
   ],
   "2025-01-12": [
