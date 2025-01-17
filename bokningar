@@ -941,6 +941,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-14T17:50:56.424Z",
       "ID": "1736877006941"
+    },
+    {
+      "name": "Halil Pergjegji",
+      "time": "20:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "1x Ossobuco Beef, 1x Arabiata",
+      "price": 338,
+      "phone": "0702398061",
+      "email": "lili.pergjegji@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-17T17:22:12.194Z",
+      "ID": "1737134225797"
     }
   ],
   "2025-01-16": [
