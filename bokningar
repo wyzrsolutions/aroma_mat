@@ -1058,5 +1058,21 @@
       "bookingTime": "2025-01-16T13:13:58.161Z",
       "ID": "1737032530949"
     }
+  ],
+  "2025-02-08": [
+    {
+      "name": "Sara ",
+      "time": "19:00",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0709210694",
+      "email": "Sara_1979_77@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-18T09:44:45.733Z",
+      "ID": "1737193424467"
+    }
   ]
 }
