@@ -744,7 +744,7 @@
       "price": 0,
       "phone": "0703558807",
       "email": "Mattias.kjellsson@hotmail.com",
-      "status": "requested",
+      "status": "accepted",
       "bookingTime": "2025-01-17T19:35:48.844Z",
       "ID": "1737142412060"
     },
@@ -772,7 +772,7 @@
       "price": 0,
       "phone": "0768833623",
       "email": "benio.bujak@gmail.com",
-      "status": "requested",
+      "status": "accepted",
       "bookingTime": "2025-01-18T01:34:48.341Z",
       "ID": "1737163497189"
     },
