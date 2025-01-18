@@ -758,7 +758,7 @@
       "price": 0,
       "phone": "0723110057",
       "email": "Jonna.pe92@gmail.com",
-      "status": "requested",
+      "status": "accepted",
       "bookingTime": "2025-01-17T20:30:57.176Z",
       "ID": "1737145767602"
     },
@@ -1008,7 +1008,7 @@
       "price": 338,
       "phone": "0702398061",
       "email": "lili.pergjegji@hotmail.com",
-      "status": "requested",
+      "status": "accepted",
       "bookingTime": "2025-01-17T17:22:12.194Z",
       "ID": "1737134225797"
     }
