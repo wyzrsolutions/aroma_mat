@@ -447,6 +447,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-09T19:57:54.066Z",
       "ID": "1736452621393"
+    },
+    {
+      "name": "Adam Petersson",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0708319729",
+      "email": "petersson_adam@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-18T16:21:26.171Z",
+      "ID": "1737217232117"
     }
   ],
   "2025-01-23": [
