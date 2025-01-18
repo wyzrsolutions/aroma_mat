@@ -789,6 +789,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-18T10:16:19.459Z",
       "ID": "1737195134663"
+    },
+    {
+      "name": "Annika Olsson",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703193337",
+      "email": "annikaolsson74@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-18T15:20:53.941Z",
+      "ID": "1737213604369"
     }
   ],
   "2025-01-12": [
