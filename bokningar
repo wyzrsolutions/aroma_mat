@@ -451,10 +451,10 @@
     {
       "name": "Adam Petersson",
       "time": "18:00",
-      "guests": 2,
+      "guests": "2",
       "comment": "",
       "extra": "",
-      "preorder": "",
+      "preorder": [],
       "price": 0,
       "phone": "0708319729",
       "email": "petersson_adam@hotmail.com",
