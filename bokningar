@@ -553,6 +553,20 @@
       "phone": "004528121230",
       "email": "idsibidsi@gmail.com",
       "comment": "1 voksen\n2 børn på 10 og 12"
+    },
+    {
+      "name": "Joar Ronsten",
+      "time": "19:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0706899339",
+      "email": "joar.ronstenn@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-21T20:06:27.037Z",
+      "ID": "1737489969839"
     }
   ],
   "2025-01-25": [
@@ -567,20 +581,6 @@
       "phone": "0766397480",
       "email": "",
       "comment": ""
-    },
-    {
-      "name": "Joar Ronsten",
-      "time": "19:00",
-      "guests": 2,
-      "comment": "",
-      "extra": "",
-      "preorder": "",
-      "price": 0,
-      "phone": "0706899339",
-      "email": "joar.ronstenn@gmail.com",
-      "status": "requested",
-      "bookingTime": "2025-01-21T20:03:09.424Z",
-      "ID": "1737489433537"
     }
   ],
   "2024-12-28": [
