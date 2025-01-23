@@ -539,6 +539,20 @@
       "status": "declined",
       "bookingTime": "2025-01-15T20:02:00.404Z",
       "ID": "1736971311292"
+    },
+    {
+      "name": "Christian Otterberg",
+      "time": "20:30",
+      "guests": 3,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0760044111",
+      "email": "Christian.Otterberg@meetech.se",
+      "status": "requested",
+      "bookingTime": "2025-01-23T16:30:09.190Z",
+      "ID": "1737649783479"
     }
   ],
   "2025-01-24": [
