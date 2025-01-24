@@ -595,6 +595,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-22T18:54:21.544Z",
       "ID": "1737571214715"
+    },
+    {
+      "name": "Julia Ekström",
+      "time": "21:00",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0760248071",
+      "email": "julia.e.ekstrom@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-24T18:27:05.769Z",
+      "ID": "1737743016202"
     }
   ],
   "2025-01-25": [
