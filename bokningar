@@ -637,6 +637,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-22T17:17:15.102Z",
       "ID": "1737566214781"
+    },
+    {
+      "name": "Jeanette  Walldén",
+      "time": "17:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0739127394",
+      "email": "jeanette_wallden@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-25T10:43:38.341Z",
+      "ID": "1737801691301"
     }
   ],
   "2024-12-28": [
