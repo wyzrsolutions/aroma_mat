@@ -1246,5 +1246,21 @@
       "bookingTime": "2025-01-19T13:32:59.831Z",
       "ID": "1737293548702"
     }
+  ],
+  "2025-01-26": [
+    {
+      "name": "Ingrid Doherty ",
+      "time": "13:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0731847521",
+      "email": "Ingriddoherty63@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-25T16:24:07.754Z",
+      "ID": "1737822024369"
+    }
   ]
 }
