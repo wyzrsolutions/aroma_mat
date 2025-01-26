@@ -1304,5 +1304,21 @@
       "bookingTime": "2025-01-26T16:30:43.160Z",
       "ID": "1737908887378"
     }
+  ],
+  "2025-02-14": [
+    {
+      "name": "Alex",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0731549369",
+      "email": "Alexkarlssonyt@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-26T21:45:03.745Z",
+      "ID": "1737926074587"
+    }
   ]
 }
