@@ -1001,6 +1001,20 @@
       "status": "declined",
       "bookingTime": "2025-01-08T03:51:45.678Z",
       "ID": "1736308239511"
+    },
+    {
+      "name": "Paul Malmberg",
+      "time": "17:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703340177",
+      "email": "paul.malmberg@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-26T12:23:01.501Z",
+      "ID": "1737894086509"
     }
   ],
   "2025-01-08": [
