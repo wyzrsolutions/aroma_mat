@@ -1348,5 +1348,21 @@
       "bookingTime": "2025-01-27T00:26:00.435Z",
       "ID": "1737937356012"
     }
+  ],
+  "2025-01-27": [
+    {
+      "name": "Ronja ",
+      "time": "19:30",
+      "guests": 7,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0704403276",
+      "email": "ronjachko95@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-27T14:43:08.010Z",
+      "ID": "1737988841536"
+    }
   ]
 }
