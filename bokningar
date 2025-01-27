@@ -1319,6 +1319,20 @@
       "status": "requested",
       "bookingTime": "2025-01-26T21:45:03.745Z",
       "ID": "1737926074587"
+    },
+    {
+      "name": "Casper Forsander",
+      "time": "17:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0731401730",
+      "email": "casper.forsander@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-27T00:26:00.435Z",
+      "ID": "1737937356012"
     }
   ]
 }
