@@ -985,6 +985,20 @@
       "phone": "0733896498",
       "email": "alanis73@hotmail.com",
       "comment": ""
+    },
+    {
+      "name": "Lars Liffner",
+      "time": "14:00",
+      "guests": "",
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0737414403",
+      "email": "lasse.liffner@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-27T15:56:42.679Z",
+      "ID": "1737993327830"
     }
   ],
   "2025-01-31": [
