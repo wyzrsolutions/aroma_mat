@@ -1392,5 +1392,21 @@
       "bookingTime": "2025-01-27T14:43:08.010Z",
       "ID": "1737988841536"
     }
+  ],
+  "2025-02-01": [
+    {
+      "name": "Katarzyna Wåreus",
+      "time": "18:00",
+      "guests": 10,
+      "comment": "Hej \nJag önskar boka bord till 10 pers.\nLör 1/2 TILL KL 18:00\n\nMvk Katarina",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0737204749",
+      "email": "katarzyna_b@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-28T20:04:29.443Z",
+      "ID": "1738094545751"
+    }
   ]
 }
