@@ -1407,6 +1407,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-28T20:04:29.443Z",
       "ID": "1738094545751"
+    },
+    {
+      "name": "Viktor de Gregori ",
+      "time": "20:00",
+      "guests": 9,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0725122228",
+      "email": "viktor@degregori.nu",
+      "status": "requested",
+      "bookingTime": "2025-01-29T16:23:31.014Z",
+      "ID": "1738167669701"
     }
   ]
 }
