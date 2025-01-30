@@ -1421,6 +1421,20 @@
       "status": "accepted",
       "bookingTime": "2025-01-29T16:23:31.014Z",
       "ID": "1738167669701"
+    },
+    {
+      "name": "Maija Backman",
+      "time": "18:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0733891007",
+      "email": "Maija2002@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-01-30T14:45:52.313Z",
+      "ID": "1738248170726"
     }
   ]
 }
