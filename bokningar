@@ -1460,7 +1460,7 @@
       "price": 0,
       "phone": "",
       "email": "",
-      "status": "requested",
+      "status": "accepted",
       "bookingTime": "2025-02-01T14:29:52.732Z",
       "ID": "1738421111111"
     },
