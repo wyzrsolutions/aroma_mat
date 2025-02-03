@@ -1521,6 +1521,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-02T12:17:05.785Z",
       "ID": "1738498532877"
+    },
+    {
+      "name": "ia andersson",
+      "time": "18:00",
+      "guests": 3,
+      "comment": "Önskar ett lugnt bord långt från högtalare. 2 av personerna i sällskapet hör lite dåligt och vi önskar kunna samtala.",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0733501958",
+      "email": "ia.i.andersson59@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-03T16:08:51.985Z",
+      "ID": "1738598583737"
     }
   ]
 }
