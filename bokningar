@@ -1283,6 +1283,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-03T12:50:44.300Z",
       "ID": "1738586903185"
+    },
+    {
+      "name": "Elof",
+      "time": "17:30",
+      "guests": 5,
+      "comment": "Varav två stycken är barn. (Inga barstolar)",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0767841771",
+      "email": "elof_97@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-03T20:03:54.204Z",
+      "ID": "1738612887885"
     }
   ],
   "2025-01-22": [
