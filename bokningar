@@ -1578,5 +1578,21 @@
       "bookingTime": "2025-02-03T16:08:51.985Z",
       "ID": "1738598583737"
     }
+  ],
+  "2025-02-04": [
+    {
+      "name": "Stefan Pettersson",
+      "time": "12:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "1x Grillad Laxfilé, 1x Ossobuco Beef",
+      "price": 368,
+      "phone": "0704624410",
+      "email": "sp@pol.se",
+      "status": "requested",
+      "bookingTime": "2025-02-04T09:36:28.961Z",
+      "ID": "1738661517020"
+    }
   ]
 }
