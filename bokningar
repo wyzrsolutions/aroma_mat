@@ -1473,6 +1473,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-05T15:26:07.096Z",
       "ID": "1738769140423"
+    },
+    {
+      "name": "Birgitta Elled",
+      "time": "20:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "1x Ossobuco Beef, 1x Frutti Di Mare",
+      "price": 348,
+      "phone": "0708948552",
+      "email": "birelled@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-05T17:00:02.957Z",
+      "ID": "1738774244801"
     }
   ],
   "2025-01-27": [
