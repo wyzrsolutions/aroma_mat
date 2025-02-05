@@ -1297,6 +1297,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-03T20:03:54.204Z",
       "ID": "1738612887885"
+    },
+    {
+      "name": "Ambjörn Ottosson",
+      "time": "18:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0709491714",
+      "email": "am.ottosson@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-02-05T15:15:58.112Z",
+      "ID": "1738768402068"
     }
   ],
   "2025-01-22": [
