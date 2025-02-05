@@ -1501,6 +1501,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-05T17:00:02.957Z",
       "ID": "1738774244801"
+    },
+    {
+      "name": "Måns Hansson ",
+      "time": "20:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0768547551",
+      "email": "mansanhansson@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-05T20:16:44.253Z",
+      "ID": "1738786232693"
     }
   ],
   "2025-01-27": [
