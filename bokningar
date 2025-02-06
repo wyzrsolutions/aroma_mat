@@ -1707,6 +1707,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-06T15:22:05.658Z",
       "ID": "1738854679763"
+    },
+    {
+      "name": "Fredrik Bergström",
+      "time": "17:30",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0705806280",
+      "email": "fredrik.bergstrom@hotmail.se",
+      "status": "requested",
+      "bookingTime": "2025-02-06T21:52:15.764Z",
+      "ID": "1738878705131"
     }
   ]
 }
