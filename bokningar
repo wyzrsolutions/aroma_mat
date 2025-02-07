@@ -1267,6 +1267,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-07T09:16:52.053Z",
       "ID": "1738919335084"
+    },
+    {
+      "name": "Linus ",
+      "time": "20:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0700124662",
+      "email": "Linne97.bengtsson@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-07T14:58:09.529Z",
+      "ID": "1738940216602"
     }
   ],
   "2025-02-08": [
