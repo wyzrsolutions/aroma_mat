@@ -1353,6 +1353,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-05T19:04:12.506Z",
       "ID": "1738782182773"
+    },
+    {
+      "name": "Mattias Wihlborg",
+      "time": "20:00",
+      "guests": 4,
+      "comment": "Fiskallergiker i sällskapet ",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703320067",
+      "email": "Mattias.wihlborg25@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-07T17:27:36.097Z",
+      "ID": "1738949172565"
     }
   ],
   "2025-01-22": [
