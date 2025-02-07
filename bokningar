@@ -1763,6 +1763,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-07T08:17:55.891Z",
       "ID": "1738916019219"
+    },
+    {
+      "name": "AnnCharlotte Kvick",
+      "time": "20:00",
+      "guests": 4,
+      "comment": "En person glutenintolerant ",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0708813487",
+      "email": "Olssonkvick74@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-07T15:40:40.488Z",
+      "ID": "1738942741472"
     }
   ]
 }
