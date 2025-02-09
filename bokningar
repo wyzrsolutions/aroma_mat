@@ -1820,5 +1820,21 @@
       "bookingTime": "2025-02-07T15:50:44.361Z",
       "ID": "1738943362081"
     }
+  ],
+  "2025-02-09": [
+    {
+      "name": "Izabell",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "1x Pomodoro Scampi con Spinaci, 2x Cola/Fanta/7-up/Pepsi/Juice 33cl, 1x Bolognese",
+      "price": 368,
+      "phone": "0721662854",
+      "email": "Izabellandersson01@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-09T16:21:51.254Z",
+      "ID": "1739117825071"
+    }
   ]
 }
