@@ -1850,5 +1850,21 @@
       "bookingTime": "2025-02-09T16:21:51.254Z",
       "ID": "1739117825071"
     }
+  ],
+  "2025-02-11": [
+    {
+      "name": "Andreas Bauer ",
+      "time": "19:30",
+      "guests": 3,
+      "comment": "Hej",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0708191749",
+      "email": "Bauer.hyllinge@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-02-11T15:26:21.291Z",
+      "ID": "1739287421611"
+    }
   ]
 }
