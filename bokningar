@@ -1882,5 +1882,21 @@
       "bookingTime": "2025-02-12T14:18:39.021Z",
       "ID": "1739369746459"
     }
+  ],
+  "2025-02-21": [
+    {
+      "name": "Isaac Hansen",
+      "time": "18:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0766145510",
+      "email": "isigris81@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-12T17:33:05.324Z",
+      "ID": "1739381212075"
+    }
   ]
 }
