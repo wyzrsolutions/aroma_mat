@@ -1627,6 +1627,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-13T14:30:53.441Z",
       "ID": "1739456972041"
+    },
+    {
+      "name": "Tomas Andersson",
+      "time": "15:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0708122164",
+      "email": "tomas_vartofta@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-13T19:30:23.074Z",
+      "ID": "1739474876913"
     }
   ],
   "2025-01-27": [
