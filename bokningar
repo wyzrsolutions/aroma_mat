@@ -1914,5 +1914,21 @@
       "bookingTime": "2025-02-12T22:25:13.255Z",
       "ID": "1739399073317"
     }
+  ],
+  "2025-02-13": [
+    {
+      "name": "Selma Mauritzon",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703793310",
+      "email": "selma.mauritzon@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-02-13T11:11:18.240Z",
+      "ID": "1739444974490"
+    }
   ]
 }
