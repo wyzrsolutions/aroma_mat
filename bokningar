@@ -1281,6 +1281,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-07T14:58:09.529Z",
       "ID": "1738940216602"
+    },
+    {
+      "name": "Anna Jönsson",
+      "time": "19:00",
+      "guests": 4,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "1x Pasta Med Salsiccia, 1x Bolognese, 1x Margherita, 1x Carboara, 2x Chardonnay (glas), 1x Valpolicella (glas), 1x Smirnoff Ice / Briska",
+      "price": 900,
+      "phone": "0707913002",
+      "email": "anna.barnen@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-13T21:14:17.633Z",
+      "ID": "1739480896600"
     }
   ],
   "2025-02-08": [
