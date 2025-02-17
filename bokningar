@@ -2116,5 +2116,21 @@
       "bookingTime": "2025-02-14T09:03:35.250Z",
       "ID": "1739523726267"
     }
+  ],
+  "2025-02-18": [
+    {
+      "name": "Alicia Eriksson",
+      "time": "18:30",
+      "guests": 3,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0761630174",
+      "email": "erikssonalicia06@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-02-17T12:44:46.044Z",
+      "ID": "1739796106482"
+    }
   ]
 }
