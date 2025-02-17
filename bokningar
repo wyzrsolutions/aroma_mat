@@ -2009,6 +2009,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-12T17:33:05.324Z",
       "ID": "1739381212075"
+    },
+    {
+      "name": "Selma ",
+      "time": "17:00",
+      "guests": 4,
+      "comment": "Vår vän fyller år och vi vill överraska henne så om ni gör sånt på er restaurang hade det varit super trevligt. Gärna att när ni kommer med maten att ni tänder typ några isfacklor och har låten ”Happy birthday” i bakgrunden ",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0793406721",
+      "email": "Selmagudinci6@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-17T10:01:37.638Z",
+      "ID": "1739786395619"
     }
   ],
   "2025-02-16": [
