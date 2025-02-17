@@ -2132,5 +2132,21 @@
       "bookingTime": "2025-02-17T12:44:46.044Z",
       "ID": "1739796106482"
     }
+  ],
+  "2025-02-22": [
+    {
+      "name": "Caroline Åberg ",
+      "time": "19:00",
+      "guests": 4,
+      "comment": "4 personer ",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0768836110",
+      "email": "carolineaberg969@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-17T20:03:08.664Z",
+      "ID": "1739822510598"
+    }
   ]
 }
