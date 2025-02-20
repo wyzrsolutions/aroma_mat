@@ -46,27 +46,9 @@
   },
   "preOrder": [
     {
-      "categori": "Starters ",
-      "name": "Caprese",
-      "price": 99,
-      "description": "Tomato, Freshly mozzarella \nSweet balsamic vinegar and \nOlive oil ",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
-      "categori": "Starters ",
-      "name": "Caprese",
-      "price": 99,
-      "description": "Tomato, Freshly mozzarella \nSweet balsamic vinegar and \nOlive oil ",
-      "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
-      "rateing": 5,
-      "visible": true
-    },
-    {
       "categori": "Huvudrätter",
       "name": "Grillad Laxfilé",
-      "price": 179,
+      "price": 199,
       "description": "Grillad Laxfilé med risotto eller sallad och bröd",
       "image": "https://i.postimg.cc/0NYFHJgQ/lux.jpg",
       "rateing": 5,
@@ -75,7 +57,7 @@
     {
       "categori": "Huvudrätter",
       "name": "Ossobuco Beef",
-      "price": 189,
+      "price": 229,
       "description": "Nötkött med ben tillagat med ingefära och vitlök, serverat med risotto",
       "image": "https://i.postimg.cc/TPMB9J4F/oie-HFo-Tp9am6l79.jpg",
       "rateing": 5,
@@ -84,7 +66,7 @@
     {
       "categori": "Huvudrätter",
       "name": "Musslor (Cause)",
-      "price": 149,
+      "price": 159,
       "description": "Musslor med vin, vitlök, olivolja och citron",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
@@ -93,7 +75,7 @@
     {
       "categori": "Pasta",
       "name": "Pomodoro Scampi con Spinaci",
-      "price": 159,
+      "price": 179,
       "description": "Scampi, pomodoro, vin, chili, vitlök, parmesan, olivolja",
       "image": "https://i.postimg.cc/TYszy6qR/oie-VBwg-PZp-Cy5u9.jpg",
       "rateing": 5,
@@ -102,7 +84,7 @@
     {
       "categori": "Pasta",
       "name": "Arabiata",
-      "price": 149,
+      "price": 159,
       "description": "Tomater, röd chili, vitlök, persilja, olivolja",
       "image": "https://i.postimg.cc/J0695wf5/oie-s-Zn-VLDayp7-KE.jpg",
       "rateing": 5,
@@ -111,7 +93,7 @@
     {
       "categori": "Pasta",
       "name": "Carboara",
-      "price": 159,
+      "price": 179,
       "description": "Bacon/Lux, grädde, äggula, lök, vitlök, parmesan, olivolja",
       "image": "https://i.postimg.cc/Df6FwHMZ/co.jpg",
       "rateing": 5,
@@ -120,7 +102,7 @@
     {
       "categori": "Pasta",
       "name": "Frutti Di Mare",
-      "price": 159,
+      "price": 169,
       "description": "Blandade skaldjur, körsbärstomater, persilja, olivolja, citron",
       "image": "https://i.postimg.cc/g2QGPhBH/fruti.jpg",
       "rateing": 5,
@@ -129,7 +111,7 @@
     {
       "categori": "Pasta",
       "name": "Vongole",
-      "price": 159,
+      "price": 169,
       "description": "Spagetti, blandade blåmusslor, chili, vitlök, persilja, olivolja",
       "image": "https://i.postimg.cc/J757BGGR/oie-h-Esb4-Nbae-IXs.jpg",
       "rateing": 5,
@@ -138,7 +120,7 @@
     {
       "categori": "Pasta",
       "name": "Pasta Med Salsiccia",
-      "price": 149,
+      "price": 169,
       "description": "Salsiccia, lök, vitlök, paprika, körbärstomater, olivolja, citron",
       "image": "https://lh3.googleusercontent.com/p/AF1QipO_aoCarNyqxtQAmxaiwhyPXkD0KjpxoVpuP8rO=s1360-w1360-h1020",
       "rateing": 5,
@@ -147,7 +129,7 @@
     {
       "categori": "Pasta",
       "name": "Bolognese",
-      "price": 149,
+      "price": 169,
       "description": "Kalvköttfärs, tomat, vitlök, parmesan",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
@@ -201,7 +183,7 @@
     {
       "categori": "Förrätter",
       "name": "Caprese",
-      "price": 99,
+      "price": 129,
       "description": "Färsk mozzarella, tomat, vitlök och basilika",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
@@ -219,7 +201,7 @@
     {
       "categori": "Sallader",
       "name": "Kycklingsallad",
-      "price": 139,
+      "price": 149,
       "description": "Romansallad, kyckling, blandade grönsaker, dressing och bröd",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
@@ -228,7 +210,7 @@
     {
       "categori": "Sallader",
       "name": "Evergreen Sallad",
-      "price": 129,
+      "price": 139,
       "description": "Blandade gröna blad med oliver och färsk mozzarella",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
@@ -237,7 +219,7 @@
     {
       "categori": "Risotto",
       "name": "Risotto Scampi",
-      "price": 169,
+      "price": 189,
       "description": "Scampi, basilika, salt, olivolja",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
@@ -246,7 +228,7 @@
     {
       "categori": "Risotto",
       "name": "Skaldjursrisotto",
-      "price": 169,
+      "price": 179,
       "description": "Musslor, blandade skaldjur, vin, lök, vitlök, parmesan, chili",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
@@ -255,7 +237,7 @@
     {
       "categori": "Risotto",
       "name": "Risotto Porcini",
-      "price": 169,
+      "price": 179,
       "description": "Lök, vitlök, vin, blandad svamp, parmesan, citron, persilja",
       "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67548e892eca5a31b74debcb_Under%20uppdatering.png",
       "rateing": 5,
