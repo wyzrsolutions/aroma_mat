@@ -2051,6 +2051,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-20T11:08:07.477Z",
       "ID": "1740049434680"
+    },
+    {
+      "name": "Bård Henriksen",
+      "time": "17:30",
+      "guests": 2,
+      "comment": "j",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "4799023451",
+      "email": "henriksen.bard@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-21T15:23:37.084Z",
+      "ID": "1740151343248"
     }
   ],
   "2025-02-16": [
