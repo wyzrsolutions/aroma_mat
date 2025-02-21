@@ -2065,6 +2065,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-21T15:23:37.084Z",
       "ID": "1740151343248"
+    },
+    {
+      "name": "Rita",
+      "time": "20:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0734331062",
+      "email": "rita.vaisanen71@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-02-21T16:27:29.850Z",
+      "ID": "1740155148947"
     }
   ],
   "2025-02-16": [
