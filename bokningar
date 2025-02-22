@@ -2231,6 +2231,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-18T19:30:09.301Z",
       "ID": "1739906948685"
+    },
+    {
+      "name": "Måns ",
+      "time": "18:30",
+      "guests": 6,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703524251",
+      "email": "mans.almqvist@telia.com",
+      "status": "requested",
+      "bookingTime": "2025-02-22T14:16:20.873Z",
+      "ID": "1740233558682"
     }
   ],
   "2025-02-24": [
