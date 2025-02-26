@@ -2367,6 +2367,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-23T10:42:03.541Z",
       "ID": "1740307186803"
+    },
+    {
+      "name": "Magnus Nostell",
+      "time": "12:00",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0706816737",
+      "email": "magnus.nostell@bruks-siwertell.com",
+      "status": "requested",
+      "bookingTime": "2025-02-26T19:47:17.703Z",
+      "ID": "1740599135462"
     }
   ],
   "2025-02-23": [
