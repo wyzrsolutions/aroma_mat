@@ -2395,6 +2395,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-26T19:47:17.703Z",
       "ID": "1740599135462"
+    },
+    {
+      "name": "Hans-Olof Larsson",
+      "time": "19:00",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0738089748",
+      "email": "hans-olof.larsson@rodoverken.se",
+      "status": "requested",
+      "bookingTime": "2025-02-27T16:40:33.211Z",
+      "ID": "1740674393309"
     }
   ],
   "2025-02-23": [
