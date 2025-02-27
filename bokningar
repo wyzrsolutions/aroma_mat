@@ -1117,6 +1117,20 @@
       "status": "accepted",
       "bookingTime": "2025-02-26T14:46:09.893Z",
       "ID": "1740581072258"
+    },
+    {
+      "name": "Karin Sevenbäck ",
+      "time": "17:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0760501687",
+      "email": "karin.sevenback@orklafoods.se",
+      "status": "requested",
+      "bookingTime": "2025-02-27T15:35:55.874Z",
+      "ID": "1740670456557"
     }
   ],
   "2025-01-10": [
