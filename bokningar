@@ -2451,6 +2451,20 @@
       "status": "accepted",
       "bookingTime": "2025-03-01T13:52:26.638Z",
       "ID": "1740836872712"
+    },
+    {
+      "name": "Robin Malcic",
+      "time": "17:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0704378915",
+      "email": "Robinmalcic@hotmail.se",
+      "status": "requested",
+      "bookingTime": "2025-03-01T14:25:15.966Z",
+      "ID": "1740838777405"
     }
   ],
   "2025-02-23": [
