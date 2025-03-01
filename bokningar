@@ -2545,6 +2545,20 @@
       "status": "accepted",
       "bookingTime": "2025-03-01T05:29:38.897Z",
       "ID": "1740806833118"
+    },
+    {
+      "name": "Maria",
+      "time": "18:30",
+      "guests": 7,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0735914124",
+      "email": "maria-rosberg@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-03-01T16:04:23.535Z",
+      "ID": "1740844929368"
     }
   ],
   "2025-03-02": [
