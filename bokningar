@@ -1191,6 +1191,20 @@
       "status": "accepted",
       "bookingTime": "2025-03-02T16:42:40.935Z",
       "ID": "1740933667036"
+    },
+    {
+      "name": "Claes Björkman",
+      "time": "19:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0720043191",
+      "email": "claesbjorkman@telia.com",
+      "status": "requested",
+      "bookingTime": "2025-03-03T11:21:57.935Z",
+      "ID": "1741000885347"
     }
   ],
   "2025-01-17": [
