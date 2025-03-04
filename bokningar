@@ -2623,10 +2623,10 @@
     {
       "name": "Gustav",
       "time": "18:00",
-      "guests": 2,
+      "guests": "2",
       "comment": "",
       "extra": "",
-      "preorder": "",
+      "preorder": [],
       "price": 0,
       "phone": "0708904055",
       "email": "planntin@live.se",
