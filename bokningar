@@ -1219,6 +1219,20 @@
       "status": "accepted",
       "bookingTime": "2025-03-05T16:55:30.482Z",
       "ID": "1741193626791"
+    },
+    {
+      "name": "Angelos Papadopoulos",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0739961286",
+      "email": "angelosp06@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-03-05T20:18:34.963Z",
+      "ID": "1741205877016"
     }
   ],
   "2025-01-17": [
