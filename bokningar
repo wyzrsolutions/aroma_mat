@@ -1205,6 +1205,20 @@
       "status": "accepted",
       "bookingTime": "2025-03-03T11:21:57.935Z",
       "ID": "1741000885347"
+    },
+    {
+      "name": "Mats Svensson",
+      "time": "18:30",
+      "guests": 2,
+      "comment": "Fönsterbord",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0735469274",
+      "email": "siggegis@yahoo.se",
+      "status": "requested",
+      "bookingTime": "2025-03-05T16:55:30.482Z",
+      "ID": "1741193626791"
     }
   ],
   "2025-01-17": [
