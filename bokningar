@@ -2766,5 +2766,21 @@
       "bookingTime": "2025-03-06T11:21:16.764Z",
       "ID": "1741260021784"
     }
+  ],
+  "2025-03-09": [
+    {
+      "name": "Sabina Svensson",
+      "time": "19:00",
+      "guests": 10,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0720388496",
+      "email": "sabinadalhem@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-03-08T11:10:27.435Z",
+      "ID": "1741432092450"
+    }
   ]
 }
