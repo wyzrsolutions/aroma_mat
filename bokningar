@@ -2928,5 +2928,21 @@
       "bookingTime": "2025-03-12T08:22:35.531Z",
       "ID": "1741767681103"
     }
+  ],
+  "2025-04-01": [
+    {
+      "name": "Johan Roos",
+      "time": "11:30",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0707930790",
+      "email": "johan.roos@interferry.com",
+      "status": "requested",
+      "bookingTime": "2025-03-13T15:32:24.091Z",
+      "ID": "1741879900170"
+    }
   ]
 }
