@@ -3030,5 +3030,21 @@
       "bookingTime": "2025-03-16T10:21:08.253Z",
       "ID": "1742120395488"
     }
+  ],
+  "2025-03-28": [
+    {
+      "name": "Lars antehag",
+      "time": "19:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703787894",
+      "email": "lars.antehag@skanska.se",
+      "status": "requested",
+      "bookingTime": "2025-03-16T16:08:44.733Z",
+      "ID": "1742141234036"
+    }
   ]
 }
