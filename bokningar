@@ -3046,5 +3046,21 @@
       "bookingTime": "2025-03-16T16:08:44.733Z",
       "ID": "1742141234036"
     }
+  ],
+  "2025-04-24": [
+    {
+      "name": "Göran Madbro",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0706151200",
+      "email": "gmadbro@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-03-16T18:07:01.037Z",
+      "ID": "1742148359944"
+    }
   ]
 }
