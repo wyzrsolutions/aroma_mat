@@ -3090,5 +3090,21 @@
       "bookingTime": "2025-03-16T18:07:01.037Z",
       "ID": "1742148359944"
     }
+  ],
+  "2025-03-18": [
+    {
+      "name": "Oliver Thulin",
+      "time": "19:00",
+      "guests": 5,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0727121887",
+      "email": "Oliver@thulins.com",
+      "status": "requested",
+      "bookingTime": "2025-03-18T15:53:54.990Z",
+      "ID": "1742313186809"
+    }
   ]
 }
