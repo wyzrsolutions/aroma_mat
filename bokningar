@@ -3122,5 +3122,21 @@
       "bookingTime": "2025-03-18T18:13:07.815Z",
       "ID": "1742321517728"
     }
+  ],
+  "2025-03-22": [
+    {
+      "name": "Henrik Östlund",
+      "time": "17:00",
+      "guests": 5,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703246555",
+      "email": "oestlund@outlook.com",
+      "status": "requested",
+      "bookingTime": "2025-03-19T18:05:19.445Z",
+      "ID": "1742407379169"
+    }
   ]
 }
