@@ -2609,6 +2609,20 @@
       "status": "accepted",
       "bookingTime": "2025-03-22T18:53:38.390Z",
       "ID": "1742669136237"
+    },
+    {
+      "name": "Sif Olgeirsdottir",
+      "time": "17:00",
+      "guests": 5,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0736164730",
+      "email": "scarpinio@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-03-23T15:01:12.150Z",
+      "ID": "1742742021032"
     }
   ],
   "2025-02-27": [
