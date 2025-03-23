@@ -3266,5 +3266,21 @@
       "bookingTime": "2025-03-22T10:38:11.671Z",
       "ID": "1742639850265"
     }
+  ],
+  "2025-03-24": [
+    {
+      "name": "Sylwia Siljegren",
+      "time": "17:00",
+      "guests": 4,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0760529555",
+      "email": "sylwia1@live.se",
+      "status": "requested",
+      "bookingTime": "2025-03-23T22:06:21.305Z",
+      "ID": "1742767514009"
+    }
   ]
 }
