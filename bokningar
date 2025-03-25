@@ -3298,5 +3298,21 @@
       "bookingTime": "2025-03-25T07:45:46.814Z",
       "ID": "1742888068593"
     }
+  ],
+  "2025-03-26": [
+    {
+      "name": "Birgitta Wemmert",
+      "time": "15:30",
+      "guests": 3,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0706023825",
+      "email": "Birgitta.wemmert@telia.com",
+      "status": "requested",
+      "bookingTime": "2025-03-25T19:24:46.602Z",
+      "ID": "1742930612219"
+    }
   ]
 }
