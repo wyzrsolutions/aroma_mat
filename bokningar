@@ -3282,5 +3282,21 @@
       "bookingTime": "2025-03-23T22:06:21.305Z",
       "ID": "1742767514009"
     }
+  ],
+  "2025-03-27": [
+    {
+      "name": "Therese Jaramillo",
+      "time": "12:00",
+      "guests": 6,
+      "comment": "Vi önskar fakturera maten, vi är ett gäng kollegor från Växjö kommun som är på studiebesök i Helsingborg. Är detta möjligt? Återkoppla gärna på mail vad ni behöver ha från oss!",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703456674",
+      "email": "Therese.Jaramillo@vaxjo.se",
+      "status": "requested",
+      "bookingTime": "2025-03-25T07:45:46.814Z",
+      "ID": "1742888068593"
+    }
   ]
 }
