@@ -3297,6 +3297,20 @@
       "status": "accepted",
       "bookingTime": "2025-03-25T07:45:46.814Z",
       "ID": "1742888068593"
+    },
+    {
+      "name": "Ingrid Haraldsson",
+      "time": "16:30",
+      "guests": "",
+      "comment": "Hej! Har tidigare bokat till 13 personer, men vi blir bara 10 (eventuellt tillkommer en så vi blir 11). Kan jag återkomma imorgon om vi blir 11? ",
+      "extra": "",
+      "preorder": "1x Evergreen Sallad, 5x Grillad Laxfilé, 2x Skaldjursrisotto, 1x Frutti Di Mare, 1x Pomodoro Scampi con Spinaci, 1x Diavolo1x Evergreen Sallad, 4x Grillad Laxfilé, 2x Skaldjursrisotto, 1x Frutti Di Mare, 1x Pomodoro Scampi con Spinaci, 1x Diavolo",
+      "price": 1810,
+      "phone": "0721634910",
+      "email": "dirgniharaldsson@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-03-26T14:43:59.486Z",
+      "ID": "1742998764368"
     }
   ],
   "2025-03-26": [
