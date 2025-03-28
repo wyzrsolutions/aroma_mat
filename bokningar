@@ -3357,6 +3357,20 @@
       "status": "accepted",
       "bookingTime": "2025-03-26T12:59:49.522Z",
       "ID": "1742993834165"
+    },
+    {
+      "name": "Lena Persson",
+      "time": "17:30",
+      "guests": 2,
+      "comment": "Jag försökte boka bord i onsdags till kl 18 den 2/4. Har dock inte fått någon bekräftelse per mail. Så försöker nu därför boka kl 17,30. Bara så att det inte blir en dubbelbokning...\n\"Sitter gärna så att man kan prata i lugn och ro\".",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0709746470",
+      "email": "lenasivbritt@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-03-28T10:37:11.881Z",
+      "ID": "1743157814130"
     }
   ],
   "2025-04-13": [
