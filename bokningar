@@ -3592,5 +3592,21 @@
       "bookingTime": "2025-04-02T11:45:04.824Z",
       "ID": "1743594238453"
     }
+  ],
+  "2025-04-03": [
+    {
+      "name": "Andreas Viding ",
+      "time": "17:00",
+      "guests": 4,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0708226591",
+      "email": "andreas_viding@yahoo.se",
+      "status": "requested",
+      "bookingTime": "2025-04-02T19:24:38.682Z",
+      "ID": "1743621818865"
+    }
   ]
 }
