@@ -3665,6 +3665,20 @@
       "status": "accepted",
       "bookingTime": "2025-04-04T17:09:59.289Z",
       "ID": "1743785660335"
+    },
+    {
+      "name": "Anton Nordgren",
+      "time": "18:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0734062610",
+      "email": "nordgrenanton.vbg@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-04-05T11:33:17.692Z",
+      "ID": "1743852470365"
     }
   ]
 }
