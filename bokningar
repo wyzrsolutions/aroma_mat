@@ -3710,5 +3710,21 @@
       "bookingTime": "2025-04-05T18:56:51.563Z",
       "ID": "1743879348897"
     }
+  ],
+  "2025-04-12": [
+    {
+      "name": "Ida",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0708971662",
+      "email": "Ida.Fotiadis@icloud.com",
+      "status": "requested",
+      "bookingTime": "2025-04-06T11:19:04.711Z",
+      "ID": "1743938273394"
+    }
   ]
 }
