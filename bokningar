@@ -3598,7 +3598,7 @@
       "price": 0,
       "phone": "0701557333",
       "email": "kalle.chridell@hemocue.se",
-      "status": "accepted",
+      "status": "declined",
       "bookingTime": "2025-04-01T10:52:13.789Z",
       "ID": "1743504669203"
     }
