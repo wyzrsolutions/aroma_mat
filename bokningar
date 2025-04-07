@@ -3591,10 +3591,10 @@
     {
       "name": "Kalle Chridell",
       "time": "19:00",
-      "guests": 4,
+      "guests": "4",
       "comment": "",
       "extra": "",
-      "preorder": "",
+      "preorder": [],
       "price": 0,
       "phone": "0701557333",
       "email": "kalle.chridell@hemocue.se",
