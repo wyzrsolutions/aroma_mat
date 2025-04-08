@@ -3555,6 +3555,20 @@
       "status": "accepted",
       "bookingTime": "2025-03-26T18:50:33.633Z",
       "ID": "1743014935123"
+    },
+    {
+      "name": "Lotta Lindberg",
+      "time": "19:00",
+      "guests": 3,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0767773342",
+      "email": "lotta.lindberg@lappset.com",
+      "status": "requested",
+      "bookingTime": "2025-04-08T18:50:54.184Z",
+      "ID": "1744138217598"
     }
   ],
   "2025-04-11": [
