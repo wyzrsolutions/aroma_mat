@@ -2297,20 +2297,6 @@
       "status": "accepted",
       "bookingTime": "2025-04-15T15:58:08.263Z",
       "ID": "1744732580101"
-    },
-    {
-      "name": "Thomas Tuomenoksa",
-      "time": "19:00",
-      "guests": 2,
-      "comment": "",
-      "extra": "",
-      "preorder": "",
-      "price": 0,
-      "phone": "0739243647",
-      "email": "thotu84@gmail.com",
-      "status": "requested",
-      "bookingTime": "2025-04-18T17:03:12.442Z",
-      "ID": "1744995186461"
     }
   ],
   "2025-02-18": [
@@ -4078,7 +4064,7 @@
       "price": 0,
       "phone": "0736172279",
       "email": "mia0526jonsson@yahoo.se",
-      "status": "requested",
+      "status": "accepted",
       "bookingTime": "2025-04-18T16:52:53.524Z",
       "ID": "1744995073315"
     }
