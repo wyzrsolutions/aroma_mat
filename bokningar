@@ -3345,10 +3345,10 @@
     {
       "name": "Frane Mikulandra",
       "time": "13:30",
-      "guests": 1,
+      "guests": "1",
       "comment": "",
       "extra": "",
-      "preorder": "1x Ossobuco Beef, 1x Cola/Fanta/7-up/Pepsi/Juice 33cl1x Ossobuco Beef, 1x Cola/Fanta/7-up/Pepsi/Juice 33cl",
+      "preorder": [],
       "price": 259,
       "phone": "0998235405",
       "email": "franemikula@gmail.com",
