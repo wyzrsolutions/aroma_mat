@@ -4418,5 +4418,21 @@
       "bookingTime": "2025-04-27T13:48:27.238Z",
       "ID": "1745761403705"
     }
+  ],
+  "2025-04-28": [
+    {
+      "name": "Marta",
+      "time": "19:30",
+      "guests": 5,
+      "comment": "Vi kanske blir nån mer, det beror på",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0707758944",
+      "email": "martafjallstrom@yahoo.se",
+      "status": "requested",
+      "bookingTime": "2025-04-27T17:38:35.869Z",
+      "ID": "1745775431832"
+    }
   ]
 }
