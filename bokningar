@@ -4402,5 +4402,21 @@
       "bookingTime": "2025-04-23T18:43:45.891Z",
       "ID": "1745433620682"
     }
+  ],
+  "2025-05-02": [
+    {
+      "name": "Smilla",
+      "time": "19:00",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0701683739",
+      "email": "smillafredriksson3@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-04-27T13:48:27.238Z",
+      "ID": "1745761403705"
+    }
   ]
 }
