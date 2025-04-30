@@ -4237,6 +4237,20 @@
       "status": "accepted",
       "bookingTime": "2025-04-29T19:56:23.349Z",
       "ID": "1745956480858"
+    },
+    {
+      "name": "My Wahlgren ",
+      "time": "19:00",
+      "guests": 3,
+      "comment": "En i sällskapet tål ej gluten. ",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0760448115",
+      "email": "my.wahlgren@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-04-30T15:27:29.148Z",
+      "ID": "1746026765162"
     }
   ],
   "2025-04-20": [
