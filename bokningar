@@ -4552,5 +4552,21 @@
       "bookingTime": "2025-05-01T13:45:34.505Z",
       "ID": "1746107066495"
     }
+  ],
+  "2025-05-10": [
+    {
+      "name": "Nina Lundborg",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0724024710",
+      "email": "nina@wallakravvs.se",
+      "status": "requested",
+      "bookingTime": "2025-05-02T09:31:09.853Z",
+      "ID": "1746178225390"
+    }
   ]
 }
