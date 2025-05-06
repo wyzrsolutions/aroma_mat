@@ -4429,6 +4429,20 @@
       "status": "accepted",
       "bookingTime": "2025-04-23T18:43:45.891Z",
       "ID": "1745433620682"
+    },
+    {
+      "name": "Sofia Svensson",
+      "time": "20:30",
+      "guests": 2,
+      "comment": "Nej",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0706213792",
+      "email": "Sofiaflorist@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-06T16:15:05.016Z",
+      "ID": "1746547900901"
     }
   ],
   "2025-05-02": [
