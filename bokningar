@@ -4715,6 +4715,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-06T19:54:49.348Z",
       "ID": "1746561259250"
+    },
+    {
+      "name": "Alice Eriksson",
+      "time": "20:30",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0760220965",
+      "email": "alice.eriksson00@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-09T12:00:42.496Z",
+      "ID": "1746791985106"
     }
   ],
   "2025-05-16": [
