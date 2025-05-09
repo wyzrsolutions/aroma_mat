@@ -4729,6 +4729,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-09T12:00:42.496Z",
       "ID": "1746791985106"
+    },
+    {
+      "name": "Linus Brandt",
+      "time": "20:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0732223571",
+      "email": "linus.brandt@hotmail.se",
+      "status": "requested",
+      "bookingTime": "2025-05-09T13:20:36.961Z",
+      "ID": "1746796711439"
     }
   ],
   "2025-05-16": [
