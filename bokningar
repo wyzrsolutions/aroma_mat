@@ -4940,5 +4940,21 @@
       "bookingTime": "2025-05-15T12:54:55.617Z",
       "ID": "1747313669853"
     }
+  ],
+  "2025-05-27": [
+    {
+      "name": "Marcus Isaksson",
+      "time": "20:00",
+      "guests": 10,
+      "comment": "",
+      "extra": "Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0702804088",
+      "email": "Marcus@caleidoscope.se",
+      "status": "requested",
+      "bookingTime": "2025-05-15T19:40:07.211Z",
+      "ID": "1747337909741"
+    }
   ]
 }
