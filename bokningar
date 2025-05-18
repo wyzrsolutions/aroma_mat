@@ -4561,6 +4561,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-16T08:02:02.055Z",
       "ID": "1747382475509"
+    },
+    {
+      "name": "Ingrid Ericson",
+      "time": "18:30",
+      "guests": 6,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703873605",
+      "email": "Info@cozystyle.se",
+      "status": "requested",
+      "bookingTime": "2025-05-18T11:48:15.476Z",
+      "ID": "1747568771040"
     }
   ],
   "2025-05-01": [
