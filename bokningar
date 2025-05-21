@@ -5041,6 +5041,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-19T20:47:13.813Z",
       "ID": "1747687607004"
+    },
+    {
+      "name": "Marcus  Fredenholm",
+      "time": "13:00",
+      "guests": 10,
+      "comment": "1 barnstol",
+      "extra": "Barnstol",
+      "preorder": "",
+      "price": 0,
+      "phone": "0762788451",
+      "email": "sm.fredenholm@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-21T08:19:24.879Z",
+      "ID": "1747815519650"
     }
   ]
 }
