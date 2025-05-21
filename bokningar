@@ -5056,5 +5056,21 @@
       "bookingTime": "2025-05-21T08:19:24.879Z",
       "ID": "1747815519650"
     }
+  ],
+  "2025-05-23": [
+    {
+      "name": "Nikolai",
+      "time": "19:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0721595399",
+      "email": "nikolai.alvarez.lonn@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-21T19:47:54.225Z",
+      "ID": "1747856823951"
+    }
   ]
 }
