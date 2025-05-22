@@ -5100,5 +5100,21 @@
       "bookingTime": "2025-05-22T00:23:39.484Z",
       "ID": "1747873315388"
     }
+  ],
+  "2025-05-24": [
+    {
+      "name": "Cecilia Sigvardsson ",
+      "time": "19:00",
+      "guests": 5,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0739811075",
+      "email": "cissisigvard@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-22T18:19:59.569Z",
+      "ID": "1747937915251"
+    }
   ]
 }
