@@ -5129,6 +5129,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-22T18:19:59.569Z",
       "ID": "1747937915251"
+    },
+    {
+      "name": "Sigge",
+      "time": "19:30",
+      "guests": 2,
+      "comment": "gärna bord vid fönster",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0705957441",
+      "email": "siggeba@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-23T16:45:15.237Z",
+      "ID": "1748018662901"
     }
   ]
 }
