@@ -5143,6 +5143,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-23T16:45:15.237Z",
       "ID": "1748018662901"
+    },
+    {
+      "name": "Sanna Johansson",
+      "time": "17:30",
+      "guests": 8,
+      "comment": "",
+      "extra": "Barnstol, Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0767141987",
+      "email": "Sannajohansson92@outlook.com",
+      "status": "requested",
+      "bookingTime": "2025-05-24T09:47:49.509Z",
+      "ID": "1748079896179"
     }
   ]
 }
