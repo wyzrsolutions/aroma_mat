@@ -5302,5 +5302,21 @@
       "bookingTime": "2025-05-25T11:50:24.525Z",
       "ID": "1748173747266"
     }
+  ],
+  "2025-05-30": [
+    {
+      "name": "Therese Sandström ",
+      "time": "17:30",
+      "guests": 3,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0708476553",
+      "email": "therese_gustavss@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-25T15:05:41.262Z",
+      "ID": "1748185474222"
+    }
   ]
 }
