@@ -5111,6 +5111,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-24T23:48:35.657Z",
       "ID": "1748129845835"
+    },
+    {
+      "name": "Ellinor Lyredal",
+      "time": "12:30",
+      "guests": 2,
+      "comment": "Morsdag",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0760483541",
+      "email": "ellinor_hbg@live.se",
+      "status": "requested",
+      "bookingTime": "2025-05-25T09:53:34.259Z",
+      "ID": "1748166765496"
     }
   ],
   "2025-05-23": [
