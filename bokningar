@@ -5446,5 +5446,21 @@
       "bookingTime": "2025-05-27T15:35:00.761Z",
       "ID": "1748360057112"
     }
+  ],
+  "2025-06-01": [
+    {
+      "name": "Linus Danielsson",
+      "time": "19:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0702500497",
+      "email": "linus.danielsson@outlook.com",
+      "status": "requested",
+      "bookingTime": "2025-05-27T15:59:30.783Z",
+      "ID": "1748361492962"
+    }
   ]
 }
