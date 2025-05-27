@@ -5402,5 +5402,21 @@
       "bookingTime": "2025-05-27T06:31:30.983Z",
       "ID": "1748327462300"
     }
+  ],
+  "2025-05-28": [
+    {
+      "name": "Nina Vang",
+      "time": "18:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0736323230",
+      "email": "nina.vang4812@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-27T08:45:57.845Z",
+      "ID": "1748335339205"
+    }
   ]
 }
