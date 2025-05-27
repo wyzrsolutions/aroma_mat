@@ -5341,6 +5341,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-27T08:31:36.818Z",
       "ID": "1748334637074"
+    },
+    {
+      "name": "Ann-Kristine Nannskog",
+      "time": "12:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0768490127",
+      "email": "a-k.nannskog@telia.com",
+      "status": "requested",
+      "bookingTime": "2025-05-27T17:13:49.397Z",
+      "ID": "1748365920787"
     }
   ],
   "2025-06-05": [
