@@ -5369,6 +5369,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-28T14:48:55.190Z",
       "ID": "1748443706833"
+    },
+    {
+      "name": "Monica Friström ",
+      "time": "11:30",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0704670966",
+      "email": "monnamie.mo@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-28T15:53:08.217Z",
+      "ID": "1748447538557"
     }
   ],
   "2025-06-05": [
