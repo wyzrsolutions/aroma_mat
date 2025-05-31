@@ -5589,6 +5589,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-31T10:40:53.270Z",
       "ID": "1748688006802"
+    },
+    {
+      "name": "Katarina Reineck",
+      "time": "19:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0793328068",
+      "email": "katarinareineck1@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-31T14:04:58.081Z",
+      "ID": "1748700244256"
     }
   ]
 }
