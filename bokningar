@@ -5603,6 +5603,20 @@
       "status": "accepted",
       "bookingTime": "2025-05-31T14:04:58.081Z",
       "ID": "1748700244256"
+    },
+    {
+      "name": "Jonas Svensson",
+      "time": "19:30",
+      "guests": 4,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0734121833",
+      "email": "Njcs001@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-05-31T14:53:43.620Z",
+      "ID": "1748703149199"
     }
   ]
 }
