@@ -5676,5 +5676,21 @@
       "bookingTime": "2025-06-01T02:00:51.642Z",
       "ID": "1748742887778"
     }
+  ],
+  "2025-06-03": [
+    {
+      "name": "Fredrik weibull",
+      "time": "12:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0763141633",
+      "email": "weibull.fredrik@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-06-02T16:28:57.521Z",
+      "ID": "1748881720639"
+    }
   ]
 }
