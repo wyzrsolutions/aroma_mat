@@ -5708,5 +5708,21 @@
       "bookingTime": "2025-06-03T07:10:22.553Z",
       "ID": "1748934568532"
     }
+  ],
+  "2025-06-09": [
+    {
+      "name": "Andrea ",
+      "time": "11:00",
+      "guests": 2,
+      "comment": "Jag kommer med min kompis som är vegetarian, och sitter i rullstol ",
+      "extra": "Rullstol, Födelsedag",
+      "preorder": "",
+      "price": 0,
+      "phone": "0763001895",
+      "email": "Vossgustafsson@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-06-03T08:58:09.306Z",
+      "ID": "1748940948400"
+    }
   ]
 }
