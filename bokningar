@@ -5770,5 +5770,21 @@
       "bookingTime": "2025-06-04T08:43:25.896Z",
       "ID": "1749026519754"
     }
+  ],
+  "2025-06-06": [
+    {
+      "name": "Helene Thulander",
+      "time": "13:00",
+      "guests": 5,
+      "comment": "Gärna fönster plats ",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0737724278",
+      "email": "helenethulander@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-06-04T18:16:52.815Z",
+      "ID": "1749060950710"
+    }
   ]
 }
