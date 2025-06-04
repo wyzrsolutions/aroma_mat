@@ -5740,5 +5740,21 @@
       "bookingTime": "2025-06-03T13:00:43.992Z",
       "ID": "1748955615410"
     }
+  ],
+  "2025-06-08": [
+    {
+      "name": "Gunnel Sjöberg ",
+      "time": "19:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0705262638",
+      "email": "Sjobergg0@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-06-04T08:43:25.896Z",
+      "ID": "1749026519754"
+    }
   ]
 }
