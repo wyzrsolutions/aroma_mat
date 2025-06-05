@@ -5827,6 +5827,20 @@
       "status": "accepted",
       "bookingTime": "2025-06-04T18:16:52.815Z",
       "ID": "1749060950710"
+    },
+    {
+      "name": "Ann-Louise Smedberg",
+      "time": "19:00",
+      "guests": 9,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0705562860",
+      "email": "bjorko@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-06-05T19:14:41.497Z",
+      "ID": "1749150854009"
     }
   ]
 }
