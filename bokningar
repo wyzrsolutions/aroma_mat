@@ -5884,5 +5884,21 @@
       "bookingTime": "2025-06-06T15:57:15.675Z",
       "ID": "1749224812385"
     }
+  ],
+  "2025-06-07": [
+    {
+      "name": "Johan Hollsten",
+      "time": "17:30",
+      "guests": 10,
+      "comment": "Behöver 1 barnstol",
+      "extra": "Barnstol",
+      "preorder": "",
+      "price": 0,
+      "phone": "0728571838",
+      "email": "Joca1747@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-06-07T12:45:59.208Z",
+      "ID": "1749300289882"
+    }
   ]
 }
