@@ -5915,6 +5915,20 @@
       "status": "accepted",
       "bookingTime": "2025-06-09T19:19:54.964Z",
       "ID": "1749496684197"
+    },
+    {
+      "name": "Emilia Andersson",
+      "time": "18:30",
+      "guests": 10,
+      "comment": "Hej. Jag försökte boka bord igår, men det var något som strulade så jag fick ingen bekräftelse. Jag har försökt ringa, men numret på hemsidan funkar inte. Denna bokning (10 personer) ersätter de två bokningar som jag försökte göra för 12 personer till kl 18). Finns det möjlighet, så skulle vi gärna vilja komma kl 18. Mvh/Emilia ",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0709909609",
+      "email": "emiliaandersson@hotmail.com",
+      "status": "requested",
+      "bookingTime": "2025-06-10T16:19:28.290Z",
+      "ID": "1749572071025"
     }
   ],
   "2025-06-10": [
