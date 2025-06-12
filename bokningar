@@ -5974,5 +5974,21 @@
       "bookingTime": "2025-06-10T06:29:59.900Z",
       "ID": "1749536936516"
     }
+  ],
+  "2025-06-13": [
+    {
+      "name": "Christer Öhman ",
+      "time": "16:30",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0703330031",
+      "email": "Christer@ohmaninvest.se",
+      "status": "requested",
+      "bookingTime": "2025-06-12T07:05:55.116Z",
+      "ID": "1749711882077"
+    }
   ]
 }
