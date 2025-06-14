@@ -4931,6 +4931,20 @@
       "status": "accepted",
       "bookingTime": "2025-06-11T10:12:34.780Z",
       "ID": "1749636701277"
+    },
+    {
+      "name": "Fredrik Wessbro",
+      "time": "19:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0708722058",
+      "email": "feffewessbro@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-06-14T16:25:30.006Z",
+      "ID": "1749918157849"
     }
   ],
   "2025-05-17": [
