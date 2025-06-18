@@ -6078,5 +6078,21 @@
       "bookingTime": "2025-06-16T18:23:11.061Z",
       "ID": "1750098143974"
     }
+  ],
+  "2025-07-30": [
+    {
+      "name": "Jana Vlkova",
+      "time": "14:00",
+      "guests": "5",
+      "comment": "",
+      "extra": "",
+      "preorder": [],
+      "price": 0,
+      "phone": "",
+      "email": "",
+      "status": "accepted",
+      "bookingTime": "2025-06-18T13:40:29.936Z",
+      "ID": "1750254029935"
+    }
   ]
 }
