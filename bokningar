@@ -5841,10 +5841,10 @@
     {
       "name": "Alexis",
       "time": "19:30",
-      "guests": 2,
+      "guests": "2",
       "comment": "",
       "extra": "",
-      "preorder": "",
+      "preorder": [],
       "price": 0,
       "phone": "0737889922",
       "email": "Sennevallalexis@gmail.com",
