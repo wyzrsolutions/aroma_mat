@@ -6175,6 +6175,20 @@
       "status": "accepted",
       "bookingTime": "2025-06-22T11:15:38.045Z",
       "ID": "1750590786757"
+    },
+    {
+      "name": "Valerie iljin",
+      "time": "20:00",
+      "guests": 2,
+      "comment": "Sitta så man ser ut, helst där man ser vatten eller gatan.",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0704950696",
+      "email": "Valerie.iljin@laholm.se",
+      "status": "requested",
+      "bookingTime": "2025-06-22T13:07:20.308Z",
+      "ID": "1750597538870"
     }
   ],
   "2025-07-30": [
