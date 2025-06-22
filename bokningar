@@ -6147,6 +6147,20 @@
       "status": "accepted",
       "bookingTime": "2025-06-16T18:23:11.061Z",
       "ID": "1750098143974"
+    },
+    {
+      "name": "Albin Hagman",
+      "time": "19:00",
+      "guests": 2,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0768283996",
+      "email": "albinhagman11@gmail.com",
+      "status": "requested",
+      "bookingTime": "2025-06-22T09:53:28.012Z",
+      "ID": "1750585966672"
     }
   ],
   "2025-07-30": [
