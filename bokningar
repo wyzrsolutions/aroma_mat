@@ -6252,5 +6252,21 @@
       "bookingTime": "2025-06-23T17:53:01.684Z",
       "ID": "1750701094996"
     }
+  ],
+  "2025-06-24": [
+    {
+      "name": "Stina Bjärshag",
+      "time": "18:30",
+      "guests": 6,
+      "comment": "",
+      "extra": "",
+      "preorder": "",
+      "price": 0,
+      "phone": "0733390468",
+      "email": "stina.bjarshag@logoit.se",
+      "status": "requested",
+      "bookingTime": "2025-06-24T14:15:11.512Z",
+      "ID": "1750774450234"
+    }
   ]
 }
